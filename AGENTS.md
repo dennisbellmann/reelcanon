@@ -1,0 +1,4 @@
+# Project-specific design rules
+
+- Create every new collection poster in the canonical Reel Canon editorial style documented in [`frontend/public/artwork/README.md`](frontend/public/artwork/README.md). Match the cream paper, fine charcoal frame, restrained rust/gold accents, centered geometric cinema illustration, and legible integrated serif title used by the Halloween and Oscar posters. Prefer a clean, editable SVG and keep important text readable at collection-card size.
+- Treat the poster itself as collection identity: include its title, and set `posterTitleEmbedded`/“Titel ist bereits im Poster enthalten” accordingly when configuring a collection. Avoid photographic collages, licensed film stills, and visual styles outside this system unless the user explicitly asks for a deliberate exception.

@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://reelcanon.local/contracts/canon-snapshot.schema.json",
+  "title": "Reel Canon normalized snapshot",
+  "type": "object",
+  "required": [
+    "format",
+    "canon",
+    "editionLabel",
+    "retrievedAt",
+    "entries"
+  ],
+  "properties": {
+    "format": {
+      "const": "canon-snapshot/v1"
+    },
+    "canon": {
+      "type": "object",
+      "required": [
+        "slug",
+        "name",
+        "sourceUrl"
+      ],
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "presentation": {
+          "type": "object",
+          "required": [
+            "position",
+            "posterUrl",
+            "titleEmbedded"
+          ],
+          "properties": {
+            "position": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "posterUrl": {
+              "type": "string",
+              "pattern": "^(/artwork/|https://)"
+            },
+            "titleEmbedded": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "editionLabel": {
+      "type": "string",
+      "minLength": 1
+    },
+    "retrievedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sourceContentHash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "position",
+          "sourceTitle"
+        ],
+        "properties": {
+          "imdbId": {
+            "type": "string",
+            "pattern": "^(?:tt[0-9]{7,10})?$"
+          },
+          "tmdbId": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "position": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "sourceTitle": {
+            "type": "string",
+            "minLength": 1
+          },
+          "releaseYear": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1888,
+            "maximum": 2100
+          },
+          "imdbRating": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 10
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

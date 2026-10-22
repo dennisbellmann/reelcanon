@@ -1,0 +1,6205 @@
+{
+  "format": "canon-snapshot/v1",
+  "canon": {
+    "slug": "1001-movies-2024",
+    "name": "1001 Filme · Ausgabe 2024",
+    "description": "15. deutschsprachige Ausgabe (November 2024), chronologische Reihenfolge. Die dokumentierte Quelle führt 1.031 einzelne Filmaufzeichnungen.",
+    "sourceUrl": "https://de.wikipedia.org/wiki/1001_Movies_You_Must_See_Before_You_Die",
+    "presentation": {
+      "position": 4,
+      "posterUrl": "/artwork/1001-movies-2024.svg",
+      "titleEmbedded": true
+    }
+  },
+  "editionLabel": "2024-deutsch",
+  "retrievedAt": "2026-10-09T17:03:58.517Z",
+  "sourceContentHash": "149e3e65c3288fe8452913a1d5748c3f6c730d1f89b16ccf9060e51a4ef27ed6",
+  "entries": [
+    {
+      "imdbId": "tt0000417",
+      "position": 1,
+      "sourceTitle": "Die Reise zum Mond",
+      "releaseYear": 1902
+    },
+    {
+      "imdbId": "tt0000439",
+      "position": 2,
+      "sourceTitle": "Der große Eisenbahnraub",
+      "releaseYear": 1903
+    },
+    {
+      "imdbId": "tt0004972",
+      "position": 3,
+      "sourceTitle": "Die Geburt einer Nation",
+      "releaseYear": 1915
+    },
+    {
+      "imdbId": "tt0006206",
+      "position": 4,
+      "sourceTitle": "Die Vampire",
+      "releaseYear": 1915
+    },
+    {
+      "imdbId": "tt0006864",
+      "position": 5,
+      "sourceTitle": "Intoleranz",
+      "releaseYear": 1916
+    },
+    {
+      "imdbId": "tt0009968",
+      "position": 6,
+      "sourceTitle": "Gebrochene Blüten",
+      "releaseYear": 1919
+    },
+    {
+      "imdbId": "tt0010323",
+      "position": 7,
+      "sourceTitle": "Das Cabinet des Dr. Caligari",
+      "releaseYear": 1920
+    },
+    {
+      "imdbId": "tt0011870",
+      "position": 8,
+      "sourceTitle": "Within Our Gates",
+      "releaseYear": 1920
+    },
+    {
+      "imdbId": "tt0012532",
+      "position": 9,
+      "sourceTitle": "Zwei Waisen im Sturm",
+      "releaseYear": 1921
+    },
+    {
+      "imdbId": "tt0012364",
+      "position": 10,
+      "sourceTitle": "Der Fuhrmann des Todes",
+      "releaseYear": 1921
+    },
+    {
+      "imdbId": "tt0013086",
+      "position": 11,
+      "sourceTitle": "Dr. Mabuse, der Spieler",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0013427",
+      "position": 12,
+      "sourceTitle": "Nanuk, der Eskimo",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0013442",
+      "position": 13,
+      "sourceTitle": "Nosferatu – Eine Symphonie des Grauens",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0013257",
+      "position": 14,
+      "sourceTitle": "Hexen",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0013140",
+      "position": 15,
+      "sourceTitle": "Törichte Frauen",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0013626",
+      "position": 16,
+      "sourceTitle": "Madame Beudets sonniges Lächeln",
+      "releaseYear": 1923
+    },
+    {
+      "imdbId": "tt0014341",
+      "position": 17,
+      "sourceTitle": "Verflixte Gastfreundschaft",
+      "releaseYear": 1923
+    },
+    {
+      "imdbId": "tt0014417",
+      "position": 18,
+      "sourceTitle": "La Roue",
+      "releaseYear": 1923
+    },
+    {
+      "imdbId": "tt0015064",
+      "position": 19,
+      "sourceTitle": "Der letzte Mann",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0015324",
+      "position": 20,
+      "sourceTitle": "Sherlock, jr.",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt1764657",
+      "position": 21,
+      "sourceTitle": "The Great White Silence",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0015881",
+      "position": 22,
+      "sourceTitle": "Gier",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0015400",
+      "position": 23,
+      "sourceTitle": "Der Dieb von Bagdad",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0015361",
+      "position": 24,
+      "sourceTitle": "Streik",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0015772",
+      "position": 25,
+      "sourceTitle": "Der Adler",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0016220",
+      "position": 26,
+      "sourceTitle": "Das Phantom der Oper",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0015648",
+      "position": 27,
+      "sourceTitle": "Panzerkreuzer Potemkin",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0015864",
+      "position": 28,
+      "sourceTitle": "Goldrausch",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0015624",
+      "position": 29,
+      "sourceTitle": "Die große Parade",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0015532",
+      "position": 30,
+      "sourceTitle": "Die Abenteuer des Prinzen Achmed",
+      "releaseYear": 1926
+    },
+    {
+      "imdbId": "tt0017925",
+      "position": 31,
+      "sourceTitle": "Der General",
+      "releaseYear": 1926
+    },
+    {
+      "imdbId": "tt0017136",
+      "position": 32,
+      "sourceTitle": "Metropolis",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018455",
+      "position": 33,
+      "sourceTitle": "Sonnenaufgang – Lied von zwei Menschen",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018528",
+      "position": 34,
+      "sourceTitle": "The Unknown – Der Unbekannte",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018037",
+      "position": 35,
+      "sourceTitle": "Der Jazzsänger",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018192",
+      "position": 36,
+      "sourceTitle": "Napoleon",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018051",
+      "position": 37,
+      "sourceTitle": "Der kleine Bruder",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018217",
+      "position": 38,
+      "sourceTitle": "Oktober",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0018806",
+      "position": 39,
+      "sourceTitle": "Ein Mensch der Masse",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0018839",
+      "position": 40,
+      "sourceTitle": "Die Docks von New York",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0019254",
+      "position": 41,
+      "sourceTitle": "Die Passion der Jungfrau von Orléans",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0019421",
+      "position": 42,
+      "sourceTitle": "Steamboat Bill, jr.",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0019286",
+      "position": 43,
+      "sourceTitle": "Sturm über Asien",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0020530",
+      "position": 44,
+      "sourceTitle": "Ein andalusischer Hund",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0020286",
+      "position": 45,
+      "sourceTitle": "Schicksalswürfel",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0019760",
+      "position": 46,
+      "sourceTitle": "Der Mann mit der Kamera",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0018737",
+      "position": 47,
+      "sourceTitle": "Die Büchse der Pandora",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0019702",
+      "position": 48,
+      "sourceTitle": "Erpressung",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0021577",
+      "position": 49,
+      "sourceTitle": "Das goldene Zeitalter",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0020629",
+      "position": 50,
+      "sourceTitle": "Im Westen nichts Neues",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0020697",
+      "position": 51,
+      "sourceTitle": "Der blaue Engel",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0021571",
+      "position": 52,
+      "sourceTitle": "Erde",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0021079",
+      "position": 53,
+      "sourceTitle": "Der kleine Cäsar",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022599",
+      "position": 54,
+      "sourceTitle": "Es lebe die Freiheit",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022080",
+      "position": 55,
+      "sourceTitle": "Limit",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022458",
+      "position": 56,
+      "sourceTitle": "Tabu",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0021749",
+      "position": 57,
+      "sourceTitle": "Lichter der Großstadt",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0021814",
+      "position": 58,
+      "sourceTitle": "Dracula",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0021884",
+      "position": 59,
+      "sourceTitle": "Frankenstein",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022286",
+      "position": 60,
+      "sourceTitle": "Der öffentliche Feind",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022100",
+      "position": 61,
+      "sourceTitle": "M",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0023649",
+      "position": 62,
+      "sourceTitle": "Vampyr – Der Traum des Allan Gray",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023042",
+      "position": 63,
+      "sourceTitle": "Jagd auf James A.",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0022718",
+      "position": 64,
+      "sourceTitle": "Boudu – aus den Wassern gerettet",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023158",
+      "position": 65,
+      "sourceTitle": "Schönste, liebe mich",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023458",
+      "position": 66,
+      "sourceTitle": "Shanghai-Express",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023622",
+      "position": 67,
+      "sourceTitle": "Ärger im Paradies",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023427",
+      "position": 68,
+      "sourceTitle": "Scarface",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0022913",
+      "position": 69,
+      "sourceTitle": "Freaks",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0024034",
+      "position": 70,
+      "sourceTitle": "Die 42. Straße",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024028",
+      "position": 71,
+      "sourceTitle": "Parade im Rampenlicht",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0023814",
+      "position": 72,
+      "sourceTitle": "The Bitter Tea of General Yen",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024548",
+      "position": 73,
+      "sourceTitle": "Sie tat ihm unrecht",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0023969",
+      "position": 74,
+      "sourceTitle": "Die Marx Brothers im Krieg",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024803",
+      "position": 75,
+      "sourceTitle": "Betragen ungenügend",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024069",
+      "position": 76,
+      "sourceTitle": "Goldgräber von 1933",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024216",
+      "position": 77,
+      "sourceTitle": "King Kong und die weiße Frau",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0023037",
+      "position": 78,
+      "sourceTitle": "Las Hurdes – Land ohne Brot",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024601",
+      "position": 79,
+      "sourceTitle": "Laurel und Hardy: Die Wüstensöhne",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0024481",
+      "position": 80,
+      "sourceTitle": "Königin Christine",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0025318",
+      "position": 81,
+      "sourceTitle": "Das ist geschenkt",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0195256",
+      "position": 82,
+      "sourceTitle": "Shen nü – Die Göttliche",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0025316",
+      "position": 83,
+      "sourceTitle": "Es geschah in einer Nacht",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0024844",
+      "position": 84,
+      "sourceTitle": "Atalante",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0024894",
+      "position": 85,
+      "sourceTitle": "Die schwarze Katze",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0025878",
+      "position": 86,
+      "sourceTitle": "Der dünne Mann",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0026029",
+      "position": 87,
+      "sourceTitle": "Die 39 Stufen",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0025913",
+      "position": 88,
+      "sourceTitle": "Triumph des Willens",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0026752",
+      "position": 89,
+      "sourceTitle": "Meuterei auf der Bounty",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0026778",
+      "position": 90,
+      "sourceTitle": "Skandal in der Oper",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0026138",
+      "position": 91,
+      "sourceTitle": "Frankensteins Braut",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0026174",
+      "position": 92,
+      "sourceTitle": "Unter Piratenflagge",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0027125",
+      "position": 93,
+      "sourceTitle": "Ich tanz’ mich in dein Herz hinein",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0026866",
+      "position": 94,
+      "sourceTitle": "Peter Ibbetson",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0027977",
+      "position": 95,
+      "sourceTitle": "Moderne Zeiten",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028333",
+      "position": 96,
+      "sourceTitle": "Swing Time",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0027996",
+      "position": 97,
+      "sourceTitle": "Mr. Deeds geht in die Stadt",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028010",
+      "position": 98,
+      "sourceTitle": "Mein Mann Godfrey",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028201",
+      "position": 99,
+      "sourceTitle": "Roman eines Schwindlers",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028683",
+      "position": 100,
+      "sourceTitle": "Die Kameliendame",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028358",
+      "position": 101,
+      "sourceTitle": "Was kommen wird",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0027532",
+      "position": 102,
+      "sourceTitle": "Zeit der Liebe, Zeit des Abschieds",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028445",
+      "position": 103,
+      "sourceTitle": "Eine Landpartie",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0028597",
+      "position": 104,
+      "sourceTitle": "Die schreckliche Wahrheit",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029453",
+      "position": 105,
+      "sourceTitle": "Pépé le Moko – Im Dunkel von Algier",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029192",
+      "position": 106,
+      "sourceTitle": "Kein Platz für Eltern",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0028950",
+      "position": 107,
+      "sourceTitle": "Die große Illusion",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029608",
+      "position": 108,
+      "sourceTitle": "Stella Dallas",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0206442",
+      "position": 109,
+      "sourceTitle": "Ye ban ge sheng",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029583",
+      "position": 110,
+      "sourceTitle": "Schneewittchen und die sieben Zwerge",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0028691",
+      "position": 111,
+      "sourceTitle": "Manuel",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029146",
+      "position": 112,
+      "sourceTitle": "Das Leben des Emile Zola",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0029843",
+      "position": 113,
+      "sourceTitle": "Robin Hood, König der Vagabunden",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0029870",
+      "position": 114,
+      "sourceTitle": "Chicago – Engel mit schmutzigen Gesichtern",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0030287",
+      "position": 115,
+      "sourceTitle": "Jezebel – Die boshafte Lady",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0030127",
+      "position": 116,
+      "sourceTitle": "Die Frau des Bäckers",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0029947",
+      "position": 117,
+      "sourceTitle": "Leoparden küßt man nicht",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0030522",
+      "position": 118,
+      "sourceTitle": "Olympia",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0030341",
+      "position": 119,
+      "sourceTitle": "Eine Dame verschwindet",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0032145",
+      "position": 120,
+      "sourceTitle": "Sturmhöhe",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031679",
+      "position": 121,
+      "sourceTitle": "Mr. Smith geht nach Washington",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031971",
+      "position": 122,
+      "sourceTitle": "Ringo",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031762",
+      "position": 123,
+      "sourceTitle": "S.O.S. Feuer an Bord",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031225",
+      "position": 124,
+      "sourceTitle": "Der große Bluff",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031381",
+      "position": 125,
+      "sourceTitle": "Vom Winde verweht",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031514",
+      "position": 126,
+      "sourceTitle": "Der Tag bricht an",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031398",
+      "position": 127,
+      "sourceTitle": "Aufstand in Sidi Hakim",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031725",
+      "position": 128,
+      "sourceTitle": "Ninotschka",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0032138",
+      "position": 129,
+      "sourceTitle": "Der Zauberer von Oz",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0031885",
+      "position": 130,
+      "sourceTitle": "Die Spielregel",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0032156",
+      "position": 131,
+      "sourceTitle": "Zangiku monogatari",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0032599",
+      "position": 132,
+      "sourceTitle": "Sein Mädchen für besondere Fälle",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032455",
+      "position": 133,
+      "sourceTitle": "Fantasia",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032976",
+      "position": 134,
+      "sourceTitle": "Rebecca",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032904",
+      "position": 135,
+      "sourceTitle": "Die Nacht vor der Hochzeit",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032551",
+      "position": 136,
+      "sourceTitle": "Früchte des Zorns",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032811",
+      "position": 137,
+      "sourceTitle": "Tödlicher Sturm",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032234",
+      "position": 138,
+      "sourceTitle": "Der Bankdetektiv",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0032910",
+      "position": 139,
+      "sourceTitle": "Pinocchio",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0033467",
+      "position": 140,
+      "sourceTitle": "Citizen Kane",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0034167",
+      "position": 141,
+      "sourceTitle": "Sergeant York",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0033804",
+      "position": 142,
+      "sourceTitle": "Die Falschspielerin",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0034398",
+      "position": 143,
+      "sourceTitle": "Der Wolfsmensch",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0033717",
+      "position": 144,
+      "sourceTitle": "Entscheidung in der Sierra",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0033729",
+      "position": 145,
+      "sourceTitle": "Schlagende Wetter",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0034240",
+      "position": 146,
+      "sourceTitle": "Sullivans Reisen",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0033870",
+      "position": 147,
+      "sourceTitle": "Die Spur des Falken",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0033563",
+      "position": 148,
+      "sourceTitle": "Dumbo",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0035169",
+      "position": 149,
+      "sourceTitle": "Atemlos nach Florida",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035140",
+      "position": 150,
+      "sourceTitle": "Reise aus der Vergangenheit",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035446",
+      "position": 151,
+      "sourceTitle": "Sein oder Nichtsein",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035015",
+      "position": 152,
+      "sourceTitle": "Der Glanz des Hauses Amberson",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035575",
+      "position": 153,
+      "sourceTitle": "Yankee Doodle Dandy",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035093",
+      "position": 154,
+      "sourceTitle": "Mrs. Miniver",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0034583",
+      "position": 155,
+      "sourceTitle": "Casablanca",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0034587",
+      "position": 156,
+      "sourceTitle": "Katzenmenschen",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0035881",
+      "position": 157,
+      "sourceTitle": "Fires Were Started",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036244",
+      "position": 158,
+      "sourceTitle": "Ritt zum Ox-Bow",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036112",
+      "position": 159,
+      "sourceTitle": "Leben und Sterben des Colonel Blimp",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036154",
+      "position": 160,
+      "sourceTitle": "Meshes of the Afternoon",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036341",
+      "position": 161,
+      "sourceTitle": "The Seventh Victim",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036135",
+      "position": 162,
+      "sourceTitle": "Der Herr in Grau",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0036342",
+      "position": 163,
+      "sourceTitle": "Im Schatten des Zweifels",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0035160",
+      "position": 164,
+      "sourceTitle": "Besessenheit",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0037008",
+      "position": 165,
+      "sourceTitle": "Laura",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0037059",
+      "position": 166,
+      "sourceTitle": "Meet Me in St. Louis",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0037382",
+      "position": 167,
+      "sourceTitle": "Haben und Nichthaben",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0036855",
+      "position": 168,
+      "sourceTitle": "Das Haus der Lady Alquist",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0036910",
+      "position": 169,
+      "sourceTitle": "Heinrich V.",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0036775",
+      "position": 170,
+      "sourceTitle": "Frau ohne Gewissen",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0037101",
+      "position": 171,
+      "sourceTitle": "Murder, My Sweet",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0037824",
+      "position": 172,
+      "sourceTitle": "Iwan der Schreckliche I",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037913",
+      "position": 173,
+      "sourceTitle": "Solange ein Herz schlägt",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037638",
+      "position": 174,
+      "sourceTitle": "Umleitung",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037800",
+      "position": 175,
+      "sourceTitle": "Ich weiß wohin ich gehe",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037884",
+      "position": 176,
+      "sourceTitle": "Das verlorene Wochenende",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037674",
+      "position": 177,
+      "sourceTitle": "Kinder des Olymp",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0036630",
+      "position": 178,
+      "sourceTitle": "Die Schlacht um San Pietro",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0037558",
+      "position": 179,
+      "sourceTitle": "Begegnung",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0038890",
+      "position": 180,
+      "sourceTitle": "Rom, offene Stadt",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0036868",
+      "position": 181,
+      "sourceTitle": "Die besten Jahre unseres Lebens",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038823",
+      "position": 182,
+      "sourceTitle": "Paisà",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038854",
+      "position": 183,
+      "sourceTitle": "Im Netz der Leidenschaften",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038348",
+      "position": 184,
+      "sourceTitle": "Es war einmal",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038669",
+      "position": 185,
+      "sourceTitle": "Rächer der Unterwelt",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038650",
+      "position": 186,
+      "sourceTitle": "Ist das Leben nicht schön?",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038355",
+      "position": 187,
+      "sourceTitle": "Tote schlafen fest",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038559",
+      "position": 188,
+      "sourceTitle": "Gilda",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038733",
+      "position": 189,
+      "sourceTitle": "Irrtum im Jenseits",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038574",
+      "position": 190,
+      "sourceTitle": "Geheimnisvolle Erbschaft",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038762",
+      "position": 191,
+      "sourceTitle": "Faustrecht der Prärie",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038787",
+      "position": 192,
+      "sourceTitle": "Berüchtigt",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0039192",
+      "position": 193,
+      "sourceTitle": "Die schwarze Narzisse",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0039689",
+      "position": 194,
+      "sourceTitle": "Goldenes Gift",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0039631",
+      "position": 195,
+      "sourceTitle": "Monsieur Verdoux – Der Frauenmörder von Paris",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0039677",
+      "position": 196,
+      "sourceTitle": "Ausgestoßen",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0040766",
+      "position": 197,
+      "sourceTitle": "Geheimnis hinter der Tür",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0040525",
+      "position": 198,
+      "sourceTitle": "Die Lady von Shanghai",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0040522",
+      "position": 199,
+      "sourceTitle": "Fahrraddiebe",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040536",
+      "position": 200,
+      "sourceTitle": "Brief einer Unbekannten",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040366",
+      "position": 201,
+      "sourceTitle": "Die Macht des Bösen",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0189219",
+      "position": 202,
+      "sourceTitle": "Xiao cheng zhi chun",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040724",
+      "position": 203,
+      "sourceTitle": "Red River",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040679",
+      "position": 204,
+      "sourceTitle": "Sein Engel mit den zwei Pistolen",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040806",
+      "position": 205,
+      "sourceTitle": "Die Schlangengrube",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040746",
+      "position": 206,
+      "sourceTitle": "Cocktail für eine Leiche",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040725",
+      "position": 207,
+      "sourceTitle": "Die roten Schuhe",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040897",
+      "position": 208,
+      "sourceTitle": "Der Schatz der Sierra Madre",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0040550",
+      "position": 209,
+      "sourceTitle": "Louisiana-Legende",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0041090",
+      "position": 210,
+      "sourceTitle": "Ehekrieg",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0041786",
+      "position": 211,
+      "sourceTitle": "Schweigegeld für Liebesbriefe",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0042041",
+      "position": 212,
+      "sourceTitle": "Sprung in den Tod",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0041452",
+      "position": 213,
+      "sourceTitle": "Die Erbin",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0041959",
+      "position": 214,
+      "sourceTitle": "Der dritte Mann",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0041546",
+      "position": 215,
+      "sourceTitle": "Adel verpflichtet",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0042040",
+      "position": 216,
+      "sourceTitle": "Freut euch des Lebens",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0041716",
+      "position": 217,
+      "sourceTitle": "Heut’ gehn wir bummeln",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0042192",
+      "position": 218,
+      "sourceTitle": "Alles über Eva",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042208",
+      "position": 219,
+      "sourceTitle": "Asphalt-Dschungel",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042530",
+      "position": 220,
+      "sourceTitle": "Gefährliche Leidenschaft",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0041719",
+      "position": 221,
+      "sourceTitle": "Orpheus",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042876",
+      "position": 222,
+      "sourceTitle": "Rashomon – Das Lustwäldchen",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0043137",
+      "position": 223,
+      "sourceTitle": "Winchester ’73",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042895",
+      "position": 224,
+      "sourceTitle": "Rio Grande",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0043014",
+      "position": 225,
+      "sourceTitle": "Boulevard der Dämmerung",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042804",
+      "position": 226,
+      "sourceTitle": "Die Vergessenen",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0042593",
+      "position": 227,
+      "sourceTitle": "Ein einsamer Ort",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0043338",
+      "position": 228,
+      "sourceTitle": "Reporter des Satans",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0043265",
+      "position": 229,
+      "sourceTitle": "African Queen",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0043278",
+      "position": 230,
+      "sourceTitle": "Ein Amerikaner in Paris",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0044079",
+      "position": 231,
+      "sourceTitle": "Der Fremde im Zug",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0044081",
+      "position": 232,
+      "sourceTitle": "Endstation Sehnsucht",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0043899",
+      "position": 233,
+      "sourceTitle": "Pandora und der Fliegende Holländer",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0043924",
+      "position": 234,
+      "sourceTitle": "Ein Platz an der Sonne",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0044829",
+      "position": 235,
+      "sourceTitle": "Das Glück kam über Nacht",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0042619",
+      "position": 236,
+      "sourceTitle": "Tagebuch eines Landpfarrers",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0043456",
+      "position": 237,
+      "sourceTitle": "Der Tag, an dem die Erde stillstand",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0045061",
+      "position": 238,
+      "sourceTitle": "Der Sieger",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0043686",
+      "position": 239,
+      "sourceTitle": "Verbotene Spiele",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0043511",
+      "position": 240,
+      "sourceTitle": "Europa 51",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0045152",
+      "position": 241,
+      "sourceTitle": "Du sollst mein Glücksstern sein",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0044391",
+      "position": 242,
+      "sourceTitle": "Stadt der Illusionen",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0044741",
+      "position": 243,
+      "sourceTitle": "Einmal wirklich leben",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0045274",
+      "position": 244,
+      "sourceTitle": "Umberto D.",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0044706",
+      "position": 245,
+      "sourceTitle": "Zwölf Uhr mittags",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0044487",
+      "position": 246,
+      "sourceTitle": "Die goldene Karosse",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0046345",
+      "position": 247,
+      "sourceTitle": "Die Zeit mit Monika",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046187",
+      "position": 248,
+      "sourceTitle": "Polizei greift ein",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0045537",
+      "position": 249,
+      "sourceTitle": "Vorhang auf!",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046487",
+      "position": 250,
+      "sourceTitle": "Die Ferien des Monsieur Hulot",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046022",
+      "position": 251,
+      "sourceTitle": "Madame de …",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046268",
+      "position": 252,
+      "sourceTitle": "Lohn der Angst",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0045557",
+      "position": 253,
+      "sourceTitle": "The Bigamist",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0044953",
+      "position": 254,
+      "sourceTitle": "Nackte Gewalt",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046438",
+      "position": 255,
+      "sourceTitle": "Die Reise nach Tokyo",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0045793",
+      "position": 256,
+      "sourceTitle": "Verdammt in alle Ewigkeit",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046478",
+      "position": 257,
+      "sourceTitle": "Ugetsu – Erzählungen unter dem Regenmond",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046303",
+      "position": 258,
+      "sourceTitle": "Mein großer Freund Shane",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0045810",
+      "position": 259,
+      "sourceTitle": "Blondinen bevorzugt",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046250",
+      "position": 260,
+      "sourceTitle": "Ein Herz und eine Krone",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0045555",
+      "position": 261,
+      "sourceTitle": "Heißes Eisen",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0046511",
+      "position": 262,
+      "sourceTitle": "Liebe ist stärker",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047296",
+      "position": 263,
+      "sourceTitle": "Die Faust im Nacken",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047528",
+      "position": 264,
+      "sourceTitle": "La Strada – Das Lied der Straße",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047522",
+      "position": 265,
+      "sourceTitle": "Ein neuer Stern am Himmel",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047396",
+      "position": 266,
+      "sourceTitle": "Das Fenster zum Hof",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047469",
+      "position": 267,
+      "sourceTitle": "Sehnsucht",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047495",
+      "position": 268,
+      "sourceTitle": "Stadt der Verdammten",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0046754",
+      "position": 269,
+      "sourceTitle": "Die barfüßige Gräfin",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047478",
+      "position": 270,
+      "sourceTitle": "Die sieben Samurai",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047445",
+      "position": 271,
+      "sourceTitle": "Sansho Dayu – Ein Leben ohne Freiheit",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0046828",
+      "position": 272,
+      "sourceTitle": "Carmen Jones",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047136",
+      "position": 273,
+      "sourceTitle": "Johnny Guitar – Wenn Frauen hassen",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047443",
+      "position": 274,
+      "sourceTitle": "Salt of the Earth",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0047811",
+      "position": 275,
+      "sourceTitle": "Was der Himmel erlaubt",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0047849",
+      "position": 276,
+      "sourceTitle": "Stadt in Angst",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0046911",
+      "position": 277,
+      "sourceTitle": "Die Teuflischen",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048308",
+      "position": 278,
+      "sourceTitle": "Lola Montez",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048473",
+      "position": 279,
+      "sourceTitle": "Apus Weg ins Leben: Auf der Straße",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048452",
+      "position": 280,
+      "sourceTitle": "Das Wort",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048356",
+      "position": 281,
+      "sourceTitle": "Marty",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0047840",
+      "position": 282,
+      "sourceTitle": "Maler und Mädchen",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048545",
+      "position": 283,
+      "sourceTitle": "… denn sie wissen nicht, was sie tun",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048363",
+      "position": 284,
+      "sourceTitle": "Les maîtres fous",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048121",
+      "position": 285,
+      "sourceTitle": "Giv'a 24 Eina Ona",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048488",
+      "position": 286,
+      "sourceTitle": "Eine Stadt geht durch die Hölle",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048347",
+      "position": 287,
+      "sourceTitle": "Der Mann mit dem goldenen Arm",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048261",
+      "position": 288,
+      "sourceTitle": "Rattennest",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048140",
+      "position": 289,
+      "sourceTitle": "Schwere Jungs – leichte Mädchen",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048424",
+      "position": 290,
+      "sourceTitle": "Die Nacht des Jägers",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048281",
+      "position": 291,
+      "sourceTitle": "Ladykillers",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048445",
+      "position": 292,
+      "sourceTitle": "Oklahoma!",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048641",
+      "position": 293,
+      "sourceTitle": "Das Lächeln einer Sommernacht",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048434",
+      "position": 294,
+      "sourceTitle": "Nacht und Nebel",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0047892",
+      "position": 295,
+      "sourceTitle": "Drei Uhr nachts",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049833",
+      "position": 296,
+      "sourceTitle": "Die zehn Gebote",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049730",
+      "position": 297,
+      "sourceTitle": "Der schwarze Falke",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049012",
+      "position": 298,
+      "sourceTitle": "Freunde bis zum letzten",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049223",
+      "position": 299,
+      "sourceTitle": "Alarm im Weltall",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049966",
+      "position": 300,
+      "sourceTitle": "In den Wind geschrieben",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049902",
+      "position": 301,
+      "sourceTitle": "Ein zum Tode Verurteilter ist entflohen",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049010",
+      "position": 302,
+      "sourceTitle": "Eine Handvoll Hoffnung",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049366",
+      "position": 303,
+      "sourceTitle": "Die Dämonischen",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049261",
+      "position": 304,
+      "sourceTitle": "Giganten",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0051207",
+      "position": 305,
+      "sourceTitle": "Der falsche Mann",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0049314",
+      "position": 306,
+      "sourceTitle": "Die oberen Zehntausend",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0048956",
+      "position": 307,
+      "sourceTitle": "Apus Weg ins Leben: Der Unbesiegbare",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0050083",
+      "position": 308,
+      "sourceTitle": "Die zwölf Geschworenen",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050613",
+      "position": 309,
+      "sourceTitle": "Das Schloss im Spinnwebwald",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050825",
+      "position": 310,
+      "sourceTitle": "Wege zum Ruhm",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050105",
+      "position": 311,
+      "sourceTitle": "Die große Liebe meines Lebens",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050976",
+      "position": 312,
+      "sourceTitle": "Das siebente Siegel",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050986",
+      "position": 313,
+      "sourceTitle": "Wilde Erdbeeren",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050539",
+      "position": 314,
+      "sourceTitle": "Die unglaubliche Geschichte des Mister C.",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050468",
+      "position": 315,
+      "sourceTitle": "Zwei rechnen ab",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050783",
+      "position": 316,
+      "sourceTitle": "Die Nächte der Cabiria",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050634",
+      "position": 317,
+      "sourceTitle": "Die Kraniche ziehen",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050212",
+      "position": 318,
+      "sourceTitle": "Die Brücke am Kwai",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0051036",
+      "position": 319,
+      "sourceTitle": "Dein Schicksal in meiner Hand",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0050188",
+      "position": 320,
+      "sourceTitle": "Mother India",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0052080",
+      "position": 321,
+      "sourceTitle": "Asche und Diamant",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051390",
+      "position": 322,
+      "sourceTitle": "Tatort… Hauptbahnhof Kairo",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0052311",
+      "position": 323,
+      "sourceTitle": "Im Zeichen des Bösen",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051658",
+      "position": 324,
+      "sourceTitle": "Gigi",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051525",
+      "position": 325,
+      "sourceTitle": "Flucht in Ketten",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051899",
+      "position": 326,
+      "sourceTitle": "Der Mann aus dem Westen",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0052357",
+      "position": 327,
+      "sourceTitle": "Vertigo – Aus dem Reich der Toten",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051792",
+      "position": 328,
+      "sourceTitle": "Das Musikzimmer",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0050706",
+      "position": 329,
+      "sourceTitle": "Mein Onkel",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0052218",
+      "position": 330,
+      "sourceTitle": "Verdammt sind sie alle",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0051554",
+      "position": 331,
+      "sourceTitle": "Dracula",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0053198",
+      "position": 332,
+      "sourceTitle": "Sie küßten und sie schlugen ihn",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0052561",
+      "position": 333,
+      "sourceTitle": "Anatomie eines Mordes",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0052572",
+      "position": 334,
+      "sourceTitle": "Apus Weg ins Leben: Apus Welt",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053291",
+      "position": 335,
+      "sourceTitle": "Manche mögen’s heiß",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053125",
+      "position": 336,
+      "sourceTitle": "Der unsichtbare Dritte",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053168",
+      "position": 337,
+      "sourceTitle": "Pickpocket",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0052893",
+      "position": 338,
+      "sourceTitle": "Hiroshima, mon amour",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053220",
+      "position": 339,
+      "sourceTitle": "Auf eigene Faust",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053146",
+      "position": 340,
+      "sourceTitle": "Orfeu Negro",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0052618",
+      "position": 341,
+      "sourceTitle": "Ben Hur",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053270",
+      "position": 342,
+      "sourceTitle": "Schatten",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053221",
+      "position": 343,
+      "sourceTitle": "Rio Bravo",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053390",
+      "position": 344,
+      "sourceTitle": "Abschied in der Dämmerung",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053472",
+      "position": 345,
+      "sourceTitle": "Außer Atem",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0053619",
+      "position": 346,
+      "sourceTitle": "Die mit der Liebe spielen",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0053604",
+      "position": 347,
+      "sourceTitle": "Das Appartement",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0053459",
+      "position": 348,
+      "sourceTitle": "Augen ohne Gesicht",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054269",
+      "position": 349,
+      "sourceTitle": "Samstagnacht bis Sonntagmorgen",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0053779",
+      "position": 350,
+      "sourceTitle": "Das süße Leben",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054407",
+      "position": 351,
+      "sourceTitle": "Das Loch",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054248",
+      "position": 352,
+      "sourceTitle": "Rocco und seine Brüder",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054331",
+      "position": 353,
+      "sourceTitle": "Spartacus",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0150980",
+      "position": 354,
+      "sourceTitle": "Hanyo",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054073",
+      "position": 355,
+      "sourceTitle": "Der verborgene Stern",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054215",
+      "position": 356,
+      "sourceTitle": "Psycho",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054389",
+      "position": 357,
+      "sourceTitle": "Schießen Sie auf den Pianisten",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054167",
+      "position": 358,
+      "sourceTitle": "Augen der Angst",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0054067",
+      "position": 359,
+      "sourceTitle": "Die Stunde, wenn Dracula kommt",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0055471",
+      "position": 360,
+      "sourceTitle": "Fieber im Blut",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0055601",
+      "position": 361,
+      "sourceTitle": "Viridiana",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054698",
+      "position": 362,
+      "sourceTitle": "Frühstück bei Tiffany",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0055093",
+      "position": 363,
+      "sourceTitle": "Lola, das Mädchen aus dem Hafen",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054861",
+      "position": 364,
+      "sourceTitle": "The Exiles",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054130",
+      "position": 365,
+      "sourceTitle": "Die Nacht",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0055614",
+      "position": 366,
+      "sourceTitle": "West Side Story",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054997",
+      "position": 367,
+      "sourceTitle": "Haie der Großstadt",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0055069",
+      "position": 368,
+      "sourceTitle": "Ich bin noch zu haben",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0055499",
+      "position": 369,
+      "sourceTitle": "Wie in einem Spiegel",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054745",
+      "position": 370,
+      "sourceTitle": "Chronique d’un été",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0054632",
+      "position": 371,
+      "sourceTitle": "Letztes Jahr in Marienbad",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0056444",
+      "position": 372,
+      "sourceTitle": "Ein Herbstnachmittag",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056663",
+      "position": 373,
+      "sourceTitle": "Die Geschichte der Nana S.",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0055852",
+      "position": 374,
+      "sourceTitle": "Mittwoch zwischen 5 und 7",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056193",
+      "position": 375,
+      "sourceTitle": "Lolita",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056217",
+      "position": 376,
+      "sourceTitle": "Der Mann, der Liberty Valance erschoß",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056060",
+      "position": 377,
+      "sourceTitle": "Heaven and Earth Magic",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056172",
+      "position": 378,
+      "sourceTitle": "Lawrence von Arabien",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056592",
+      "position": 379,
+      "sourceTitle": "Wer die Nachtigall stört",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056322",
+      "position": 380,
+      "sourceTitle": "Fünfzig Stufen zur Gerechtigkeit",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056736",
+      "position": 381,
+      "sourceTitle": "Liebe 1962",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0057318",
+      "position": 382,
+      "sourceTitle": "Mondo Cane",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056732",
+      "position": 383,
+      "sourceTitle": "Der Würgeengel",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0055032",
+      "position": 384,
+      "sourceTitle": "Jules und Jim",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056197",
+      "position": 385,
+      "sourceTitle": "Der längste Tag",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056218",
+      "position": 386,
+      "sourceTitle": "Botschafter der Angst",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056687",
+      "position": 387,
+      "sourceTitle": "Was geschah wirklich mit Baby Jane?",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0056801",
+      "position": 388,
+      "sourceTitle": "Achteinhalb",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0056869",
+      "position": 389,
+      "sourceTitle": "Die Vögel",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0054159",
+      "position": 390,
+      "sourceTitle": "Die Passagierin",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057490",
+      "position": 391,
+      "sourceTitle": "Der Diener",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0054880",
+      "position": 392,
+      "sourceTitle": "Flaming Creatures",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0336693",
+      "position": 393,
+      "sourceTitle": "Das Haus ist schwarz",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057163",
+      "position": 394,
+      "sourceTitle": "Der Wildeste unter Tausend",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057091",
+      "position": 395,
+      "sourceTitle": "Der Leopard",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057654",
+      "position": 396,
+      "sourceTitle": "Vidas secas",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057495",
+      "position": 397,
+      "sourceTitle": "Schock-Korridor",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057345",
+      "position": 398,
+      "sourceTitle": "Die Verachtung",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0138329",
+      "position": 399,
+      "sourceTitle": "Blonde Cobra",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0056952",
+      "position": 400,
+      "sourceTitle": "The Cool World",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057372",
+      "position": 401,
+      "sourceTitle": "Der verrückte Professor",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057115",
+      "position": 402,
+      "sourceTitle": "Gesprengte Ketten",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0197719",
+      "position": 403,
+      "sourceTitle": "Méditerranée",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057710",
+      "position": 404,
+      "sourceTitle": "Yukinojo Henge",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0057129",
+      "position": 405,
+      "sourceTitle": "Bis das Blut gefriert",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt5896468",
+      "position": 406,
+      "sourceTitle": "Dog Star Man",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058150",
+      "position": 407,
+      "sourceTitle": "James Bond 007 – Goldfinger",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058385",
+      "position": 408,
+      "sourceTitle": "My Fair Lady",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058003",
+      "position": 409,
+      "sourceTitle": "Die rote Wüste",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058625",
+      "position": 410,
+      "sourceTitle": "Die Frau in den Dünen",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058329",
+      "position": 411,
+      "sourceTitle": "Marnie",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058333",
+      "position": 412,
+      "sourceTitle": "Satanas – Das Schloß der blutigen Bestie",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0056371",
+      "position": 413,
+      "sourceTitle": "Vor der Revolution",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0057012",
+      "position": 414,
+      "sourceTitle": "Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058006",
+      "position": 415,
+      "sourceTitle": "Deus e o Diabo na Terra do Sol",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058182",
+      "position": 416,
+      "sourceTitle": "Yeah! Yeah! Yeah!",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058450",
+      "position": 417,
+      "sourceTitle": "Die Regenschirme von Cherbourg",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058138",
+      "position": 418,
+      "sourceTitle": "Gertrud",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058331",
+      "position": 419,
+      "sourceTitle": "Mary Poppins",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058430",
+      "position": 420,
+      "sourceTitle": "Onibaba – Die Töterinnen",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058715",
+      "position": 421,
+      "sourceTitle": "Das 1. Evangelium – Matthäus",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0058642",
+      "position": 422,
+      "sourceTitle": "Schatten vergessener Ahnen",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0058555",
+      "position": 423,
+      "sourceTitle": "Scorpio Rising",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0058898",
+      "position": 424,
+      "sourceTitle": "Lemmy Caution gegen Alpha 60",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059527",
+      "position": 425,
+      "sourceTitle": "Das Geschäft in der Hauptstraße",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059113",
+      "position": 426,
+      "sourceTitle": "Doktor Schiwago",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059894",
+      "position": 427,
+      "sourceTitle": "The War Game",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059817",
+      "position": 428,
+      "sourceTitle": "Tokyo Orinpikku",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059229",
+      "position": 429,
+      "sourceTitle": "Julia und die Geister",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059742",
+      "position": 430,
+      "sourceTitle": "Meine Lieder – meine Träume",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059012",
+      "position": 431,
+      "sourceTitle": "Falstaff",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059170",
+      "position": 432,
+      "sourceTitle": "Die Satansweiber von Tittfield",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059880",
+      "position": 433,
+      "sourceTitle": "Vinyl",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059643",
+      "position": 434,
+      "sourceTitle": "Die Handschrift von Saragossa",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059646",
+      "position": 435,
+      "sourceTitle": "Ekel",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0059592",
+      "position": 436,
+      "sourceTitle": "Elf Uhr nachts",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0056537",
+      "position": 437,
+      "sourceTitle": "Subarnarekha",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0060474",
+      "position": 438,
+      "sourceTitle": "Drei Bruchpiloten in Paris",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060107",
+      "position": 439,
+      "sourceTitle": "Andrej Rubljow",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060138",
+      "position": 440,
+      "sourceTitle": "Zum Beispiel Balthasar",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0058946",
+      "position": 441,
+      "sourceTitle": "Schlacht um Algier",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0129222",
+      "position": 442,
+      "sourceTitle": "Der Mann, der sich die Haare kurz schneiden ließ",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060511",
+      "position": 443,
+      "sourceTitle": "Hold Me While I'm Naked",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0061184",
+      "position": 444,
+      "sourceTitle": "Wer hat Angst vor Virginia Woolf?",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060176",
+      "position": 445,
+      "sourceTitle": "Blow Up",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060959",
+      "position": 446,
+      "sourceTitle": "Tausendschönchen",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0059079",
+      "position": 447,
+      "sourceTitle": "Das Schwert der gelben Tigerin",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060955",
+      "position": 448,
+      "sourceTitle": "Der Mann, der zweimal lebte",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060196",
+      "position": 449,
+      "sourceTitle": "Zwei glorreiche Halunken",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060827",
+      "position": 450,
+      "sourceTitle": "Persona",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060675",
+      "position": 451,
+      "sourceTitle": "Masculin – Feminin oder: Die Kinder von Marx und Coca-Cola",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0060802",
+      "position": 452,
+      "sourceTitle": "Liebe nach Fahrplan",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0130976",
+      "position": 453,
+      "sourceTitle": "Report",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0060304",
+      "position": 454,
+      "sourceTitle": "Zwei oder drei Dinge, die ich von ihr weiß",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061395",
+      "position": 455,
+      "sourceTitle": "Belle de Jour – Schöne des Tages",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061512",
+      "position": 456,
+      "sourceTitle": "Der Unbeugsame",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062136",
+      "position": 457,
+      "sourceTitle": "Tatis herrliche Zeiten",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061537",
+      "position": 458,
+      "sourceTitle": "Sterne an den Mützen",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061722",
+      "position": 459,
+      "sourceTitle": "Die Reifeprüfung",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062138",
+      "position": 460,
+      "sourceTitle": "Point Blank",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062873",
+      "position": 461,
+      "sourceTitle": "Die Mädchen von Rochefort",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062480",
+      "position": 462,
+      "sourceTitle": "Weekend",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062229",
+      "position": 463,
+      "sourceTitle": "Der eiskalte Engel",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0127354",
+      "position": 464,
+      "sourceTitle": "Wavelength",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062352",
+      "position": 465,
+      "sourceTitle": "Terra em Transe",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061811",
+      "position": 466,
+      "sourceTitle": "In der Hitze der Nacht",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0063278",
+      "position": 467,
+      "sourceTitle": "Marketa Lazarová",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061781",
+      "position": 468,
+      "sourceTitle": "Der Feuerwehrball",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061852",
+      "position": 469,
+      "sourceTitle": "Das Dschungelbuch",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0061418",
+      "position": 470,
+      "sourceTitle": "Bonnie und Clyde",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062453",
+      "position": 471,
+      "sourceTitle": "Viy",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062864",
+      "position": 472,
+      "sourceTitle": "David Holzman’s Diary",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0063462",
+      "position": 473,
+      "sourceTitle": "Frühling für Hitler",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0062622",
+      "position": 474,
+      "sourceTitle": "2001: Odyssee im Weltraum",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064116",
+      "position": 475,
+      "sourceTitle": "Spiel mir das Lied vom Tod",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0062952",
+      "position": 476,
+      "sourceTitle": "Gesichter",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063442",
+      "position": 477,
+      "sourceTitle": "Planet der Affen",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063522",
+      "position": 478,
+      "sourceTitle": "Rosemaries Baby",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063850",
+      "position": 479,
+      "sourceTitle": "If …",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063291",
+      "position": 480,
+      "sourceTitle": "Memorias del subdesarrollo",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064429",
+      "position": 481,
+      "sourceTitle": "High School",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063759",
+      "position": 482,
+      "sourceTitle": "Die Stunde des Wolfs",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063350",
+      "position": 483,
+      "sourceTitle": "Die Nacht der lebenden Toten",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063671",
+      "position": 484,
+      "sourceTitle": "Bewegliche Ziele",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063611",
+      "position": 485,
+      "sourceTitle": "Schande",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0063555",
+      "position": 486,
+      "sourceTitle": "Die Farbe des Granatapfels",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064609",
+      "position": 487,
+      "sourceTitle": "Lucia",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064482",
+      "position": 488,
+      "sourceTitle": "In the Year of the Pig",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064356",
+      "position": 489,
+      "sourceTitle": "Die Kuh",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0065234",
+      "position": 490,
+      "sourceTitle": "Z",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064940",
+      "position": 491,
+      "sourceTitle": "Fellinis Satyricon",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064665",
+      "position": 492,
+      "sourceTitle": "Asphalt-Cowboy",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064115",
+      "position": 493,
+      "sourceTitle": "Zwei Banditen",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064276",
+      "position": 494,
+      "sourceTitle": "Easy Rider",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064541",
+      "position": 495,
+      "sourceTitle": "Kes",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0065214",
+      "position": 496,
+      "sourceTitle": "The Wild Bunch – Sie kannten kein Gesetz",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0064612",
+      "position": 497,
+      "sourceTitle": "Meine Nacht bei Maud",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0066904",
+      "position": 498,
+      "sourceTitle": "Das Haus nebenan – Chronik einer französischen Stadt im Kriege",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0066491",
+      "position": 499,
+      "sourceTitle": "Tristana",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065571",
+      "position": 500,
+      "sourceTitle": "Der große Irrtum",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0064106",
+      "position": 501,
+      "sourceTitle": "Der Schlachter",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0067866",
+      "position": 502,
+      "sourceTitle": "El Topo",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065724",
+      "position": 503,
+      "sourceTitle": "Five Easy Pieces – Ein Mann sucht sich selbst",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066122",
+      "position": 504,
+      "sourceTitle": "Deep End",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066413",
+      "position": 505,
+      "sourceTitle": "Die Strategie der Spinne",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066498",
+      "position": 506,
+      "sourceTitle": "Ucho",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065988",
+      "position": 507,
+      "sourceTitle": "Little Big Man",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066206",
+      "position": 508,
+      "sourceTitle": "Patton – Rebell in Uniform",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065143",
+      "position": 509,
+      "sourceTitle": "Das Geheimnis der schwarzen Handschuhe",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066026",
+      "position": 510,
+      "sourceTitle": "MASH",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066601",
+      "position": 511,
+      "sourceTitle": "Zabriskie Point",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066214",
+      "position": 512,
+      "sourceTitle": "Performance",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0066580",
+      "position": 513,
+      "sourceTitle": "Woodstock",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065780",
+      "position": 514,
+      "sourceTitle": "Gimme Shelter",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0065777",
+      "position": 515,
+      "sourceTitle": "Der Garten der Finzi Contini",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0067961",
+      "position": 516,
+      "sourceTitle": "Wanda",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0064451",
+      "position": 517,
+      "sourceTitle": "Ein Hauch von Zen",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0066999",
+      "position": 518,
+      "sourceTitle": "Dirty Harry",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0066921",
+      "position": 519,
+      "sourceTitle": "Uhrwerk Orange",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067411",
+      "position": 520,
+      "sourceTitle": "McCabe & Mrs. Miller",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067992",
+      "position": 521,
+      "sourceTitle": "Charlie und die Schokoladenfabrik",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0066993",
+      "position": 522,
+      "sourceTitle": "Die Teufel",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067204",
+      "position": 523,
+      "sourceTitle": "The Hired Hand",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067958",
+      "position": 524,
+      "sourceTitle": "WR – Mysterien des Organismus",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067959",
+      "position": 525,
+      "sourceTitle": "Walkabout",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067309",
+      "position": 526,
+      "sourceTitle": "Klute",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067185",
+      "position": 527,
+      "sourceTitle": "Harold und Maude",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067116",
+      "position": 528,
+      "sourceTitle": "Brennpunkt Brooklyn",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067128",
+      "position": 529,
+      "sourceTitle": "Jack rechnet ab",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067741",
+      "position": 530,
+      "sourceTitle": "Shaft",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067810",
+      "position": 531,
+      "sourceTitle": "Sweet Sweetbacks Lied",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067328",
+      "position": 532,
+      "sourceTitle": "Die letzte Vorstellung",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067778",
+      "position": 533,
+      "sourceTitle": "Herzflimmern",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067800",
+      "position": 534,
+      "sourceTitle": "Wer Gewalt sät",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067893",
+      "position": 535,
+      "sourceTitle": "Asphaltrennen",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0067541",
+      "position": 536,
+      "sourceTitle": "Ferien in der Hölle",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0068182",
+      "position": 537,
+      "sourceTitle": "Aguirre, der Zorn Gottes",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0067467",
+      "position": 538,
+      "sourceTitle": "Roter Psalm",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068473",
+      "position": 539,
+      "sourceTitle": "Beim Sterben ist jeder der Erste",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068327",
+      "position": 540,
+      "sourceTitle": "Cabaret",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069293",
+      "position": 541,
+      "sourceTitle": "Solaris",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069467",
+      "position": 542,
+      "sourceTitle": "Schreie und Flüstern",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068361",
+      "position": 543,
+      "sourceTitle": "Der diskrete Charme der Bourgeoisie",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068646",
+      "position": 544,
+      "sourceTitle": "Der Pate",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0070849",
+      "position": 545,
+      "sourceTitle": "Der letzte Tango in Paris",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068278",
+      "position": 546,
+      "sourceTitle": "Die bitteren Tränen der Petra von Kant",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068575",
+      "position": 547,
+      "sourceTitle": "Fat City",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068687",
+      "position": 548,
+      "sourceTitle": "Pferdewechsel in der Hochzeitsnacht",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0068611",
+      "position": 549,
+      "sourceTitle": "Frenzy",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069089",
+      "position": 550,
+      "sourceTitle": "Pink Flamingos",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069281",
+      "position": 551,
+      "sourceTitle": "Mord mit kleinen Fehlern",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069332",
+      "position": 552,
+      "sourceTitle": "Super Fly",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0070155",
+      "position": 553,
+      "sourceTitle": "The Harder They Come",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0069704",
+      "position": 554,
+      "sourceTitle": "American Graffiti",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070735",
+      "position": 555,
+      "sourceTitle": "Der Clou",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070359",
+      "position": 556,
+      "sourceTitle": "Die Mama und die Hure",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0068699",
+      "position": 557,
+      "sourceTitle": "Ein Fremder ohne Namen",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0069762",
+      "position": 558,
+      "sourceTitle": "Badlands – Zerschossene Träume",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070511",
+      "position": 559,
+      "sourceTitle": "Papillon",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070334",
+      "position": 560,
+      "sourceTitle": "Der Tod kennt keine Wiederkehr",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070917",
+      "position": 561,
+      "sourceTitle": "The Wicker Man",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070034",
+      "position": 562,
+      "sourceTitle": "Der Mann mit der Todeskralle",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070666",
+      "position": 563,
+      "sourceTitle": "Serpico",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0069995",
+      "position": 564,
+      "sourceTitle": "Wenn die Gondeln Trauer tragen",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070460",
+      "position": 565,
+      "sourceTitle": "Die amerikanische Nacht",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070379",
+      "position": 566,
+      "sourceTitle": "Hexenkessel",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070707",
+      "position": 567,
+      "sourceTitle": "Der Schläfer",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070047",
+      "position": 568,
+      "sourceTitle": "Der Exorzist",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0072962",
+      "position": 569,
+      "sourceTitle": "F wie Fälschung",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070518",
+      "position": 570,
+      "sourceTitle": "Pat Garrett jagt Billy the Kid",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070842",
+      "position": 571,
+      "sourceTitle": "Türkische Früchte",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070040",
+      "position": 572,
+      "sourceTitle": "Der Geist des Bienenstocks",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0070544",
+      "position": 573,
+      "sourceTitle": "La planète sauvage",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0071129",
+      "position": 574,
+      "sourceTitle": "Amarcord",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0071141",
+      "position": 575,
+      "sourceTitle": "Angst essen Seele auf",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0072308",
+      "position": 576,
+      "sourceTitle": "Flammendes Inferno",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071249",
+      "position": 577,
+      "sourceTitle": "Bring mir den Kopf von Alfredo Garcia",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071562",
+      "position": 578,
+      "sourceTitle": "Der Pate – Teil II",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071360",
+      "position": 579,
+      "sourceTitle": "Der Dialog",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071315",
+      "position": 580,
+      "sourceTitle": "Chinatown",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0072417",
+      "position": 581,
+      "sourceTitle": "Eine Frau unter Einfluß",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0072431",
+      "position": 582,
+      "sourceTitle": "Frankenstein Junior",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0072271",
+      "position": 583,
+      "sourceTitle": "Blutgericht in Texas",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071230",
+      "position": 584,
+      "sourceTitle": "Der wilde wilde Westen",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071381",
+      "position": 585,
+      "sourceTitle": "Céline und Julie fahren Boot",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0071411",
+      "position": 586,
+      "sourceTitle": "Dersu Usala",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072443",
+      "position": 587,
+      "sourceTitle": "Der Spiegel",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072684",
+      "position": 588,
+      "sourceTitle": "Barry Lyndon",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073629",
+      "position": 589,
+      "sourceTitle": "The Rocky Horror Picture Show",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073198",
+      "position": 590,
+      "sourceTitle": "Jeanne Dielman",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073800",
+      "position": 591,
+      "sourceTitle": "O Thiasos",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0071853",
+      "position": 592,
+      "sourceTitle": "Die Ritter der Kokosnuß",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072860",
+      "position": 593,
+      "sourceTitle": "Deewaar",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072890",
+      "position": 594,
+      "sourceTitle": "Hundstage",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073486",
+      "position": 595,
+      "sourceTitle": "Einer flog über das Kuckucksnest",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073363",
+      "position": 596,
+      "sourceTitle": "Manila",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072976",
+      "position": 597,
+      "sourceTitle": "Faustrecht der Freiheit",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073440",
+      "position": 598,
+      "sourceTitle": "Nashville",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073650",
+      "position": 599,
+      "sourceTitle": "Die 120 Tage von Sodom",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073540",
+      "position": 600,
+      "sourceTitle": "Picknick am Valentinstag",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073166",
+      "position": 601,
+      "sourceTitle": "India Song",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073195",
+      "position": 602,
+      "sourceTitle": "Der weiße Hai",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0073864",
+      "position": 603,
+      "sourceTitle": "Das alte Gewehr",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0074102",
+      "position": 604,
+      "sourceTitle": "Im Reich der Sinne",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074119",
+      "position": 605,
+      "sourceTitle": "Die Unbestechlichen",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074360",
+      "position": 606,
+      "sourceTitle": "Züchte Raben…",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074851",
+      "position": 607,
+      "sourceTitle": "Der Mann, der vom Himmel fiel",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0075029",
+      "position": 608,
+      "sourceTitle": "Der Texaner",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074749",
+      "position": 609,
+      "sourceTitle": "Die Ermordung eines chinesischen Buchmachers",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074958",
+      "position": 610,
+      "sourceTitle": "Network",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0074285",
+      "position": 611,
+      "sourceTitle": "Carrie – Des Satans jüngste Tochter",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0075314",
+      "position": 612,
+      "sourceTitle": "Taxi Driver",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0075148",
+      "position": 613,
+      "sourceTitle": "Rocky",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0075675",
+      "position": 614,
+      "sourceTitle": "Der amerikanische Freund",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0075686",
+      "position": 615,
+      "sourceTitle": "Der Stadtneurotiker",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0075404",
+      "position": 616,
+      "sourceTitle": "Aufstieg",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0075860",
+      "position": 617,
+      "sourceTitle": "Unheimliche Begegnung der dritten Art",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076299",
+      "position": 618,
+      "sourceTitle": "Die letzte Flut",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076759",
+      "position": 619,
+      "sourceTitle": "Krieg der Sterne",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0075276",
+      "position": 620,
+      "sourceTitle": "Stroszek",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0077309",
+      "position": 621,
+      "sourceTitle": "Ceddo",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076786",
+      "position": 622,
+      "sourceTitle": "Suspiria",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076725",
+      "position": 623,
+      "sourceTitle": "Schlafende Hunde",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076293",
+      "position": 624,
+      "sourceTitle": "Last Chants for a Slow Dance",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0075902",
+      "position": 625,
+      "sourceTitle": "Der Mann aus Marmor",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076666",
+      "position": 626,
+      "sourceTitle": "Saturday Night Fever",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0074486",
+      "position": 627,
+      "sourceTitle": "Eraserhead",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0076734",
+      "position": 628,
+      "sourceTitle": "Der Soldat von Oranien",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0077681",
+      "position": 629,
+      "sourceTitle": "Hügel der blutigen Augen",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0077405",
+      "position": 630,
+      "sourceTitle": "In der Glut des Südens",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077651",
+      "position": 631,
+      "sourceTitle": "Halloween – Die Nacht des Grauens",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077138",
+      "position": 632,
+      "sourceTitle": "Der Holzschuhbaum",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077318",
+      "position": 633,
+      "sourceTitle": "The Chant of Jimmie Blacksmith",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077416",
+      "position": 634,
+      "sourceTitle": "Die durch die Hölle gehen",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077402",
+      "position": 635,
+      "sourceTitle": "Zombie",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0078446",
+      "position": 636,
+      "sourceTitle": "Viel Rauch um nichts",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0077631",
+      "position": 637,
+      "sourceTitle": "Grease",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0078243",
+      "position": 638,
+      "sourceTitle": "Die 36 Kammern der Shaolin",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0076263",
+      "position": 639,
+      "sourceTitle": "Killer of Sheep",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0078748",
+      "position": 640,
+      "sourceTitle": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0078754",
+      "position": 641,
+      "sourceTitle": "Hinter dem Rampenlicht",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0078788",
+      "position": 642,
+      "sourceTitle": "Apocalypse Now",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079095",
+      "position": 643,
+      "sourceTitle": "Die Ehe der Maria Braun",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079641",
+      "position": 644,
+      "sourceTitle": "Nosferatu – Phantom der Nacht",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079944",
+      "position": 645,
+      "sourceTitle": "Stalker",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079470",
+      "position": 646,
+      "sourceTitle": "Das Leben des Brian",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079781",
+      "position": 647,
+      "sourceTitle": "Real Life",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0078902",
+      "position": 648,
+      "sourceTitle": "Vier irre Typen – Wir schaffen alle, uns schafft keiner",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0078841",
+      "position": 649,
+      "sourceTitle": "Willkommen Mr. Chance",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079522",
+      "position": 650,
+      "sourceTitle": "Manhattan",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079588",
+      "position": 651,
+      "sourceTitle": "Muppet Movie",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079010",
+      "position": 652,
+      "sourceTitle": "Christus kam nur bis Eboli",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079501",
+      "position": 653,
+      "sourceTitle": "Mad Max",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0078875",
+      "position": 654,
+      "sourceTitle": "Die Blechtrommel",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079367",
+      "position": 655,
+      "sourceTitle": "Reichtum ist keine Schande",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0079417",
+      "position": 656,
+      "sourceTitle": "Kramer gegen Kramer",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0080339",
+      "position": 657,
+      "sourceTitle": "Die unglaubliche Reise in einem verrückten Flugzeug",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0080388",
+      "position": 658,
+      "sourceTitle": "Atlantic City, USA",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0081283",
+      "position": 659,
+      "sourceTitle": "Eine ganz normale Familie",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0080684",
+      "position": 660,
+      "sourceTitle": "Das Imperium schlägt zurück",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0080610",
+      "position": 661,
+      "sourceTitle": "Die letzte Metro",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0081505",
+      "position": 662,
+      "sourceTitle": "Shining",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0080678",
+      "position": 663,
+      "sourceTitle": "Der Elefantenmensch",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0080437",
+      "position": 664,
+      "sourceTitle": "The Big Red One",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0081076",
+      "position": 665,
+      "sourceTitle": "Der Loulou",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0081398",
+      "position": 666,
+      "sourceTitle": "Wie ein wilder Stier",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0082010",
+      "position": 667,
+      "sourceTitle": "American Werewolf",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082269",
+      "position": 668,
+      "sourceTitle": "Diva",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082971",
+      "position": 669,
+      "sourceTitle": "Jäger des verlorenen Schatzes",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082096",
+      "position": 670,
+      "sourceTitle": "Das Boot",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082432",
+      "position": 671,
+      "sourceTitle": "Gallipoli",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082158",
+      "position": 672,
+      "sourceTitle": "Die Stunde des Siegers",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082089",
+      "position": 673,
+      "sourceTitle": "Heißblütig – Kaltblütig",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082949",
+      "position": 674,
+      "sourceTitle": "Der Profi",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082222",
+      "position": 675,
+      "sourceTitle": "Der Mann aus Eisen",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0082979",
+      "position": 676,
+      "sourceTitle": "Reds",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0083907",
+      "position": 677,
+      "sourceTitle": "Tanz der Teufel",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0083866",
+      "position": 678,
+      "sourceTitle": "E.T. – Der Außerirdische",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083929",
+      "position": 679,
+      "sourceTitle": "Ich glaub’, ich steh’ im Wald",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083230",
+      "position": 680,
+      "sourceTitle": "Zu früh, zu spät",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0084516",
+      "position": 681,
+      "sourceTitle": "Poltergeist",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0084934",
+      "position": 682,
+      "sourceTitle": "Yol – Der Weg",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083658",
+      "position": 683,
+      "sourceTitle": "Blade Runner",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083833",
+      "position": 684,
+      "sourceTitle": "American Diner",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0084805",
+      "position": 685,
+      "sourceTitle": "Tootsie",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083946",
+      "position": 686,
+      "sourceTitle": "Fitzcarraldo",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083987",
+      "position": 687,
+      "sourceTitle": "Gandhi",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0084787",
+      "position": 688,
+      "sourceTitle": "Das Ding aus einer anderen Welt",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083922",
+      "position": 689,
+      "sourceTitle": "Fanny und Alexander",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0084422",
+      "position": 690,
+      "sourceTitle": "La notte di San Lorenzo",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0086369",
+      "position": 691,
+      "sourceTitle": "De stilte rond Christine M.",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0083851",
+      "position": 692,
+      "sourceTitle": "Der Kontrakt des Zeichners",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0085809",
+      "position": 693,
+      "sourceTitle": "Koyaanisqatsi",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0085794",
+      "position": 694,
+      "sourceTitle": "The King of Comedy",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0085334",
+      "position": 695,
+      "sourceTitle": "Fröhliche Weihnachten",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0085180",
+      "position": 696,
+      "sourceTitle": "Das Geld",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086197",
+      "position": 697,
+      "sourceTitle": "Der Stoff, aus dem die Helden sind",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0085244",
+      "position": 698,
+      "sourceTitle": "Der große Frust",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0084628",
+      "position": 699,
+      "sourceTitle": "Sans Soleil – Unsichtbare Sonne",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086190",
+      "position": 700,
+      "sourceTitle": "Die Rückkehr der Jedi-Ritter",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0084390",
+      "position": 701,
+      "sourceTitle": "Die Ballade von Narayama",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086425",
+      "position": 702,
+      "sourceTitle": "Zeit der Zärtlichkeit",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0085482",
+      "position": 703,
+      "sourceTitle": "El Norte",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086543",
+      "position": 704,
+      "sourceTitle": "Der vierte Mann",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086541",
+      "position": 705,
+      "sourceTitle": "Videodrome",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086250",
+      "position": 706,
+      "sourceTitle": "Scarface",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0085859",
+      "position": 707,
+      "sourceTitle": "Local Hero",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086879",
+      "position": 708,
+      "sourceTitle": "Amadeus",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087843",
+      "position": 709,
+      "sourceTitle": "Es war einmal in Amerika",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0088247",
+      "position": 710,
+      "sourceTitle": "Terminator",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087781",
+      "position": 711,
+      "sourceTitle": "Der Unbeugsame",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087332",
+      "position": 712,
+      "sourceTitle": "Ghostbusters – Die Geisterjäger",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087884",
+      "position": 713,
+      "sourceTitle": "Paris, Texas",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087800",
+      "position": 714,
+      "sourceTitle": "Nightmare – Mörderische Träume",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0088258",
+      "position": 715,
+      "sourceTitle": "This Is Spinal Tap",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087892",
+      "position": 716,
+      "sourceTitle": "Reise nach Indien",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0086960",
+      "position": 717,
+      "sourceTitle": "Beverly Hills Cop – Ich lös’ den Fall auf jeden Fall",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087553",
+      "position": 718,
+      "sourceTitle": "The Killing Fields – Schreiendes Land",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0088184",
+      "position": 719,
+      "sourceTitle": "Stranger than Paradise",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0088763",
+      "position": 720,
+      "sourceTitle": "Zurück in die Zukunft",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089841",
+      "position": 721,
+      "sourceTitle": "Die Ehre der Prizzis",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0090185",
+      "position": 722,
+      "sourceTitle": "Tongnian wangshi",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0088847",
+      "position": 723,
+      "sourceTitle": "The Breakfast Club",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0091251",
+      "position": 724,
+      "sourceTitle": "Komm und sieh",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089603",
+      "position": 725,
+      "sourceTitle": "Mishima – Ein Leben in vier Kapiteln",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089755",
+      "position": 726,
+      "sourceTitle": "Jenseits von Afrika",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089881",
+      "position": 727,
+      "sourceTitle": "Ran",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0088846",
+      "position": 728,
+      "sourceTitle": "Brazil",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089424",
+      "position": 729,
+      "sourceTitle": "Kuß der Spinnenfrau",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089869",
+      "position": 730,
+      "sourceTitle": "Quiet Earth – Das letzte Experiment",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089853",
+      "position": 731,
+      "sourceTitle": "The Purple Rose of Cairo",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0089960",
+      "position": 732,
+      "sourceTitle": "Vogelfrei",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0090015",
+      "position": 733,
+      "sourceTitle": "Shoah",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0088939",
+      "position": 734,
+      "sourceTitle": "Die Farbe Lila",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0091867",
+      "position": 735,
+      "sourceTitle": "Zimmer mit Aussicht",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0091943",
+      "position": 736,
+      "sourceTitle": "Shermans Feldzug",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0092048",
+      "position": 737,
+      "sourceTitle": "Tampopo",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0090605",
+      "position": 738,
+      "sourceTitle": "Aliens – Die Rückkehr",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091474",
+      "position": 739,
+      "sourceTitle": "Manhunter – Roter Drache",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090756",
+      "position": 740,
+      "sourceTitle": "Blue Velvet",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091167",
+      "position": 741,
+      "sourceTitle": "Hannah und ihre Schwestern",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091939",
+      "position": 742,
+      "sourceTitle": "Nola Darling",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090830",
+      "position": 743,
+      "sourceTitle": "Gottes vergessene Kinder",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090798",
+      "position": 744,
+      "sourceTitle": "Caravaggio",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091886",
+      "position": 745,
+      "sourceTitle": "Salvador",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091763",
+      "position": 746,
+      "sourceTitle": "Platoon",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090967",
+      "position": 747,
+      "sourceTitle": "Down by Law",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090985",
+      "position": 748,
+      "sourceTitle": "Der Untergang des amerikanischen Imperiums",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090952",
+      "position": 749,
+      "sourceTitle": "Peking Opera Blues",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091042",
+      "position": 750,
+      "sourceTitle": "Ferris macht blau",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091064",
+      "position": 751,
+      "sourceTitle": "Die Fliege",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0092099",
+      "position": 752,
+      "sourceTitle": "Top Gun – Sie fürchten weder Tod noch Teufel",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0092005",
+      "position": 753,
+      "sourceTitle": "Stand by Me – Das Geheimnis eines Sommers",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0090907",
+      "position": 754,
+      "sourceTitle": "Dao ma zei",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0099763",
+      "position": 755,
+      "sourceTitle": "Henry: Portrait of a Serial Killer",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0092593",
+      "position": 756,
+      "sourceTitle": "Auf Wiedersehen, Kinder",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0092603",
+      "position": 757,
+      "sourceTitle": "Babettes Fest",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093822",
+      "position": 758,
+      "sourceTitle": "Arizona Junior",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094349",
+      "position": 759,
+      "sourceTitle": "Yeelen",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093191",
+      "position": 760,
+      "sourceTitle": "Der Himmel über Berlin",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094336",
+      "position": 761,
+      "sourceTitle": "Withnail & I",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093779",
+      "position": 762,
+      "sourceTitle": "Die Braut des Prinzen",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093978",
+      "position": 763,
+      "sourceTitle": "A Chinese Ghost Story",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093058",
+      "position": 764,
+      "sourceTitle": "Full Metal Jacket",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0092699",
+      "position": 765,
+      "sourceTitle": "Nachrichtenfieber – Broadcast News",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093105",
+      "position": 766,
+      "sourceTitle": "Good Morning, Vietnam",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093565",
+      "position": 767,
+      "sourceTitle": "Mondsüchtig",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094291",
+      "position": 768,
+      "sourceTitle": "Wall Street",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094226",
+      "position": 769,
+      "sourceTitle": "The Untouchables – Die Unbestechlichen",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093206",
+      "position": 770,
+      "sourceTitle": "Rotes Kornfeld",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093010",
+      "position": 771,
+      "sourceTitle": "Eine verhängnisvolle Affäre",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0092843",
+      "position": 772,
+      "sourceTitle": "Die Toten",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0093870",
+      "position": 773,
+      "sourceTitle": "RoboCop",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094625",
+      "position": 774,
+      "sourceTitle": "Akira",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095715",
+      "position": 775,
+      "sourceTitle": "Alice",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0094675",
+      "position": 776,
+      "sourceTitle": "Ariel",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0094812",
+      "position": 777,
+      "sourceTitle": "Annies Männer",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095341",
+      "position": 778,
+      "sourceTitle": "Hôtel Terminus: Zeit und Leben des Klaus Barbie",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095675",
+      "position": 779,
+      "sourceTitle": "Frauen am Rande des Nervenzusammenbruchs",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0096163",
+      "position": 780,
+      "sourceTitle": "Spurlos verschwunden",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0096257",
+      "position": 781,
+      "sourceTitle": "Der Fall Randall Adams",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095159",
+      "position": 782,
+      "sourceTitle": "Ein Fisch namens Wanda",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0096337",
+      "position": 783,
+      "sourceTitle": "Une histoire de vent",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095705",
+      "position": 784,
+      "sourceTitle": "Die nackte Kanone",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095765",
+      "position": 785,
+      "sourceTitle": "Cinema Paradiso",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095327",
+      "position": 786,
+      "sourceTitle": "Die letzten Glühwürmchen",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0094737",
+      "position": 787,
+      "sourceTitle": "Big",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0096438",
+      "position": 788,
+      "sourceTitle": "Falsches Spiel mit Roger Rabbit",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095953",
+      "position": 789,
+      "sourceTitle": "Rain Man",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095016",
+      "position": 790,
+      "sourceTitle": "Stirb langsam",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0094947",
+      "position": 791,
+      "sourceTitle": "Gefährliche Liebschaften",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0094964",
+      "position": 792,
+      "sourceTitle": "Die Unzertrennlichen",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0095037",
+      "position": 793,
+      "sourceTitle": "Entfernte Stimmen – Stilleben",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0092337",
+      "position": 794,
+      "sourceTitle": "Dekalog",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0098635",
+      "position": 795,
+      "sourceTitle": "Harry und Sally",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097123",
+      "position": 796,
+      "sourceTitle": "Verbrechen und andere Kleinigkeiten",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0096895",
+      "position": 797,
+      "sourceTitle": "Batman",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097351",
+      "position": 798,
+      "sourceTitle": "Feld der Träume",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097441",
+      "position": 799,
+      "sourceTitle": "Glory",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097108",
+      "position": 800,
+      "sourceTitle": "Der Koch, der Dieb, seine Frau und ihr Liebhaber",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097937",
+      "position": 801,
+      "sourceTitle": "Mein linker Fuß",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097202",
+      "position": 802,
+      "sourceTitle": "The Killer",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097240",
+      "position": 803,
+      "sourceTitle": "Drugstore Cowboy",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0097216",
+      "position": 804,
+      "sourceTitle": "Do the Right Thing",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0100842",
+      "position": 805,
+      "sourceTitle": "The Unbelievable Truth",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0098213",
+      "position": 806,
+      "sourceTitle": "Roger & Me",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0098724",
+      "position": 807,
+      "sourceTitle": "Sex, Lügen und Video",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0096908",
+      "position": 808,
+      "sourceTitle": "Eine Stadt der Traurigkeit",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0103099",
+      "position": 809,
+      "sourceTitle": "Tongues Untied",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0096841",
+      "position": 810,
+      "sourceTitle": "Astenicheskiy sindrom",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0099053",
+      "position": 811,
+      "sourceTitle": "Archangel",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099334",
+      "position": 812,
+      "sourceTitle": "Cyrano von Bergerac",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0103130",
+      "position": 813,
+      "sourceTitle": "Trust – Blindes Vertrauen",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0100536",
+      "position": 814,
+      "sourceTitle": "S'en fout la mort",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099685",
+      "position": 815,
+      "sourceTitle": "GoodFellas – Drei Jahrzehnte in der Mafia",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0100234",
+      "position": 816,
+      "sourceTitle": "Close-Up",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099939",
+      "position": 817,
+      "sourceTitle": "King of New York – König zwischen Tag und Nacht",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0100405",
+      "position": 818,
+      "sourceTitle": "Pretty Woman",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099348",
+      "position": 819,
+      "sourceTitle": "Der mit dem Wolf tanzt",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0100802",
+      "position": 820,
+      "sourceTitle": "Die totale Erinnerung – Total Recall",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099487",
+      "position": 821,
+      "sourceTitle": "Edward mit den Scherenhänden",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0099776",
+      "position": 822,
+      "sourceTitle": "Hitlerjunge Salomon",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0102816",
+      "position": 823,
+      "sourceTitle": "Ruan Lingyu",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101507",
+      "position": 824,
+      "sourceTitle": "Boyz n the Hood – Jungs im Viertel",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101428",
+      "position": 825,
+      "sourceTitle": "Die schöne Querulantin",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102757",
+      "position": 826,
+      "sourceTitle": "The Rapture",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101985",
+      "position": 827,
+      "sourceTitle": "Ein Sommer zum Verlieben",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102138",
+      "position": 828,
+      "sourceTitle": "JFK – Tatort Dallas",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102943",
+      "position": 829,
+      "sourceTitle": "Rumtreiber",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0103285",
+      "position": 830,
+      "sourceTitle": "Once Upon a Time in China",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0103074",
+      "position": 831,
+      "sourceTitle": "Thelma & Louise",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102494",
+      "position": 832,
+      "sourceTitle": "My Private Idaho",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102926",
+      "position": 833,
+      "sourceTitle": "Das Schweigen der Lämmer",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0103064",
+      "position": 834,
+      "sourceTitle": "Terminator 2 – Tag der Abrechnung",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101700",
+      "position": 835,
+      "sourceTitle": "Delicatessen",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101765",
+      "position": 836,
+      "sourceTitle": "Die zwei Leben der Veronika",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0101640",
+      "position": 837,
+      "sourceTitle": "Rote Laterne",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0102015",
+      "position": 838,
+      "sourceTitle": "Hearts of Darkness – Reise ins Herz der Finsternis",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0105275",
+      "position": 839,
+      "sourceTitle": "Romper Stomper",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0105488",
+      "position": 840,
+      "sourceTitle": "Strictly Ballroom – Die gegen alle Regeln tanzen",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0105151",
+      "position": 841,
+      "sourceTitle": "The Player",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0105236",
+      "position": 842,
+      "sourceTitle": "Reservoir Dogs – Wilde Hunde",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0104348",
+      "position": 843,
+      "sourceTitle": "Glengarry Glen Ross",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0104008",
+      "position": 844,
+      "sourceTitle": "Wintermärchen",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0105695",
+      "position": 845,
+      "sourceTitle": "Erbarmungslos",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0103905",
+      "position": 846,
+      "sourceTitle": "Mann beißt Hund",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0104036",
+      "position": 847,
+      "sourceTitle": "The Crying Game",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0106332",
+      "position": 848,
+      "sourceTitle": "Lebewohl, meine Konkubine",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0108500",
+      "position": 849,
+      "sourceTitle": "Die Besucher",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107818",
+      "position": 850,
+      "sourceTitle": "Philadelphia",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107157",
+      "position": 851,
+      "sourceTitle": "Xi meng ren sheng",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0108122",
+      "position": 852,
+      "sourceTitle": "Short Cuts",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0108052",
+      "position": 853,
+      "sourceTitle": "Schindlers Liste",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0108394",
+      "position": 854,
+      "sourceTitle": "Drei Farben: Blau",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107048",
+      "position": 855,
+      "sourceTitle": "Und täglich grüßt das Murmeltier",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107822",
+      "position": 856,
+      "sourceTitle": "Das Piano",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107156",
+      "position": 857,
+      "sourceTitle": "Das Hochzeitsbankett",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0108328",
+      "position": 858,
+      "sourceTitle": "32 Variationen über Glenn Gould",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0107290",
+      "position": 859,
+      "sourceTitle": "Jurassic Park",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0109382",
+      "position": 860,
+      "sourceTitle": "Liebes Tagebuch…",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0109045",
+      "position": 861,
+      "sourceTitle": "Priscilla – Königin der Wüste",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110357",
+      "position": 862,
+      "sourceTitle": "Der König der Löwen",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110308",
+      "position": 863,
+      "sourceTitle": "Die letzte Verführung",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0111019",
+      "position": 864,
+      "sourceTitle": "Wilde Herzen",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0109508",
+      "position": 865,
+      "sourceTitle": "Crumb",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110005",
+      "position": 866,
+      "sourceTitle": "Heavenly Creatures",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110912",
+      "position": 867,
+      "sourceTitle": "Pulp Fiction",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0111495",
+      "position": 868,
+      "sourceTitle": "Drei Farben: Rot",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110632",
+      "position": 869,
+      "sourceTitle": "Natural Born Killers",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110598",
+      "position": 870,
+      "sourceTitle": "Muriels Hochzeit",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110057",
+      "position": 871,
+      "sourceTitle": "Hoop Dreams",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0111341",
+      "position": 872,
+      "sourceTitle": "Satanstango",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0109445",
+      "position": 873,
+      "sourceTitle": "Clerks – Die Ladenhüter",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0109831",
+      "position": 874,
+      "sourceTitle": "Vier Hochzeiten und ein Todesfall",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0109830",
+      "position": 875,
+      "sourceTitle": "Forrest Gump",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0111845",
+      "position": 876,
+      "sourceTitle": "Zire darakhatan zeyton",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0111161",
+      "position": 877,
+      "sourceTitle": "Die Verurteilten",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0109424",
+      "position": 878,
+      "sourceTitle": "Chungking Express",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0108906",
+      "position": 879,
+      "sourceTitle": "Hospital der Geister",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110413",
+      "position": 880,
+      "sourceTitle": "Léon – Der Profi",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0110299",
+      "position": 881,
+      "sourceTitle": "Lamerica",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0112431",
+      "position": 882,
+      "sourceTitle": "Ein Schweinchen namens Babe",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112573",
+      "position": 883,
+      "sourceTitle": "Braveheart",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0131356",
+      "position": 884,
+      "sourceTitle": "Deseret",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114369",
+      "position": 885,
+      "sourceTitle": "Sieben",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114478",
+      "position": 886,
+      "sourceTitle": "Smoke",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112445",
+      "position": 887,
+      "sourceTitle": "Badkonake sefid",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114787",
+      "position": 888,
+      "sourceTitle": "Underground",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112870",
+      "position": 889,
+      "sourceTitle": "Dilwale Dulhania Le Jayenge – Wer zuerst kommt, kriegt die Braut",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112767",
+      "position": 890,
+      "sourceTitle": "Cyclo",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112697",
+      "position": 891,
+      "sourceTitle": "Clueless – Was sonst!",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114323",
+      "position": 892,
+      "sourceTitle": "Safe",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0113277",
+      "position": 893,
+      "sourceTitle": "Heat",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114709",
+      "position": 894,
+      "sourceTitle": "Toy Story",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0112817",
+      "position": 895,
+      "sourceTitle": "Dead Man",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0114814",
+      "position": 896,
+      "sourceTitle": "Die üblichen Verdächtigen",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0113557",
+      "position": 897,
+      "sourceTitle": "Kjaerlighetens Kjotere",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0117951",
+      "position": 898,
+      "sourceTitle": "Trainspotting – Neue Helden",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0116282",
+      "position": 899,
+      "sourceTitle": "Fargo",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0116384",
+      "position": 900,
+      "sourceTitle": "Gabbeh",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0117968",
+      "position": 901,
+      "sourceTitle": "Drei Leben und ein Tod",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0117631",
+      "position": 902,
+      "sourceTitle": "Shine – Der Weg ins Licht",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0117571",
+      "position": 903,
+      "sourceTitle": "Scream – Schrei!",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0117589",
+      "position": 904,
+      "sourceTitle": "Lügen und Geheimnisse",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0116209",
+      "position": 905,
+      "sourceTitle": "Der englische Patient",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0116905",
+      "position": 906,
+      "sourceTitle": "Lone Star",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0115751",
+      "position": 907,
+      "sourceTitle": "Breaking the Waves",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0116629",
+      "position": 908,
+      "sourceTitle": "Independence Day",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0125659",
+      "position": 909,
+      "sourceTitle": "Virtual Nightmare – Open Your Eyes",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0119349",
+      "position": 910,
+      "sourceTitle": "Der Eissturm",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0119250",
+      "position": 911,
+      "sourceTitle": "Hana-Bi",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0118749",
+      "position": 912,
+      "sourceTitle": "Boogie Nights",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0119488",
+      "position": 913,
+      "sourceTitle": "L.A. Confidential",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0119167",
+      "position": 914,
+      "sourceTitle": "Funny Games",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0120255",
+      "position": 915,
+      "sourceTitle": "Das süße Jenseits",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0120338",
+      "position": 916,
+      "sourceTitle": "Titanic",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0120265",
+      "position": 917,
+      "sourceTitle": "Der Geschmack der Kirsche",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0120815",
+      "position": 918,
+      "sourceTitle": "Der Soldat James Ryan",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0130827",
+      "position": 919,
+      "sourceTitle": "Lola rennt",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0128445",
+      "position": 920,
+      "sourceTitle": "Rushmore",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0154420",
+      "position": 921,
+      "sourceTitle": "Das Fest",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0178868",
+      "position": 922,
+      "sourceTitle": "Ring – Das Original",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0147612",
+      "position": 923,
+      "sourceTitle": "Happiness",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0120863",
+      "position": 924,
+      "sourceTitle": "Der schmale Grat",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0120363",
+      "position": 925,
+      "sourceTitle": "Toy Story 2",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0185937",
+      "position": 926,
+      "sourceTitle": "Blair Witch Project",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0120601",
+      "position": 927,
+      "sourceTitle": "Being John Malkovich",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0167404",
+      "position": 928,
+      "sourceTitle": "The Sixth Sense",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0137523",
+      "position": 929,
+      "sourceTitle": "Fight Club",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0235198",
+      "position": 930,
+      "sourceTitle": "Audition",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0209933",
+      "position": 931,
+      "sourceTitle": "Der Fremdenlegionär",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0185125",
+      "position": 932,
+      "sourceTitle": "Alles über meine Mutter",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0133093",
+      "position": 933,
+      "sourceTitle": "Matrix",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0247380",
+      "position": 934,
+      "sourceTitle": "Die Sammler und die Sammlerin",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0118694",
+      "position": 935,
+      "sourceTitle": "In the Mood for Love",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0172495",
+      "position": 936,
+      "sourceTitle": "Gladiator",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0180093",
+      "position": 937,
+      "sourceTitle": "Requiem for a Dream",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0209144",
+      "position": 938,
+      "sourceTitle": "Memento",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0190332",
+      "position": 939,
+      "sourceTitle": "Tiger and Dragon",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0120737",
+      "position": 940,
+      "sourceTitle": "Der Herr der Ringe: Die Gefährten",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0245429",
+      "position": 941,
+      "sourceTitle": "Chihiros Reise ins Zauberland",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0167261",
+      "position": 942,
+      "sourceTitle": "Der Herr der Ringe: Die zwei Türme",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0318034",
+      "position": 943,
+      "sourceTitle": "Russian Ark",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0310793",
+      "position": 944,
+      "sourceTitle": "Bowling for Columbine",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0317248",
+      "position": 945,
+      "sourceTitle": "City of God",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0167260",
+      "position": 946,
+      "sourceTitle": "Der Herr der Ringe: Die Rückkehr des Königs",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0363589",
+      "position": 947,
+      "sourceTitle": "Elephant",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0364930",
+      "position": 948,
+      "sourceTitle": "Aileen: Life and Death of a Serial Killer",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0364569",
+      "position": 949,
+      "sourceTitle": "Oldboy",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0301357",
+      "position": 950,
+      "sourceTitle": "Good Bye, Lenin!",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0368913",
+      "position": 951,
+      "sourceTitle": "Osama",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0347048",
+      "position": 952,
+      "sourceTitle": "Gegen die Wand",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0416991",
+      "position": 953,
+      "sourceTitle": "Moolaadé – Bann der Hoffnung",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0363163",
+      "position": 954,
+      "sourceTitle": "Der Untergang",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0388795",
+      "position": 955,
+      "sourceTitle": "Brokeback Mountain",
+      "releaseYear": 2005
+    },
+    {
+      "imdbId": "tt0457430",
+      "position": 956,
+      "sourceTitle": "Pans Labyrinth",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0405094",
+      "position": 957,
+      "sourceTitle": "Das Leben der Anderen",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt1179904",
+      "position": 958,
+      "sourceTitle": "Paranormal Activity",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt0469494",
+      "position": 959,
+      "sourceTitle": "There Will Be Blood",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt0887912",
+      "position": 960,
+      "sourceTitle": "Tödliches Kommando – The Hurt Locker",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt0468569",
+      "position": 961,
+      "sourceTitle": "The Dark Knight",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt1139797",
+      "position": 962,
+      "sourceTitle": "So finster die Nacht",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt1136608",
+      "position": 963,
+      "sourceTitle": "District 9",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0499549",
+      "position": 964,
+      "sourceTitle": "Avatar – Aufbruch nach Pandora",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0435761",
+      "position": 965,
+      "sourceTitle": "Toy Story 3",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1556190",
+      "position": 966,
+      "sourceTitle": "Nostalgia de la luz",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1375666",
+      "position": 967,
+      "sourceTitle": "Inception",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1285016",
+      "position": 968,
+      "sourceTitle": "The Social Network",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1655442",
+      "position": 969,
+      "sourceTitle": "The Artist",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt1259521",
+      "position": 970,
+      "sourceTitle": "The Cabin in the Woods",
+      "releaseYear": 2012
+    },
+    {
+      "imdbId": "tt1454468",
+      "position": 971,
+      "sourceTitle": "Gravity",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt2278871",
+      "position": 972,
+      "sourceTitle": "Blau ist eine warme Farbe",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt2358891",
+      "position": 973,
+      "sourceTitle": "La Grande Bellezza – Die große Schönheit",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt2024544",
+      "position": 974,
+      "sourceTitle": "12 Years a Slave",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt1065073",
+      "position": 975,
+      "sourceTitle": "Boyhood",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt2562232",
+      "position": 976,
+      "sourceTitle": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt2278388",
+      "position": 977,
+      "sourceTitle": "Grand Budapest Hotel",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt2488496",
+      "position": 978,
+      "sourceTitle": "Star Wars: Das Erwachen der Macht",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt3808342",
+      "position": 979,
+      "sourceTitle": "Son of Saul",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt3824458",
+      "position": 980,
+      "sourceTitle": "Tangerine L.A.",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt1392190",
+      "position": 981,
+      "sourceTitle": "Mad Max: Fury Road",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt4016934",
+      "position": 982,
+      "sourceTitle": "Die Taschendiebin",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt3783958",
+      "position": 983,
+      "sourceTitle": "La La Land",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt4048272",
+      "position": 984,
+      "sourceTitle": "Toni Erdmann",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt5895028",
+      "position": 985,
+      "sourceTitle": "Der 13.",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt4975722",
+      "position": 986,
+      "sourceTitle": "Moonlight",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt4925292",
+      "position": 987,
+      "sourceTitle": "Lady Bird",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt5726616",
+      "position": 988,
+      "sourceTitle": "Call Me by Your Name",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt1856101",
+      "position": 989,
+      "sourceTitle": "Blade Runner 2049",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt5052448",
+      "position": 990,
+      "sourceTitle": "Get Out",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt5776858",
+      "position": 991,
+      "sourceTitle": "Der seidene Faden",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt1825683",
+      "position": 992,
+      "sourceTitle": "Black Panther",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt8267604",
+      "position": 993,
+      "sourceTitle": "Capernaum – Stadt der Hoffnung",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt4154756",
+      "position": 994,
+      "sourceTitle": "Avengers: Infinity War",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt6155172",
+      "position": 995,
+      "sourceTitle": "Roma",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt7784604",
+      "position": 996,
+      "sourceTitle": "Hereditary – Das Vermächtnis",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt5083738",
+      "position": 997,
+      "sourceTitle": "The Favourite – Intrigen und Irrsinn",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt5688932",
+      "position": 998,
+      "sourceTitle": "Sorry to Bother You",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt7349662",
+      "position": 999,
+      "sourceTitle": "BlacKkKlansman",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt1979376",
+      "position": 1000,
+      "sourceTitle": "Toy Story 4",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt4154796",
+      "position": 1001,
+      "sourceTitle": "Avengers: Endgame",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt8613070",
+      "position": 1002,
+      "sourceTitle": "Porträt einer jungen Frau in Flammen",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt9617456",
+      "position": 1003,
+      "sourceTitle": "Für Sama",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt1489887",
+      "position": 1004,
+      "sourceTitle": "Booksmart",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt7131622",
+      "position": 1005,
+      "sourceTitle": "Once Upon a Time in Hollywood",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt8637428",
+      "position": 1006,
+      "sourceTitle": "The Farewell",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt7286456",
+      "position": 1007,
+      "sourceTitle": "Joker",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt6751668",
+      "position": 1008,
+      "sourceTitle": "Parasite",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt6062774",
+      "position": 1009,
+      "sourceTitle": "Monos – Zwischen Himmel und Hölle",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt3281548",
+      "position": 1010,
+      "sourceTitle": "Little Women",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt7984734",
+      "position": 1011,
+      "sourceTitle": "Der Leuchtturm",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt6723592",
+      "position": 1012,
+      "sourceTitle": "Tenet",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt10514222",
+      "position": 1013,
+      "sourceTitle": "Ma Rainey’s Black Bottom",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt2948372",
+      "position": 1014,
+      "sourceTitle": "Soul",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt7772582",
+      "position": 1015,
+      "sourceTitle": "Niemals Selten Manchmal Immer",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt3464896",
+      "position": 1016,
+      "sourceTitle": "Small Axe",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt9770150",
+      "position": 1017,
+      "sourceTitle": "Nomadland",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt8633462",
+      "position": 1018,
+      "sourceTitle": "Quo Vadis, Aida?",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt14039582",
+      "position": 1019,
+      "sourceTitle": "Drive My Car",
+      "releaseYear": 2021
+    },
+    {
+      "imdbId": "tt7378922",
+      "position": 1020,
+      "sourceTitle": "Summer of Soul (…Or, When the Revolution Could Not Be Televised)",
+      "releaseYear": 2021
+    },
+    {
+      "imdbId": "tt1160419",
+      "position": 1021,
+      "sourceTitle": "Dune",
+      "releaseYear": 2021
+    },
+    {
+      "imdbId": "tt19770238",
+      "position": 1022,
+      "sourceTitle": "Aftersun",
+      "releaseYear": 2022
+    },
+    {
+      "imdbId": "tt17009710",
+      "position": 1023,
+      "sourceTitle": "Anatomie eines Falls",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt10638522",
+      "position": 1024,
+      "sourceTitle": "Talk to Me",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt5537002",
+      "position": 1025,
+      "sourceTitle": "Killers of the Flower Moon",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt1517268",
+      "position": 1026,
+      "sourceTitle": "Barbie",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt15398776",
+      "position": 1027,
+      "sourceTitle": "Oppenheimer",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt14230458",
+      "position": 1028,
+      "sourceTitle": "Poor Things",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt6587046",
+      "position": 1029,
+      "sourceTitle": "Der Junge und der Reiher",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt7160372",
+      "position": 1030,
+      "sourceTitle": "The Zone of Interest",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt21192142",
+      "position": 1031,
+      "sourceTitle": "All of Us Strangers",
+      "releaseYear": 2023
+    }
+  ]
+}

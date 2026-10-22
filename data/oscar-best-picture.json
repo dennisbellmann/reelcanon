@@ -1,0 +1,607 @@
+{
+  "format": "canon-snapshot/v1",
+  "canon": {
+    "slug": "oscar-best-picture",
+    "name": "Oscar · Bester Film",
+    "description": "Alle 98 Gewinner des Oscars für den besten Film bis zur 98. Verleihung 2026, vom ersten bis zum neuesten Gewinner. Historische Kategorienamen eingeschlossen; keine Nominierten.",
+    "sourceUrl": "https://www.oscars.org/oscars/ceremonies",
+    "presentation": {
+      "position": 3,
+      "posterUrl": "/artwork/oscar-best-picture.svg",
+      "titleEmbedded": true
+    }
+  },
+  "editionLabel": "reviewed-2026-10-06",
+  "retrievedAt": "2026-10-06T14:42:00.500Z",
+  "sourceContentHash": "d9ac04cbda021114d69ae4cbd66b1dc529d067d65b3271d6421c84d88ee1a9a8",
+  "entries": [
+    {
+      "imdbId": "tt0018578",
+      "position": 1,
+      "sourceTitle": "Wings",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0019729",
+      "position": 2,
+      "sourceTitle": "The Broadway Melody",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0020629",
+      "position": 3,
+      "sourceTitle": "All Quiet on the Western Front",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0021746",
+      "position": 4,
+      "sourceTitle": "Cimarron",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0022958",
+      "position": 5,
+      "sourceTitle": "Grand Hotel",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0023876",
+      "position": 6,
+      "sourceTitle": "Cavalcade",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0025316",
+      "position": 7,
+      "sourceTitle": "It Happened One Night",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0026752",
+      "position": 8,
+      "sourceTitle": "Mutiny on the Bounty",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt0027698",
+      "position": 9,
+      "sourceTitle": "The Great Ziegfeld",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0029146",
+      "position": 10,
+      "sourceTitle": "The Life of Emile Zola",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0030993",
+      "position": 11,
+      "sourceTitle": "You Can't Take It with You",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0031381",
+      "position": 12,
+      "sourceTitle": "Gone with the Wind",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0032976",
+      "position": 13,
+      "sourceTitle": "Rebecca",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0033729",
+      "position": 14,
+      "sourceTitle": "How Green Was My Valley",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0035093",
+      "position": 15,
+      "sourceTitle": "Mrs. Miniver",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0034583",
+      "position": 16,
+      "sourceTitle": "Casablanca",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0036872",
+      "position": 17,
+      "sourceTitle": "Going My Way",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0037884",
+      "position": 18,
+      "sourceTitle": "The Lost Weekend",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0036868",
+      "position": 19,
+      "sourceTitle": "The Best Years of Our Lives",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0039416",
+      "position": 20,
+      "sourceTitle": "Gentleman's Agreement",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0040416",
+      "position": 21,
+      "sourceTitle": "Hamlet",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0041113",
+      "position": 22,
+      "sourceTitle": "All the King's Men",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0042192",
+      "position": 23,
+      "sourceTitle": "All about Eve",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0043278",
+      "position": 24,
+      "sourceTitle": "An American in Paris",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0044672",
+      "position": 25,
+      "sourceTitle": "The Greatest Show on Earth",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0045793",
+      "position": 26,
+      "sourceTitle": "From Here to Eternity",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0047296",
+      "position": 27,
+      "sourceTitle": "On the Waterfront",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0048356",
+      "position": 28,
+      "sourceTitle": "Marty",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0048960",
+      "position": 29,
+      "sourceTitle": "Around the World in 80 Days",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0050212",
+      "position": 30,
+      "sourceTitle": "The Bridge on the River Kwai",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0051658",
+      "position": 31,
+      "sourceTitle": "Gigi",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0052618",
+      "position": 32,
+      "sourceTitle": "Ben-Hur",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0053604",
+      "position": 33,
+      "sourceTitle": "The Apartment",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0055614",
+      "position": 34,
+      "sourceTitle": "West Side Story",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0056172",
+      "position": 35,
+      "sourceTitle": "Lawrence of Arabia",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0057590",
+      "position": 36,
+      "sourceTitle": "Tom Jones",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0058385",
+      "position": 37,
+      "sourceTitle": "My Fair Lady",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0059742",
+      "position": 38,
+      "sourceTitle": "The Sound of Music",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0060665",
+      "position": 39,
+      "sourceTitle": "A Man for All Seasons",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0061811",
+      "position": 40,
+      "sourceTitle": "In the Heat of the Night",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0063385",
+      "position": 41,
+      "sourceTitle": "Oliver!",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0064665",
+      "position": 42,
+      "sourceTitle": "Midnight Cowboy",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0066206",
+      "position": 43,
+      "sourceTitle": "Patton",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0067116",
+      "position": 44,
+      "sourceTitle": "The French Connection",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0068646",
+      "position": 45,
+      "sourceTitle": "The Godfather",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0070735",
+      "position": 46,
+      "sourceTitle": "The Sting",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0071562",
+      "position": 47,
+      "sourceTitle": "The Godfather Part II",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0073486",
+      "position": 48,
+      "sourceTitle": "One Flew over the Cuckoo's Nest",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0075148",
+      "position": 49,
+      "sourceTitle": "Rocky",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0075686",
+      "position": 50,
+      "sourceTitle": "Annie Hall",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0077416",
+      "position": 51,
+      "sourceTitle": "The Deer Hunter",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0079417",
+      "position": 52,
+      "sourceTitle": "Kramer vs. Kramer",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0081283",
+      "position": 53,
+      "sourceTitle": "Ordinary People",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0082158",
+      "position": 54,
+      "sourceTitle": "Chariots of Fire",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0083987",
+      "position": 55,
+      "sourceTitle": "Gandhi",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0086425",
+      "position": 56,
+      "sourceTitle": "Terms of Endearment",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0086879",
+      "position": 57,
+      "sourceTitle": "Amadeus",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0089755",
+      "position": 58,
+      "sourceTitle": "Out of Africa",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0091763",
+      "position": 59,
+      "sourceTitle": "Platoon",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0093389",
+      "position": 60,
+      "sourceTitle": "The Last Emperor",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0095953",
+      "position": 61,
+      "sourceTitle": "Rain Man",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0097239",
+      "position": 62,
+      "sourceTitle": "Driving Miss Daisy",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0099348",
+      "position": 63,
+      "sourceTitle": "Dances With Wolves",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0102926",
+      "position": 64,
+      "sourceTitle": "The Silence of the Lambs",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0105695",
+      "position": 65,
+      "sourceTitle": "Unforgiven",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0108052",
+      "position": 66,
+      "sourceTitle": "Schindler's List",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0109830",
+      "position": 67,
+      "sourceTitle": "Forrest Gump",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0112573",
+      "position": 68,
+      "sourceTitle": "Braveheart",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0116209",
+      "position": 69,
+      "sourceTitle": "The English Patient",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0120338",
+      "position": 70,
+      "sourceTitle": "Titanic",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0138097",
+      "position": 71,
+      "sourceTitle": "Shakespeare in Love",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0169547",
+      "position": 72,
+      "sourceTitle": "American Beauty",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0172495",
+      "position": 73,
+      "sourceTitle": "Gladiator",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0268978",
+      "position": 74,
+      "sourceTitle": "A Beautiful Mind",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0299658",
+      "position": 75,
+      "sourceTitle": "Chicago",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0167260",
+      "position": 76,
+      "sourceTitle": "The Lord of the Rings: The Return of the King",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0405159",
+      "position": 77,
+      "sourceTitle": "Million Dollar Baby",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0375679",
+      "position": 78,
+      "sourceTitle": "Crash",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0407887",
+      "position": 79,
+      "sourceTitle": "The Departed",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0477348",
+      "position": 80,
+      "sourceTitle": "No Country for Old Men",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt1010048",
+      "position": 81,
+      "sourceTitle": "Slumdog Millionaire",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt0887912",
+      "position": 82,
+      "sourceTitle": "The Hurt Locker",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt1504320",
+      "position": 83,
+      "sourceTitle": "The King's Speech",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1655442",
+      "position": 84,
+      "sourceTitle": "The Artist",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt1024648",
+      "position": 85,
+      "sourceTitle": "Argo",
+      "releaseYear": 2012
+    },
+    {
+      "imdbId": "tt2024544",
+      "position": 86,
+      "sourceTitle": "12 Years a Slave",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt2562232",
+      "position": 87,
+      "sourceTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt1895587",
+      "position": 88,
+      "sourceTitle": "Spotlight",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt4975722",
+      "position": 89,
+      "sourceTitle": "Moonlight",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt5580390",
+      "position": 90,
+      "sourceTitle": "The Shape of Water",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt6966692",
+      "position": 91,
+      "sourceTitle": "Green Book",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt6751668",
+      "position": 92,
+      "sourceTitle": "Parasite",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt9770150",
+      "position": 93,
+      "sourceTitle": "Nomadland",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt10366460",
+      "position": 94,
+      "sourceTitle": "CODA",
+      "releaseYear": 2021
+    },
+    {
+      "imdbId": "tt6710474",
+      "position": 95,
+      "sourceTitle": "Everything Everywhere All at Once",
+      "releaseYear": 2022
+    },
+    {
+      "imdbId": "tt15398776",
+      "position": 96,
+      "sourceTitle": "Oppenheimer",
+      "releaseYear": 2023
+    },
+    {
+      "imdbId": "tt28607951",
+      "position": 97,
+      "sourceTitle": "Anora",
+      "releaseYear": 2024
+    },
+    {
+      "imdbId": "tt30144839",
+      "position": 98,
+      "sourceTitle": "One Battle after Another",
+      "releaseYear": 2025
+    }
+  ]
+}

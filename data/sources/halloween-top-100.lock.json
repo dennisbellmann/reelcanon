@@ -1,0 +1,1010 @@
+{
+  "format": "canon-research/v1",
+  "cutoff": "2026-10-06",
+  "retrievedAt": "2026-10-06T14:42:00.498Z",
+  "sourceURL": "https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/",
+  "method": "Rotten Tomatoes horror guide ranks 1–100; rank order retained.",
+  "sourceContentHash": "0a0becc08249fda162c5f6c62c985465cf8aa502009bbb342ed8bdc8ffc370f0",
+  "entries": [
+    {
+      "position": 1,
+      "title": "His House",
+      "releaseYear": 2020,
+      "sourceURL": "https://www.rottentomatoes.com/m/his_house",
+      "imdbId": "tt8508734",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/His%20House.json",
+      "identityTitle": "His House",
+      "identityResponseHash": "3a032a844a982018393fe3e3c6316d8ae32ed8af533752c234f65f35a24b4a67"
+    },
+    {
+      "position": 2,
+      "title": "Under the Shadow",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/under_the_shadow",
+      "imdbId": "tt4273292",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/u/Under%20the%20Shadow.json",
+      "identityTitle": "Under the Shadow",
+      "identityResponseHash": "e3c8a9caffbffcad66f94ce52d9875f4e2b167ecd361868dc48370c0b3fc032f"
+    },
+    {
+      "position": 3,
+      "title": "The Wailing",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_wailing",
+      "imdbId": "tt5215952",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Wailing.json",
+      "identityTitle": "The Wailing",
+      "identityResponseHash": "1ba622ca777beb8e2a9e4f3e88b98deba17fbc40e7203c5b4068580f2d89aba7"
+    },
+    {
+      "position": 4,
+      "title": "Get Out",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/get_out",
+      "imdbId": "tt5052448",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/g/Get%20Out.json",
+      "identityTitle": "Get Out",
+      "identityResponseHash": "82c0d495a976ce726693eaf38c004118e6b9b934512747273c51aff4158422f1"
+    },
+    {
+      "position": 5,
+      "title": "The Babadook",
+      "releaseYear": 2014,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_babadook",
+      "imdbId": "tt2321549",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Babadook.json",
+      "identityTitle": "The Babadook",
+      "identityResponseHash": "f5b1d5f0e9ae0590d387e07f41ccae1a13f817319a7544d6c4187afb5aeee6d4"
+    },
+    {
+      "position": 6,
+      "title": "Let the Right One In",
+      "releaseYear": 2008,
+      "sourceURL": "https://www.rottentomatoes.com/m/let_the_right_one_in",
+      "imdbId": "tt1139797",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/l/Let%20the%20Right%20One%20In.json",
+      "identityTitle": "Let the Right One In",
+      "identityResponseHash": "1ec7e62a0ce1bf880acd043368319b35d906dcdac5dcf35997866a8f1fafd257"
+    },
+    {
+      "position": 7,
+      "title": "Host",
+      "releaseYear": 2020,
+      "sourceURL": "https://www.rottentomatoes.com/m/host_2020",
+      "imdbId": "tt12749596",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Host.json",
+      "identityTitle": "Host",
+      "identityResponseHash": "4feeb90866ce2128baf0fc7feded40797aa19cde661063fc6bd76174e29c76c0"
+    },
+    {
+      "position": 8,
+      "title": "Bride of Frankenstein",
+      "releaseYear": 1935,
+      "sourceURL": "https://www.rottentomatoes.com/m/bride_of_frankenstein",
+      "imdbId": "tt0026138",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/b/Bride%20of%20Frankenstein.json",
+      "identityTitle": "Bride of Frankenstein",
+      "identityResponseHash": "cccce82950af534735ec5d9b8562436d57e03e0348ee4530e2df8aee1fb38a74"
+    },
+    {
+      "position": 9,
+      "title": "The Loved Ones",
+      "releaseYear": 2009,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_loved_ones_2012",
+      "imdbId": "tt1316536",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Loved%20Ones.json",
+      "identityTitle": "The Loved Ones",
+      "identityResponseHash": "bb3c1b4e3a711371af0793174ab22bfad67faf026156a20e6c82fbc446150a7a"
+    },
+    {
+      "position": 10,
+      "title": "Ringu",
+      "releaseYear": 1998,
+      "sourceURL": "https://www.rottentomatoes.com/m/ringu",
+      "imdbId": "tt0178868",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Ringu.json",
+      "identityTitle": "Ringu",
+      "identityResponseHash": "c3c776b081d514e647be6a30e15e24ec60b973c90255692b606b011066c5d3be"
+    },
+    {
+      "position": 11,
+      "title": "Vampyr",
+      "releaseYear": 1932,
+      "sourceURL": "https://www.rottentomatoes.com/m/vampyr_der_traum_des_allan_grey",
+      "imdbId": "tt0023649",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/v/Vampyr.json",
+      "identityTitle": "Vampyr",
+      "identityResponseHash": "18fee697b378af129b229bbdbcad520c85228980bef733261fcb583ed6cc1b35"
+    },
+    {
+      "position": 12,
+      "title": "Sinners",
+      "releaseYear": 2025,
+      "sourceURL": "https://www.rottentomatoes.com/m/sinners_2025",
+      "imdbId": "tt31193180",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/s/Sinners.json",
+      "identityTitle": "Sinners",
+      "identityResponseHash": "061df8c2ca8302fde8cc6b5b1473e63ea6a188335bce390d4a85686947989b8a"
+    },
+    {
+      "position": 13,
+      "title": "Jaws",
+      "releaseYear": 1975,
+      "sourceURL": "https://www.rottentomatoes.com/m/jaws",
+      "imdbId": "tt0073195",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/j/Jaws.json",
+      "identityTitle": "Jaws",
+      "identityResponseHash": "576758800c398508da614d0c571b9242820536797c824f68eb92ee5431a12bbc"
+    },
+    {
+      "position": 14,
+      "title": "Psycho",
+      "releaseYear": 1960,
+      "sourceURL": "https://www.rottentomatoes.com/m/psycho",
+      "imdbId": "tt0054215",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/p/Psycho.json",
+      "identityTitle": "Psycho",
+      "identityResponseHash": "9fb40e4d9260219118a517ce0f85f7557882139db1eac84e1dd6e522f01089bf"
+    },
+    {
+      "position": 15,
+      "title": "King Kong",
+      "releaseYear": 1933,
+      "sourceURL": "https://www.rottentomatoes.com/m/1011615-king_kong",
+      "imdbId": "tt0024216",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/k/King%20Kong.json",
+      "identityTitle": "King Kong",
+      "identityResponseHash": "b3edfd7310e61b5ac90f99eb9a19e5fcba61fb838548678af550bc29a566afbf"
+    },
+    {
+      "position": 16,
+      "title": "Tigers Are Not Afraid",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/tigers_are_not_afraid",
+      "imdbId": "tt4823434",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/Tigers%20Are%20Not%20Afraid.json",
+      "identityTitle": "Tigers Are Not Afraid",
+      "identityResponseHash": "b91891ec3224a347a8460c56505bf26f2485ae15887c8b14c3042704d0175767"
+    },
+    {
+      "position": 17,
+      "title": "Halloween",
+      "releaseYear": 1978,
+      "sourceURL": "https://www.rottentomatoes.com/m/1009113-halloween",
+      "imdbId": "tt0077651",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Halloween.json",
+      "identityTitle": "Halloween",
+      "identityResponseHash": "72f1e0d666722fea80e6a9385592b184e71aa6ec0a8a79e9a5ffa7d368af5108"
+    },
+    {
+      "position": 18,
+      "title": "Rosemary's Baby",
+      "releaseYear": 1968,
+      "sourceURL": "https://www.rottentomatoes.com/m/rosemarys_baby",
+      "imdbId": "tt0063522",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Rosemary's%20Baby.json",
+      "identityTitle": "Rosemary's Baby",
+      "identityResponseHash": "fdf7c88f70fc82653390f1a4e0d8197067620ca9ed96e6acc473a73ad537295e"
+    },
+    {
+      "position": 19,
+      "title": "Nosferatu",
+      "releaseYear": 1922,
+      "sourceURL": "https://www.rottentomatoes.com/m/nosferatu",
+      "imdbId": "tt0013442",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/n/Nosferatu.json",
+      "identityTitle": "Nosferatu",
+      "identityResponseHash": "607b7b22db5bc300e313e591171177d41b559bdd8717bbbb143004507b47d98f"
+    },
+    {
+      "position": 20,
+      "title": "Eyes Without a Face",
+      "releaseYear": 1960,
+      "sourceURL": "https://www.rottentomatoes.com/m/eyes_without_a_face_1962",
+      "imdbId": "tt0053459",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/e/Eyes%20Without%20a%20Face.json",
+      "identityTitle": "Eyes Without a Face",
+      "identityResponseHash": "587c1443687125f9f84841b09afb55b57d9a93785452818713d0c09cdfce2272"
+    },
+    {
+      "position": 21,
+      "title": "Harpoon",
+      "releaseYear": 2019,
+      "sourceURL": "https://www.rottentomatoes.com/m/harpoon_2019",
+      "imdbId": "tt7831358",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Harpoon.json",
+      "identityTitle": "Harpoon",
+      "identityResponseHash": "a1233a54e509c5515ab83d3e04c8af071099e96397735f99521184f91aa5d1c4"
+    },
+    {
+      "position": 22,
+      "title": "Invasion of the Body Snatchers",
+      "releaseYear": 1956,
+      "sourceURL": "https://www.rottentomatoes.com/m/1010678-invasion_of_the_body_snatchers",
+      "imdbId": "tt0049366",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/i/Invasion%20of%20the%20Body%20Snatchers.json",
+      "identityTitle": "Invasion of the Body Snatchers",
+      "identityResponseHash": "2d269d3eaa84d75b4e86df8b206f05820c6e966c23d4ce514eb8c58c1de65f75"
+    },
+    {
+      "position": 23,
+      "title": "A Quiet Place",
+      "releaseYear": 2018,
+      "sourceURL": "https://www.rottentomatoes.com/m/a_quiet_place_2018",
+      "imdbId": "tt6644200",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/A%20Quiet%20Place.json",
+      "identityTitle": "A Quiet Place",
+      "identityResponseHash": "92d2f0745735802491b4ce30a98b233880b53aab10783325dea443f773acad59"
+    },
+    {
+      "position": 24,
+      "title": "Resident Evil",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/resident_evil_2026",
+      "imdbId": "tt35538033",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Resident%20Evil.json",
+      "identityTitle": "Resident Evil",
+      "identityResponseHash": "9632ad1310486e3d8d3926cea3197717a97d2f5ef0efc58b92aa6f53ee1881f3"
+    },
+    {
+      "position": 25,
+      "title": "A Girl Walks Home Alone at Night",
+      "releaseYear": 2014,
+      "sourceURL": "https://www.rottentomatoes.com/m/a_girl_walks_home_alone_at_night",
+      "imdbId": "tt2326554",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/A%20Girl%20Walks%20Home%20Alone%20at%20Night.json",
+      "identityTitle": "A Girl Walks Home Alone at Night",
+      "identityResponseHash": "d526cee68a99a4b4d5a31d3426f063e9a58c4921b9387255a973f18442528550"
+    },
+    {
+      "position": 26,
+      "title": "La llorona",
+      "releaseYear": 2019,
+      "sourceURL": "https://www.rottentomatoes.com/m/la_llorona_2019",
+      "imdbId": "tt10767168",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/l/La%20llorona.json",
+      "identityTitle": "La Llorona",
+      "identityResponseHash": "7ed2b6d706d5b963946ac05f7e629fea673be4fdbbf4e1b568d14a389cb79253"
+    },
+    {
+      "position": 27,
+      "title": "The Cabinet of Dr. Caligari",
+      "releaseYear": 1920,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_cabinet_of_dr_caligari",
+      "imdbId": "tt0010323",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Cabinet%20of%20Dr.%20Caligari.json",
+      "identityTitle": "The Cabinet of Dr. Caligari",
+      "identityResponseHash": "cf5aa9cf9b6b5b2e1f0c592f52d24b544b5aecb2ce1afd5138ebd1b2df8f8b2b"
+    },
+    {
+      "position": 28,
+      "title": "Repulsion",
+      "releaseYear": 1965,
+      "sourceURL": "https://www.rottentomatoes.com/m/repulsion",
+      "imdbId": "tt0059646",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Repulsion.json",
+      "identityTitle": "Repulsion",
+      "identityResponseHash": "214a3972537911326bac172a72ce1d7c4c62c917e780f76638212de568bd7a22"
+    },
+    {
+      "position": 29,
+      "title": "Peeping Tom",
+      "releaseYear": 1960,
+      "sourceURL": "https://www.rottentomatoes.com/m/peeping_tom_1960",
+      "imdbId": "tt0054167",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/p/Peeping%20Tom.json",
+      "identityTitle": "Peeping Tom",
+      "identityResponseHash": "1c84c1dd24944b54e7329375b309f6a19428892689dda56ff81b664208b95053"
+    },
+    {
+      "position": 30,
+      "title": "Dracula",
+      "releaseYear": 1931,
+      "sourceURL": "https://www.rottentomatoes.com/m/1006234-dracula",
+      "imdbId": "tt0021814",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Dracula.json",
+      "identityTitle": "Dracula",
+      "identityResponseHash": "e331f9761928c0611f1e13d06bda0c67283c0aced50f3e0f2e38866f053d02e2"
+    },
+    {
+      "position": 31,
+      "title": "The Vanishing",
+      "releaseYear": 1988,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_vanishing",
+      "imdbId": "tt0096163",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Vanishing.json",
+      "identityTitle": "The Vanishing",
+      "identityResponseHash": "e457ab0ebb6376198dcbd6104540df3c5188d213f7bfd92b99424ff2ffb8722c"
+    },
+    {
+      "position": 32,
+      "title": "Dead of Night",
+      "releaseYear": 1945,
+      "sourceURL": "https://www.rottentomatoes.com/m/1005405-dead_of_night",
+      "imdbId": "tt0037635",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Dead%20of%20Night.json",
+      "identityTitle": "Dead of Night",
+      "identityResponseHash": "d7ad58c57244bca3791b49024fe73bacec817f4bea7ad7b922ecfb7885707ea9"
+    },
+    {
+      "position": 33,
+      "title": "We Are Still Here",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/we_are_still_here",
+      "imdbId": "tt3520418",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/w/We%20Are%20Still%20Here.json",
+      "identityTitle": "We Are Still Here",
+      "identityResponseHash": "83b3a1e866e45d92c2e71ad63ad20e94b5bc01c5d83bcfa1212bc8ef4dcdc166"
+    },
+    {
+      "position": 34,
+      "title": "It Follows",
+      "releaseYear": 2014,
+      "sourceURL": "https://www.rottentomatoes.com/m/it_follows",
+      "imdbId": "tt3235888",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/i/It%20Follows.json",
+      "identityTitle": "It Follows",
+      "identityResponseHash": "94dceccd513612292d94dcf90ac415322774d08682f357fa66adf4b1f776fdda"
+    },
+    {
+      "position": 35,
+      "title": "The Silence of the Lambs",
+      "releaseYear": 1991,
+      "sourceURL": "https://www.rottentomatoes.com/m/silence_of_the_lambs",
+      "imdbId": "tt0102926",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Silence%20of%20the%20Lambs.json",
+      "identityTitle": "The Silence of the Lambs",
+      "identityResponseHash": "be6a2c60c555efb8fc1fa2b21cfe83953877cbffc2880fd52488e44bec9b1891"
+    },
+    {
+      "position": 36,
+      "title": "Train to Busan",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/train_to_busan",
+      "imdbId": "tt5700672",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/Train%20to%20Busan.json",
+      "identityTitle": "Train to Busan",
+      "identityResponseHash": "8f31453a9abc5dd5b9c8b18509b37bee1ac8ad98c7f3c888de5757dca98b0007"
+    },
+    {
+      "position": 37,
+      "title": "The Love Witch",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_love_witch",
+      "imdbId": "tt3908142",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Love%20Witch.json",
+      "identityTitle": "The Love Witch",
+      "identityResponseHash": "033871168b9dc5a5da198fe1a7a0ca9d79717ef7b6d835ef32a75aa299097f04"
+    },
+    {
+      "position": 38,
+      "title": "Night of the Living Dead",
+      "releaseYear": 1968,
+      "sourceURL": "https://www.rottentomatoes.com/m/night_of_the_living_dead",
+      "imdbId": "tt0063350",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/n/Night%20of%20the%20Living%20Dead.json",
+      "identityTitle": "Night of the Living Dead",
+      "identityResponseHash": "d925ff561bdffe34ce7512e3acdaec7c78e3479dd34d1ea7041a7037782471bc"
+    },
+    {
+      "position": 39,
+      "title": "The Birds",
+      "releaseYear": 1963,
+      "sourceURL": "https://www.rottentomatoes.com/m/1002448-birds",
+      "imdbId": "tt0056869",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Birds.json",
+      "identityTitle": "The Birds",
+      "identityResponseHash": "e73286816861a94111c44594c668247b5752af5926532c9f23da437f083058ee"
+    },
+    {
+      "position": 40,
+      "title": "Freaks",
+      "releaseYear": 1932,
+      "sourceURL": "https://www.rottentomatoes.com/m/freaks",
+      "imdbId": "tt0022913",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/f/Freaks.json",
+      "identityTitle": "Freaks",
+      "identityResponseHash": "299022660de9a0cc76033fbf69a13e6e23852b95c71e2d7a7ecc26cce7ccb0a0"
+    },
+    {
+      "position": 41,
+      "title": "The Invisible Man",
+      "releaseYear": 1933,
+      "sourceURL": "https://www.rottentomatoes.com/m/1010695-invisible_man",
+      "imdbId": "tt0024184",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Invisible%20Man.json",
+      "identityTitle": "The Invisible Man",
+      "identityResponseHash": "88159f8bd4d4a9069884c104d2c0b33622a5db616931815b2a55e7a73b532c33"
+    },
+    {
+      "position": 42,
+      "title": "The Innocents",
+      "releaseYear": 1961,
+      "sourceURL": "https://www.rottentomatoes.com/m/1099622-innocents",
+      "imdbId": "tt0055018",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Innocents.json",
+      "identityTitle": "The Innocents",
+      "identityResponseHash": "e198c0200a9f15c0fe21b6eaa996360eb42745b69d7fa4ff73c89ee2d22d7993"
+    },
+    {
+      "position": 43,
+      "title": "Housebound",
+      "releaseYear": 2014,
+      "sourceURL": "https://www.rottentomatoes.com/m/housebound",
+      "imdbId": "tt3504048",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Housebound.json",
+      "identityTitle": "Housebound",
+      "identityResponseHash": "59d4702c67ff737af9e6d54b4863e9c02c50d2249ecafd3dfdec7fc8b145e3fd"
+    },
+    {
+      "position": 44,
+      "title": "The Fly",
+      "releaseYear": 1958,
+      "sourceURL": "https://www.rottentomatoes.com/m/1007600-fly",
+      "imdbId": "tt0051622",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Fly.json",
+      "identityTitle": "The Fly",
+      "identityResponseHash": "edbb469c9057e5fc687c28b5000f95e00048ca208d58aa27c5433e54e9441b91"
+    },
+    {
+      "position": 45,
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+      "imdbId": "tt35298123",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma.json",
+      "identityTitle": "Teenage Sex and Death at Camp Miasma",
+      "identityResponseHash": "1532b238de2a0efeac85e247d81cfbcedcf2a800e316f1af89a05a823e479846"
+    },
+    {
+      "position": 46,
+      "title": "Frankenstein",
+      "releaseYear": 1931,
+      "sourceURL": "https://www.rottentomatoes.com/m/1007818-frankenstein",
+      "imdbId": "tt0021884",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/f/Frankenstein.json",
+      "identityTitle": "Frankenstein",
+      "identityResponseHash": "4cbbf45a0a0d3d4cc8b5a75edc9434916c1c7929d9a59484327466aeb5bca6a8"
+    },
+    {
+      "position": 47,
+      "title": "Carrie",
+      "releaseYear": 1976,
+      "sourceURL": "https://www.rottentomatoes.com/m/1003625-carrie",
+      "imdbId": "tt0074285",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/c/Carrie.json",
+      "identityTitle": "Carrie",
+      "identityResponseHash": "de0460999f370e16f2fbaef6b7134c6b4633ed3a6a4483b4cf6cb6441311f9fe"
+    },
+    {
+      "position": 48,
+      "title": "Suspiria",
+      "releaseYear": 1977,
+      "sourceURL": "https://www.rottentomatoes.com/m/1020662-suspiria",
+      "imdbId": "tt0076786",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/s/Suspiria.json",
+      "identityTitle": "Suspiria",
+      "identityResponseHash": "67f04b3ec0339f332e0cc702bee05f38a2abdedfb6ce09cf41293752ec59a481"
+    },
+    {
+      "position": 49,
+      "title": "The Cat and the Canary",
+      "releaseYear": 1927,
+      "sourceURL": "https://www.rottentomatoes.com/m/1003747-cat_and_the_canary",
+      "imdbId": "tt0017739",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/c/cat%20and%20the%20canary%201927.json",
+      "identityTitle": "The Cat and the Canary",
+      "identityResponseHash": "9e57059a3d88272bd0cdd19b13811de753ad3c36316339694a4e298fbaa12027"
+    },
+    {
+      "position": 50,
+      "title": "Us",
+      "releaseYear": 2019,
+      "sourceURL": "https://www.rottentomatoes.com/m/us_2019",
+      "imdbId": "tt6857112",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/u/Us.json",
+      "identityTitle": "Us",
+      "identityResponseHash": "98741712f2d1f4fe2a69882bb28279ffe4abb7eaa9992392ae5c6a8482363c74"
+    },
+    {
+      "position": 51,
+      "title": "Weapons",
+      "releaseYear": 2025,
+      "sourceURL": "https://www.rottentomatoes.com/m/weapons",
+      "imdbId": "tt26581740",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/w/Weapons.json",
+      "identityTitle": "Weapons",
+      "identityResponseHash": "e2eee7ef99824ef9a6531f52205760c2c4f1730c92ae703b8a629f1f923d30fe"
+    },
+    {
+      "position": 52,
+      "title": "Obsession",
+      "releaseYear": 2025,
+      "sourceURL": "https://www.rottentomatoes.com/m/obsession_2025",
+      "imdbId": "tt37287335",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/o/Obsession.json",
+      "identityTitle": "Obsession",
+      "identityResponseHash": "30b5713976e5a203e8207f935d96a16799c5a6721cb81eaacb4dc7f306ab231d"
+    },
+    {
+      "position": 53,
+      "title": "Alien",
+      "releaseYear": 1979,
+      "sourceURL": "https://www.rottentomatoes.com/m/alien",
+      "imdbId": "tt0078748",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/Alien.json",
+      "identityTitle": "Alien",
+      "identityResponseHash": "97196839a3fb945d543f46bcf586bece033511768fb0b39f33c302a84fb5dff3"
+    },
+    {
+      "position": 54,
+      "title": "Raw",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/raw_2017",
+      "imdbId": "tt4954522",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Raw.json",
+      "identityTitle": "Raw",
+      "identityResponseHash": "a9ebf34eda27ea51fdcc174e8a9d5e1f60366438c6927edf4fcf9890293af958"
+    },
+    {
+      "position": 55,
+      "title": "Aliens",
+      "releaseYear": 1986,
+      "sourceURL": "https://www.rottentomatoes.com/m/1000617-aliens",
+      "imdbId": "tt0090605",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/Aliens.json",
+      "identityTitle": "Aliens",
+      "identityResponseHash": "ec25167bc3ae72b49670f0cc00c8f387b30873593135770b2de0049b426aa74f"
+    },
+    {
+      "position": 56,
+      "title": "Leviticus",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/leviticus",
+      "imdbId": "tt39143902",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/l/Leviticus.json",
+      "identityTitle": "Leviticus",
+      "identityResponseHash": "7e2e32d6b837625c6ae1b5435b812ea3775a012907e9d92538a58d4f37f67f29"
+    },
+    {
+      "position": 57,
+      "title": "The Host",
+      "releaseYear": 2006,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_host_2007",
+      "imdbId": "tt0468492",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Host.json",
+      "identityTitle": "The Host",
+      "identityResponseHash": "7bf4ac5a0c9c01a1a1626e6a5d39f4e65d46d497c4f714a2f347d7f0538c2a41"
+    },
+    {
+      "position": 58,
+      "title": "The Devil's Backbone",
+      "releaseYear": 2001,
+      "sourceURL": "https://www.rottentomatoes.com/m/devils_backbone",
+      "imdbId": "tt0256009",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Devil's%20Backbone.json",
+      "identityTitle": "The Devil's Backbone",
+      "identityResponseHash": "c65592bfc6047faec5a5a728c4b2341a603239317e6d913e7e8d48e08b1ed9bd"
+    },
+    {
+      "position": 59,
+      "title": "The Night of the Hunter",
+      "releaseYear": 1955,
+      "sourceURL": "https://www.rottentomatoes.com/m/night_of_the_hunter",
+      "imdbId": "tt0048424",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Night%20of%20the%20Hunter.json",
+      "identityTitle": "The Night of the Hunter",
+      "identityResponseHash": "dd28b4bcd244fb5cd33cb61788b624a7ffa365f0baf590fb52bcc9c01554a6b7"
+    },
+    {
+      "position": 60,
+      "title": "Don't Look Now",
+      "releaseYear": 1973,
+      "sourceURL": "https://www.rottentomatoes.com/m/dont_look_now",
+      "imdbId": "tt0069995",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Don't%20Look%20Now.json",
+      "identityTitle": "Don't Look Now",
+      "identityResponseHash": "c8abd569f0b205591b84349cff912065f662f944f13d298a2c5f1cba3580e627"
+    },
+    {
+      "position": 61,
+      "title": "Invasion of the Body Snatchers",
+      "releaseYear": 1978,
+      "sourceURL": "https://www.rottentomatoes.com/m/1010679-invasion_of_the_body_snatchers",
+      "imdbId": "tt0077745",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/i/Invasion%20of%20the%20Body%20Snatchers.json",
+      "identityTitle": "Invasion of the Body Snatchers",
+      "identityResponseHash": "2d269d3eaa84d75b4e86df8b206f05820c6e966c23d4ce514eb8c58c1de65f75"
+    },
+    {
+      "position": 62,
+      "title": "Nosferatu the Vampyre",
+      "releaseYear": 1979,
+      "sourceURL": "https://www.rottentomatoes.com/m/nosferatu_the_vampyre",
+      "imdbId": "tt0079641",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/n/Nosferatu%20the%20Vampyre.json",
+      "identityTitle": "Nosferatu the Vampyre",
+      "identityResponseHash": "36ba7e400feaccac31828b712c73dd03fd97758d2f8dc1fdc16139124f66f2f6"
+    },
+    {
+      "position": 63,
+      "title": "A Nightmare on Elm Street",
+      "releaseYear": 1984,
+      "sourceURL": "https://www.rottentomatoes.com/m/nightmare_on_elm_street",
+      "imdbId": "tt0087800",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/A%20Nightmare%20on%20Elm%20Street.json",
+      "identityTitle": "A Nightmare on Elm Street",
+      "identityResponseHash": "bbeb6654a1113a27996385a3f89f1a36093cf167cde9357bf8fe12dcd290b0c1"
+    },
+    {
+      "position": 64,
+      "title": "The Devil's Candy",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_devils_candy",
+      "imdbId": "tt4935372",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Devil's%20Candy.json",
+      "identityTitle": "The Devil's Candy",
+      "identityResponseHash": "2560e39ab3eb32426dd445bbb36057491dc231ffc0a9e67f8b48770a072d1171"
+    },
+    {
+      "position": 65,
+      "title": "House of Wax",
+      "releaseYear": 1953,
+      "sourceURL": "https://www.rottentomatoes.com/m/1010030-house_of_wax",
+      "imdbId": "tt0045888",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/House%20of%20Wax.json",
+      "identityTitle": "House of Wax",
+      "identityResponseHash": "cac82efae8077499297971cbac819573941dc311fa5e87721c4a6dc316a4e4b7"
+    },
+    {
+      "position": 66,
+      "title": "Village of the Damned",
+      "releaseYear": 1960,
+      "sourceURL": "https://www.rottentomatoes.com/m/1022823-village_of_the_damned",
+      "imdbId": "tt0054443",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/v/Village%20of%20the%20Damned.json",
+      "identityTitle": "Village of the Damned",
+      "identityResponseHash": "f975f2a02472e8cd356f3c80f961c31ba75dae3a0a75df0fa462d4d4c839fa53"
+    },
+    {
+      "position": 67,
+      "title": "Send Help",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/send_help",
+      "imdbId": "tt8036976",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/s/Send%20Help.json",
+      "identityTitle": "Send Help",
+      "identityResponseHash": "ef21fc6ab15cdf0b2c53b415b72f270051d8def552db147b4882cec179dff315"
+    },
+    {
+      "position": 68,
+      "title": "The Cabin in the Woods",
+      "releaseYear": 2011,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_cabin_in_the_woods",
+      "imdbId": "tt1259521",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Cabin%20in%20the%20Woods.json",
+      "identityTitle": "The Cabin in the Woods",
+      "identityResponseHash": "cc84ab82ff9e0b6f6a910b2fc4250f21e1bf33a5bad4fa5fa5090534f4f88530"
+    },
+    {
+      "position": 69,
+      "title": "Drag Me to Hell",
+      "releaseYear": 2009,
+      "sourceURL": "https://www.rottentomatoes.com/m/drag_me_to_hell",
+      "imdbId": "tt1127180",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Drag%20Me%20to%20Hell.json",
+      "identityTitle": "Drag Me to Hell",
+      "identityResponseHash": "534ff7c356be7d37544d43ea600f7134d464b961697b7c51d126c79baeb3b366"
+    },
+    {
+      "position": 70,
+      "title": "Shaun of the Dead",
+      "releaseYear": 2004,
+      "sourceURL": "https://www.rottentomatoes.com/m/shaun_of_the_dead",
+      "imdbId": "tt0365748",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/s/Shaun%20of%20the%20Dead.json",
+      "identityTitle": "Shaun of the Dead",
+      "identityResponseHash": "1f357df9c881f864706f05d7699b4af24fa8140df8858097375c8ec70085fc72"
+    },
+    {
+      "position": 71,
+      "title": "Revenge",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/revenge_2018",
+      "imdbId": "tt6738136",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/r/Revenge.json",
+      "identityTitle": "Revenge",
+      "identityResponseHash": "dbac196e597b7de75a93dddb7164f7b04f9ba1b02598e5d311135e43faef4ee6"
+    },
+    {
+      "position": 72,
+      "title": "Prevenge",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/prevenge",
+      "imdbId": "tt5154288",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/p/Prevenge.json",
+      "identityTitle": "Prevenge",
+      "identityResponseHash": "c74d9b2a61c1b03b79361bd41412eeb8ff343fbe572cbd3de6be9bfb95159436"
+    },
+    {
+      "position": 73,
+      "title": "Demon",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/demon_2016",
+      "imdbId": "tt4935158",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Demon.json",
+      "identityTitle": "Demon",
+      "identityResponseHash": "0cf8f9137272e89dcd32df6d5d0659470f5642c0802729b17f0d357a3a9658ff"
+    },
+    {
+      "position": 74,
+      "title": "The Wicker Man",
+      "releaseYear": 1973,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_wicker_man_1973",
+      "imdbId": "tt0070917",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Wicker%20Man.json",
+      "identityTitle": "The Wicker Man",
+      "identityResponseHash": "71a1f569a560b1bb057b751677c5d3f3b883b9929e1877c641acdf06c19ae042"
+    },
+    {
+      "position": 75,
+      "title": "Cat People",
+      "releaseYear": 1942,
+      "sourceURL": "https://www.rottentomatoes.com/m/1003757-cat_people",
+      "imdbId": "tt0034587",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/c/Cat%20People.json",
+      "identityTitle": "Cat People",
+      "identityResponseHash": "4a3dfc4f2c7e46f8422d6917d3bd124d5daad2d8b16834d6da5a91d53fbca6c8"
+    },
+    {
+      "position": 76,
+      "title": "Dawn of the Dead",
+      "releaseYear": 1978,
+      "sourceURL": "https://www.rottentomatoes.com/m/1005339-dawn_of_the_dead",
+      "imdbId": "tt0077402",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Dawn%20of%20the%20Dead.json",
+      "identityTitle": "Dawn of the Dead",
+      "identityResponseHash": "74451cb8c8d5699f2afb9ade4902af52a9f9e775dd32efbb6400ba1969e4b7bb"
+    },
+    {
+      "position": 77,
+      "title": "1922",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/1922_2017",
+      "imdbId": "tt6214928",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/1/1922.json",
+      "identityTitle": "1922",
+      "identityResponseHash": "2693e5ffb19411266c7a62a46b5b368ff8d0d26cabfc56872b7ff85904ce4941"
+    },
+    {
+      "position": 78,
+      "title": "Nina Forever",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/nina_forever",
+      "imdbId": "tt2885628",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/n/Nina%20Forever.json",
+      "identityTitle": "Nina Forever",
+      "identityResponseHash": "6c5a891ea397d51d79d7e5326e486ac4eed211c790bf8394bdc4512f053d12fe"
+    },
+    {
+      "position": 79,
+      "title": "The Invisible Man",
+      "releaseYear": 2020,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_invisible_man_2020",
+      "imdbId": "tt1051906",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Invisible%20Man.json",
+      "identityTitle": "The Invisible Man",
+      "identityResponseHash": "88159f8bd4d4a9069884c104d2c0b33622a5db616931815b2a55e7a73b532c33"
+    },
+    {
+      "position": 80,
+      "title": "28 Years Later: The Bone Temple",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
+      "imdbId": "tt32141377",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/2/28%20Years%20Later%3A%20The%20Bone%20Temple.json",
+      "identityTitle": "28 Years Later: The Bone Temple",
+      "identityResponseHash": "1954915788ecaac715c0670d5d3ffaef7514862d2cf032448adac8650cd66666"
+    },
+    {
+      "position": 81,
+      "title": "The Witch",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_witch_2016",
+      "imdbId": "tt4263482",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Witch.json",
+      "identityTitle": "The Witch",
+      "identityResponseHash": "c8f416fee75418413f55022ee33b56aaa194a3ae3460da55601768d27224b9b1"
+    },
+    {
+      "position": 82,
+      "title": "10 Cloverfield Lane",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/10_cloverfield_lane",
+      "imdbId": "tt1179933",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/1/10%20Cloverfield%20Lane.json",
+      "identityTitle": "10 Cloverfield Lane",
+      "identityResponseHash": "4acbf7087a7230a935345884790c350a7f29c32002fa90f99ddcd7c5ce8613c5"
+    },
+    {
+      "position": 83,
+      "title": "Mandy",
+      "releaseYear": 2018,
+      "sourceURL": "https://www.rottentomatoes.com/m/mandy_2018",
+      "imdbId": "tt6998518",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/m/Mandy.json",
+      "identityTitle": "Mandy",
+      "identityResponseHash": "8ca6f1a9b22f1a06da2ee2c8fd394266e449b06f36b3f0ed6c48e8ba100885ac"
+    },
+    {
+      "position": 84,
+      "title": "Attack the Block",
+      "releaseYear": 2011,
+      "sourceURL": "https://www.rottentomatoes.com/m/attack_the_block",
+      "imdbId": "tt1478964",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/a/Attack%20the%20Block.json",
+      "identityTitle": "Attack the Block",
+      "identityResponseHash": "c0fc4c2d48b990e0d07dda310854ae4a090184bd53a926bebd38d89dcab70ee8"
+    },
+    {
+      "position": 85,
+      "title": "The Endless",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_endless",
+      "imdbId": "tt3986820",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Endless.json",
+      "identityTitle": "The Endless",
+      "identityResponseHash": "c5bbcc8318250db441b83ebabc8c4c4e6421a59e9a8d5a231148f1ff5d9f835e"
+    },
+    {
+      "position": 86,
+      "title": "Bone Tomahawk",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/bone_tomahawk",
+      "imdbId": "tt2494362",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/b/Bone%20Tomahawk.json",
+      "identityTitle": "Bone Tomahawk",
+      "identityResponseHash": "c6742445f98a6ddc8f20da40932e592e08cad16bd03020f6c931cfec6af6125b"
+    },
+    {
+      "position": 87,
+      "title": "Gerald's Game",
+      "releaseYear": 2017,
+      "sourceURL": "https://www.rottentomatoes.com/m/geralds_game",
+      "imdbId": "tt3748172",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/g/Gerald's%20Game.json",
+      "identityTitle": "Gerald's Game",
+      "identityResponseHash": "a513137b9dac7f553bf7901779324a5e84700120e6285a903fa7dc85953f71d0"
+    },
+    {
+      "position": 88,
+      "title": "Creepy",
+      "releaseYear": 2016,
+      "sourceURL": "https://www.rottentomatoes.com/m/creepy",
+      "imdbId": "tt4900708",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/c/Creepy.json",
+      "identityTitle": "Creepy",
+      "identityResponseHash": "54c096dbf07a4a3d02a221a0dc8cbf8607df91a05cc701f7bd4dff04608c2245"
+    },
+    {
+      "position": 89,
+      "title": "The Wolf Man",
+      "releaseYear": 1941,
+      "sourceURL": "https://www.rottentomatoes.com/m/wolf_man",
+      "imdbId": "tt0034398",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Wolf%20Man.json",
+      "identityTitle": "The Wolf Man",
+      "identityResponseHash": "6e1db7813fb0fd3fde8c396336d779f072fdec0b9785f3d481e77e8172483566"
+    },
+    {
+      "position": 90,
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "releaseYear": 1931,
+      "sourceURL": "https://www.rottentomatoes.com/m/1006207-dr_jekyll_and_mr_hyde",
+      "imdbId": "tt0022835",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Dr.%20Jekyll%20and%20Mr.%20Hyde.json",
+      "identityTitle": "Dr. Jekyll and Mr. Hyde",
+      "identityResponseHash": "106e422240f5a3c0129d53eac367b528c8d1dfb13586d2b014336833f399ba65"
+    },
+    {
+      "position": 91,
+      "title": "The Lighthouse",
+      "releaseYear": 2019,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_lighthouse_2019",
+      "imdbId": "tt7984734",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Lighthouse.json",
+      "identityTitle": "The Lighthouse",
+      "identityResponseHash": "b6afa86be315010b37246163effbbf96644465ba98ed3735f4306b8fc90137f5"
+    },
+    {
+      "position": 92,
+      "title": "Hereditary",
+      "releaseYear": 2018,
+      "sourceURL": "https://www.rottentomatoes.com/m/hereditary",
+      "imdbId": "tt7784604",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Hereditary.json",
+      "identityTitle": "Hereditary",
+      "identityResponseHash": "f4f3f3b40905b09e4e160e9cbbc624bb9d16ef2d3e386894a7fde9479f477164"
+    },
+    {
+      "position": 93,
+      "title": "Green Room",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/green_room_2016",
+      "imdbId": "tt4062536",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/g/Green%20Room.json",
+      "identityTitle": "Green Room",
+      "identityResponseHash": "81d40b57cd05511c8fd66176a5ff0f8135f76adba3ad388375f3f82aea64e1c1"
+    },
+    {
+      "position": 94,
+      "title": "Hokum",
+      "releaseYear": 2026,
+      "sourceURL": "https://www.rottentomatoes.com/m/hokum",
+      "imdbId": "tt35672862",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/Hokum.json",
+      "identityTitle": "Hokum",
+      "identityResponseHash": "2beb0853d78a44b8b4c0e25e2f5ff4491015978fef78957034e29cf1ee5475ab"
+    },
+    {
+      "position": 95,
+      "title": "The Invitation",
+      "releaseYear": 2015,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_invitation",
+      "imdbId": "tt2400463",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Invitation.json",
+      "identityTitle": "The Invitation",
+      "identityResponseHash": "7324bd26cc5a1fa60f23ecd3a64795c17acadbd0388bc1c94be9914de7862856"
+    },
+    {
+      "position": 96,
+      "title": "Ginger Snaps",
+      "releaseYear": 2000,
+      "sourceURL": "https://www.rottentomatoes.com/m/ginger_snaps",
+      "imdbId": "tt0210070",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/g/Ginger%20Snaps.json",
+      "identityTitle": "Ginger Snaps",
+      "identityResponseHash": "fae4f95ce1a7ccc563d22aa9ad2acb9829bfedf102d69d062f4a19aafa366fbf"
+    },
+    {
+      "position": 97,
+      "title": "Duel",
+      "releaseYear": 1971,
+      "sourceURL": "https://www.rottentomatoes.com/m/1006345-duel",
+      "imdbId": "tt0067023",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/d/Duel.json",
+      "identityTitle": "Duel",
+      "identityResponseHash": "bc9a3510ccc3b40cef75e474cfdcc221d0ffab3f43c9c63488e3aab31bf01f4b"
+    },
+    {
+      "position": 98,
+      "title": "The Phantom of the Opera",
+      "releaseYear": 1925,
+      "sourceURL": "https://www.rottentomatoes.com/m/phantom_of_the_opera_1925",
+      "imdbId": "tt0016220",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/p/phantom%20of%20the%20opera%201925.json",
+      "identityTitle": "The Phantom of the Opera",
+      "identityResponseHash": "37442b755347184b6ad54f9d80da757627f24c81288d53ee4b431009517e9f31"
+    },
+    {
+      "position": 99,
+      "title": "The Mummy",
+      "releaseYear": 1932,
+      "sourceURL": "https://www.rottentomatoes.com/m/the_mummy_1932",
+      "imdbId": "tt0023245",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/t/The%20Mummy.json",
+      "identityTitle": "The Mummy",
+      "identityResponseHash": "426c5628f06155d0e03c7dfa7e2b741b1f493f05ce2c4d2999cec0aed0f5dd51"
+    },
+    {
+      "position": 100,
+      "title": "House",
+      "releaseYear": 1977,
+      "sourceURL": "https://www.rottentomatoes.com/m/hausu",
+      "imdbId": "tt0076162",
+      "identityURL": "https://v3.sg.media-imdb.com/suggestion/h/House.json",
+      "identityTitle": "House",
+      "identityResponseHash": "ee142c1c4b927147c353cb0fb28363a5253bda48ae4b030c071e9663b04f4a53"
+    }
+  ]
+}

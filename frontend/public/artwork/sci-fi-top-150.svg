@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Sci-Fi Top 150: ein Ringplanet hinter einem geöffneten Sternentor">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 06</text>
+
+  <!-- A ringed planet beyond an open arch: a threshold into another world. -->
+  <path d="M143 527V378a157 157 0 0 1 314 0v149Z" fill="#292820"/>
+  <path d="M176 527V378a124 124 0 0 1 248 0v149Z" fill="#eee6d5"/>
+  <path d="M193 527V378a107 107 0 0 1 214 0v149" fill="none" stroke="#ba522c" stroke-width="4"/>
+  <ellipse cx="300" cy="378" rx="181" ry="64" transform="rotate(-22 300 378)" fill="none" stroke="#b9914e" stroke-width="3"/>
+  <path d="M232 396a68 68 0 0 1 136 0v38H232Z" fill="#ba522c"/>
+  <path d="M232 396a68 68 0 0 1 136 0" fill="none" stroke="#292820" stroke-width="4"/>
+  <ellipse cx="300" cy="393" rx="101" ry="27" transform="rotate(-22 300 393)" fill="none" stroke="#292820" stroke-width="7"/>
+  <path d="M240 402q60-24 120 0M242 416q58-21 116 0" fill="none" stroke="#eee6d5" stroke-width="3"/>
+  <path d="M176 493h248M185 510h230" fill="none" stroke="#8b8475" stroke-width="2"/>
+  <circle cx="427" cy="307" r="9" fill="#b9914e" stroke="#292820" stroke-width="2"/>
+  <path d="m427 288 0-12m14 31 11-6m-40 0-11-6" fill="none" stroke="#ba522c" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="176" cy="378" r="5" fill="#b9914e"/><circle cx="424" cy="378" r="5" fill="#b9914e"/>
+  <path d="M181 560h238" stroke="#8b8475" stroke-width="1"/>
+  <text x="300" y="669" text-anchor="middle" font-family="Georgia,serif" font-size="80" letter-spacing="2" fill="#292820">SCI-FI</text>
+  <text x="300" y="726" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" letter-spacing="8" fill="#ba522c">TOP 150</text>
+  <path d="M190 770h220" stroke="#8b8475" stroke-width="1"/>
+  <text x="300" y="812" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#625e51">ROTTEN TOMATOES · 2020</text>
+</svg>

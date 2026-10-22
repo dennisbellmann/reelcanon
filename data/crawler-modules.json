@@ -1,0 +1,32 @@
+[
+  {
+    "key": "imdb-top-250-archive",
+    "name": "IMDb Top 250 · Archiv vom 20.08.2025",
+    "parser": "imdb-top-250",
+    "file": "imdb-top-250-2025-08-20.json"
+  },
+  {
+    "key": "oscar-best-picture",
+    "name": "Oscar · alle Gewinner Bester Film (1929–2026)",
+    "parser": "snapshot",
+    "file": "oscar-best-picture.json"
+  },
+  {
+    "key": "1001-movies-2024",
+    "name": "1001 Filme · 15. deutschsprachige Ausgabe (2024)",
+    "parser": "snapshot",
+    "file": "1001-movies-2024.json"
+  },
+  {
+    "key": "sight-and-sound-greatest-films-2022",
+    "name": "Sight & Sound · Greatest Films 2022 (Kritiker-Poll)",
+    "parser": "snapshot",
+    "file": "sight-and-sound-greatest-films-2022.json"
+  },
+  {
+    "key": "sci-fi-top-150",
+    "name": "Sci-Fi · 150 Essential Films (Rotten Tomatoes)",
+    "parser": "snapshot",
+    "file": "sci-fi-top-150.json"
+  }
+]

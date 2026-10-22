@@ -1,0 +1,99 @@
+openapi: 3.1.0
+info:
+  title: Reel Canon Public API
+  version: 1.0.0
+servers:
+  - url: /api/v1
+paths:
+  /healthz:
+    get:
+      summary: Check public API and database readiness
+      responses:
+        '200': { description: Ready }
+        '503': { description: Database unavailable }
+  /canons:
+    get:
+      summary: List live Canons with a published edition
+      responses:
+        '200':
+          description: Public Canons
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/Canon' }
+  /canons/{slug}:
+    get:
+      summary: Read a live Canon and all movies in its current published edition
+      parameters:
+        - in: path
+          name: slug
+          required: true
+          schema: { type: string }
+      responses:
+        '200':
+          description: Published Canon catalog
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/CanonCatalog' }
+        '404': { description: Canon not found, not live, or no published edition }
+  /movies/{imdbId}/canons:
+    get:
+      summary: List published Canons containing a movie
+      parameters:
+        - in: path
+          name: imdbId
+          required: true
+          schema: { type: string }
+      responses:
+        '200':
+          description: Current live memberships (empty if none)
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/Canon' }
+components:
+  schemas:
+    Canon:
+      type: object
+      required: [slug, name, description, source, filmCount, currentEdition]
+      properties:
+        slug: { type: string }
+        name: { type: string }
+        description: { type: string }
+        source: { type: string }
+        filmCount: { type: integer }
+        currentEdition: { type: [string, 'null'] }
+        displayPosition: { type: integer, minimum: 0, description: 'Cockpit order; smaller values first, then name and slug.' }
+        posterUrl: { type: string, description: 'Root-relative artwork path or absolute HTTPS image URL.' }
+        posterTitleEmbedded: { type: boolean }
+        imdbIds:
+          type: array
+          description: Film identities in the current edition, included in the collection index for browser-local completion tracking.
+          items: { type: string, pattern: '^tt[0-9]{7,10}$' }
+    CanonCatalog:
+      type: object
+      required: [canon, movies]
+      properties:
+        canon: { $ref: '#/components/schemas/Canon' }
+        movies:
+          type: array
+          items: { $ref: '#/components/schemas/Movie' }
+    Movie:
+      type: object
+      required: [imdbId, tmdbId, title, originalTitle, releaseYear, runtimeMinutes, overview, posterUrl, imdbRating, directors, genres, countries, position]
+      properties:
+        imdbId: { type: string }
+        tmdbId: { type: [integer, 'null'] }
+        title: { type: string }
+        originalTitle: { type: [string, 'null'] }
+        releaseYear: { type: [integer, 'null'] }
+        runtimeMinutes: { type: [integer, 'null'] }
+        overview: { type: string }
+        posterUrl: { type: [string, 'null'] }
+        imdbRating: { type: [number, 'null'] }
+        directors: { type: array, items: { type: string } }
+        genres: { type: array, items: { type: string } }
+        countries: { type: array, items: { type: string } }
+        position: { type: integer }

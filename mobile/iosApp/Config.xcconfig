@@ -1,0 +1,2 @@
+// Supply a reachable HTTPS endpoint before running on an iPhone.
+REEL_CANON_API_BASE_URL = https:/$()/example.invalid/api/v1

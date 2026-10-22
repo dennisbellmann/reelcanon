@@ -1,0 +1,11 @@
+{
+  "tt4093826": {
+    "seriesId": 1920,
+    "seasonNumber": 3,
+    "sourceTitle": "Twin Peaks: The Return",
+    "expectedSeasonName": "The Return",
+    "expectedAirDate": "2017-05-21",
+    "sourceUrl": "https://www.themoviedb.org/tv/1920-twin-peaks/season/3",
+    "reason": "TMDb exposes the 2017 work as season 3 (The Return), not as an IMDb-linked standalone movie or series result."
+  }
+}

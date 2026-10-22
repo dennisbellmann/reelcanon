@@ -1,0 +1,619 @@
+{
+  "format": "canon-snapshot/v1",
+  "canon": {
+    "slug": "halloween-top-100",
+    "name": "Top 100 Halloween Movies",
+    "description": "100 Horrorfilme für Halloween: die Plätze 1–100 der Rotten-Tomatoes-Horror-Rangliste. Reihenfolge der Quelle, Stand 06.10.2026.",
+    "sourceUrl": "https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/",
+    "presentation": {
+      "position": 2,
+      "posterUrl": "/artwork/halloween-top-100.svg",
+      "titleEmbedded": true
+    }
+  },
+  "editionLabel": "reviewed-2026-10-06",
+  "retrievedAt": "2026-10-06T14:42:00.498Z",
+  "sourceContentHash": "9d962dc66127763532ccb1130318ced82b3ed00df0bb2fcfeb420b24929c9360",
+  "entries": [
+    {
+      "imdbId": "tt8508734",
+      "position": 1,
+      "sourceTitle": "His House",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt4273292",
+      "position": 2,
+      "sourceTitle": "Under the Shadow",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt5215952",
+      "position": 3,
+      "sourceTitle": "The Wailing",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt5052448",
+      "position": 4,
+      "sourceTitle": "Get Out",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt2321549",
+      "position": 5,
+      "sourceTitle": "The Babadook",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt1139797",
+      "position": 6,
+      "sourceTitle": "Let the Right One In",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt12749596",
+      "position": 7,
+      "sourceTitle": "Host",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt0026138",
+      "position": 8,
+      "sourceTitle": "Bride of Frankenstein",
+      "releaseYear": 1935
+    },
+    {
+      "imdbId": "tt1316536",
+      "position": 9,
+      "sourceTitle": "The Loved Ones",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0178868",
+      "position": 10,
+      "sourceTitle": "Ringu",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0023649",
+      "position": 11,
+      "sourceTitle": "Vampyr",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt31193180",
+      "position": 12,
+      "sourceTitle": "Sinners",
+      "releaseYear": 2025
+    },
+    {
+      "imdbId": "tt0073195",
+      "position": 13,
+      "sourceTitle": "Jaws",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0054215",
+      "position": 14,
+      "sourceTitle": "Psycho",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0024216",
+      "position": 15,
+      "sourceTitle": "King Kong",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt4823434",
+      "position": 16,
+      "sourceTitle": "Tigers Are Not Afraid",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt0077651",
+      "position": 17,
+      "sourceTitle": "Halloween",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0063522",
+      "position": 18,
+      "sourceTitle": "Rosemary's Baby",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0013442",
+      "position": 19,
+      "sourceTitle": "Nosferatu",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0053459",
+      "position": 20,
+      "sourceTitle": "Eyes Without a Face",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt7831358",
+      "position": 21,
+      "sourceTitle": "Harpoon",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0049366",
+      "position": 22,
+      "sourceTitle": "Invasion of the Body Snatchers",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt6644200",
+      "position": 23,
+      "sourceTitle": "A Quiet Place",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt35538033",
+      "position": 24,
+      "sourceTitle": "Resident Evil",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt2326554",
+      "position": 25,
+      "sourceTitle": "A Girl Walks Home Alone at Night",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt10767168",
+      "position": 26,
+      "sourceTitle": "La llorona",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0010323",
+      "position": 27,
+      "sourceTitle": "The Cabinet of Dr. Caligari",
+      "releaseYear": 1920
+    },
+    {
+      "imdbId": "tt0059646",
+      "position": 28,
+      "sourceTitle": "Repulsion",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0054167",
+      "position": 29,
+      "sourceTitle": "Peeping Tom",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0021814",
+      "position": 30,
+      "sourceTitle": "Dracula",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0096163",
+      "position": 31,
+      "sourceTitle": "The Vanishing",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0037635",
+      "position": 32,
+      "sourceTitle": "Dead of Night",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt3520418",
+      "position": 33,
+      "sourceTitle": "We Are Still Here",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt3235888",
+      "position": 34,
+      "sourceTitle": "It Follows",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt0102926",
+      "position": 35,
+      "sourceTitle": "The Silence of the Lambs",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt5700672",
+      "position": 36,
+      "sourceTitle": "Train to Busan",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt3908142",
+      "position": 37,
+      "sourceTitle": "The Love Witch",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0063350",
+      "position": 38,
+      "sourceTitle": "Night of the Living Dead",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0056869",
+      "position": 39,
+      "sourceTitle": "The Birds",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0022913",
+      "position": 40,
+      "sourceTitle": "Freaks",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0024184",
+      "position": 41,
+      "sourceTitle": "The Invisible Man",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0055018",
+      "position": 42,
+      "sourceTitle": "The Innocents",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt3504048",
+      "position": 43,
+      "sourceTitle": "Housebound",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt0051622",
+      "position": 44,
+      "sourceTitle": "The Fly",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt35298123",
+      "position": 45,
+      "sourceTitle": "Teenage Sex and Death at Camp Miasma",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt0021884",
+      "position": 46,
+      "sourceTitle": "Frankenstein",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0074285",
+      "position": 47,
+      "sourceTitle": "Carrie",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0076786",
+      "position": 48,
+      "sourceTitle": "Suspiria",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0017739",
+      "position": 49,
+      "sourceTitle": "The Cat and the Canary",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt6857112",
+      "position": 50,
+      "sourceTitle": "Us",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt26581740",
+      "position": 51,
+      "sourceTitle": "Weapons",
+      "releaseYear": 2025
+    },
+    {
+      "imdbId": "tt37287335",
+      "position": 52,
+      "sourceTitle": "Obsession",
+      "releaseYear": 2025
+    },
+    {
+      "imdbId": "tt0078748",
+      "position": 53,
+      "sourceTitle": "Alien",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt4954522",
+      "position": 54,
+      "sourceTitle": "Raw",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0090605",
+      "position": 55,
+      "sourceTitle": "Aliens",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt39143902",
+      "position": 56,
+      "sourceTitle": "Leviticus",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt0468492",
+      "position": 57,
+      "sourceTitle": "The Host",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0256009",
+      "position": 58,
+      "sourceTitle": "The Devil's Backbone",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0048424",
+      "position": 59,
+      "sourceTitle": "The Night of the Hunter",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0069995",
+      "position": 60,
+      "sourceTitle": "Don't Look Now",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0077745",
+      "position": 61,
+      "sourceTitle": "Invasion of the Body Snatchers",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0079641",
+      "position": 62,
+      "sourceTitle": "Nosferatu the Vampyre",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0087800",
+      "position": 63,
+      "sourceTitle": "A Nightmare on Elm Street",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt4935372",
+      "position": 64,
+      "sourceTitle": "The Devil's Candy",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0045888",
+      "position": 65,
+      "sourceTitle": "House of Wax",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0054443",
+      "position": 66,
+      "sourceTitle": "Village of the Damned",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt8036976",
+      "position": 67,
+      "sourceTitle": "Send Help",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt1259521",
+      "position": 68,
+      "sourceTitle": "The Cabin in the Woods",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt1127180",
+      "position": 69,
+      "sourceTitle": "Drag Me to Hell",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0365748",
+      "position": 70,
+      "sourceTitle": "Shaun of the Dead",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt6738136",
+      "position": 71,
+      "sourceTitle": "Revenge",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt5154288",
+      "position": 72,
+      "sourceTitle": "Prevenge",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt4935158",
+      "position": 73,
+      "sourceTitle": "Demon",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0070917",
+      "position": 74,
+      "sourceTitle": "The Wicker Man",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0034587",
+      "position": 75,
+      "sourceTitle": "Cat People",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0077402",
+      "position": 76,
+      "sourceTitle": "Dawn of the Dead",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt6214928",
+      "position": 77,
+      "sourceTitle": "1922",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt2885628",
+      "position": 78,
+      "sourceTitle": "Nina Forever",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt1051906",
+      "position": 79,
+      "sourceTitle": "The Invisible Man",
+      "releaseYear": 2020
+    },
+    {
+      "imdbId": "tt32141377",
+      "position": 80,
+      "sourceTitle": "28 Years Later: The Bone Temple",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt4263482",
+      "position": 81,
+      "sourceTitle": "The Witch",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt1179933",
+      "position": 82,
+      "sourceTitle": "10 Cloverfield Lane",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt6998518",
+      "position": 83,
+      "sourceTitle": "Mandy",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt1478964",
+      "position": 84,
+      "sourceTitle": "Attack the Block",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt3986820",
+      "position": 85,
+      "sourceTitle": "The Endless",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt2494362",
+      "position": 86,
+      "sourceTitle": "Bone Tomahawk",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt3748172",
+      "position": 87,
+      "sourceTitle": "Gerald's Game",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt4900708",
+      "position": 88,
+      "sourceTitle": "Creepy",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0034398",
+      "position": 89,
+      "sourceTitle": "The Wolf Man",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0022835",
+      "position": 90,
+      "sourceTitle": "Dr. Jekyll and Mr. Hyde",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt7984734",
+      "position": 91,
+      "sourceTitle": "The Lighthouse",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt7784604",
+      "position": 92,
+      "sourceTitle": "Hereditary",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt4062536",
+      "position": 93,
+      "sourceTitle": "Green Room",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt35672862",
+      "position": 94,
+      "sourceTitle": "Hokum",
+      "releaseYear": 2026
+    },
+    {
+      "imdbId": "tt2400463",
+      "position": 95,
+      "sourceTitle": "The Invitation",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0210070",
+      "position": 96,
+      "sourceTitle": "Ginger Snaps",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0067023",
+      "position": 97,
+      "sourceTitle": "Duel",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0016220",
+      "position": 98,
+      "sourceTitle": "The Phantom of the Opera",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0023245",
+      "position": 99,
+      "sourceTitle": "The Mummy",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0076162",
+      "position": 100,
+      "sourceTitle": "House",
+      "releaseYear": 1977
+    }
+  ]
+}

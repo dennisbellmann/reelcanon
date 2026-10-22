@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="IMDb Top 250">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 01</text>
+
+  <path d="m300 155 9 19 21 3-15 15 4 21-19-10-19 10 4-21-15-15 21-3Z" fill="#b9914e"/>
+  <path d="m458 238 6 13 14 2-10 10 2 14-12-7-13 7 3-14-10-10 14-2Z" fill="#ba522c"/>
+  <path d="m142 238 6 13 14 2-10 10 2 14-12-7-13 7 3-14-10-10 14-2Z" fill="#ba522c"/>
+
+  <circle cx="300" cy="371" r="174" fill="#b9914e"/>
+  <circle cx="300" cy="371" r="145" fill="#292b26"/>
+  <g fill="#eee6d5">
+    <circle cx="300" cy="250" r="19"/>
+    <circle cx="415" cy="334" r="19"/>
+    <circle cx="371" cy="469" r="19"/>
+    <circle cx="229" cy="469" r="19"/>
+    <circle cx="185" cy="334" r="19"/>
+  </g>
+  <circle cx="300" cy="371" r="82" fill="#eee6d5" stroke="#b9914e" stroke-width="7"/>
+  <text x="300" y="391" text-anchor="middle" font-family="Georgia,serif" font-size="56" fill="#292b26">250</text>
+  <path d="M276 470v62h48v-62M248 532h104v18H248" fill="#292b26"/>
+
+  <text x="300" y="664" text-anchor="middle" font-family="Georgia,serif" font-size="63" fill="#292b26">IMDb</text>
+  <text x="300" y="724" text-anchor="middle" font-family="Georgia,serif" font-size="55" letter-spacing="2" fill="#292b26">TOP 250</text>
+  <text x="300" y="777" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#9c773a">THE ALL-TIME CANON</text>
+  <path d="M160 805h280" stroke="#8b8475"/>
+  <text x="300" y="838" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" fill="#625e51">250 FILMS · THE CINEMA CANON</text>
+</svg>

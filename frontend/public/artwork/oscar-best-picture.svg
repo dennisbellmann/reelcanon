@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Oscar Best Picture Winners">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 03</text>
+  <path d="M104 529 300 135 496 529H465L300 195 135 529Z" fill="#b9914e"/>
+  <path d="M143 536 300 220 457 536H427L300 280 173 536Z" fill="#292b26"/>
+  <circle cx="300" cy="392" r="91" fill="#b9914e"/>
+  <circle cx="300" cy="392" r="16" fill="#eee6d5"/>
+  <g fill="#eee6d5"><circle cx="300" cy="340" r="20"/><circle cx="349" cy="376" r="20"/><circle cx="330" cy="434" r="20"/><circle cx="270" cy="434" r="20"/><circle cx="251" cy="376" r="20"/></g>
+  <path d="M267 483v55h66v-55M220 538h160v19H220M191 557h218v21H191" fill="#292b26"/>
+  <text x="300" y="661" text-anchor="middle" font-family="Georgia,serif" font-size="61" fill="#292b26">BEST PICTURE</text>
+  <text x="300" y="716" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="7" fill="#9c773a">OSCAR WINNERS</text>
+  <path d="M160 765h280" stroke="#8b8475"/>
+  <text x="300" y="816" text-anchor="middle" font-family="Georgia,serif" font-size="24" letter-spacing="6" fill="#625e51">1929 — 2026</text>
+</svg>

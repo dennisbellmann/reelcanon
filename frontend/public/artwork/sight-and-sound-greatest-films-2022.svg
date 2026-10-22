@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Sight and Sound Greatest Films of All Time, 2022: ein filmisches Auge mit Filmspule als Pupille und nach außen laufenden Schallwellen">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 05</text>
+
+  <!-- Sight becomes a moving image; sound leaves it as measured, rippling arcs. -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M143 295C77 335 77 405 143 445" stroke="#292820" stroke-width="4"/>
+    <path d="M119 270C31 322 31 418 119 470" stroke="#b9914e" stroke-width="3"/>
+    <path d="M457 295C523 335 523 405 457 445" stroke="#292820" stroke-width="4"/>
+    <path d="M481 270C569 322 569 418 481 470" stroke="#ba522c" stroke-width="3"/>
+    <path d="M131 370h61m216 0h61" stroke="#b9914e" stroke-width="3"/>
+  </g>
+
+  <path d="M131 370Q300 197 469 370Q300 543 131 370Z" fill="#eee6d5" stroke="#292820" stroke-width="7"/>
+  <path d="M166 370Q300 235 434 370Q300 505 166 370Z" fill="none" stroke="#b9914e" stroke-width="3"/>
+  <circle cx="300" cy="370" r="91" fill="#ba522c"/>
+  <circle cx="300" cy="370" r="66" fill="#eee6d5" stroke="#292820" stroke-width="4"/>
+  <circle cx="300" cy="370" r="49" fill="none" stroke="#b9914e" stroke-width="3"/>
+
+  <!-- A simplified five-hole film reel gives the eye a specific cinema pupil. -->
+  <circle cx="300" cy="370" r="37" fill="#292820"/>
+  <circle cx="300" cy="347" r="6.5" fill="#eee6d5"/>
+  <circle cx="322" cy="363" r="6.5" fill="#eee6d5"/>
+  <circle cx="314" cy="389" r="6.5" fill="#eee6d5"/>
+  <circle cx="286" cy="389" r="6.5" fill="#eee6d5"/>
+  <circle cx="278" cy="363" r="6.5" fill="#eee6d5"/>
+  <circle cx="300" cy="370" r="12" fill="#b9914e"/>
+  <circle cx="300" cy="370" r="5" fill="#292820"/>
+  <path d="M206 523h188" stroke="#8b8475" stroke-width="1"/>
+
+  <text x="300" y="625" text-anchor="middle" font-family="Georgia,serif" font-size="52" letter-spacing="1" fill="#292820">SIGHT &amp; SOUND</text>
+  <text x="300" y="680" text-anchor="middle" font-family="Georgia,serif" font-size="27" letter-spacing="3" fill="#292820">GREATEST FILMS</text>
+  <text x="300" y="731" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#ba522c">2022 · CRITICS’ POLL</text>
+  <path d="M176 779h248" stroke="#8b8475"/>
+  <text x="300" y="820" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#625e51">THE BFI CANON</text>
+</svg>

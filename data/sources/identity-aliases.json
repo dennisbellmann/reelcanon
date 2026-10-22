@@ -1,0 +1,213 @@
+{
+  "The Cabinet of Dr. Caligari": {
+    "imdbId": "tt0010323", "releaseYear": 1920,
+    "reason": "RT lists 1919; IMDb identifies the original Robert Wiene film as 1920.",
+    "evidence": "https://www.imdb.com/title/tt0010323/"
+  },
+  "We Are Still Here": {
+    "imdbId": "tt3520418",
+    "reason": "The Ted Geoghegan horror film with Barbara Crampton, not the same-year documentary.",
+    "evidence": "https://pro.imdb.com/title/tt3520418/"
+  },
+  "The Cat and the Canary": { "query": "cat and the canary 1927", "imdbId": "tt0017739", "evidence": "https://www.imdb.com/title/tt0017739/releaseinfo/" },
+  "The Phantom of the Opera": { "query": "phantom of the opera 1925", "imdbId": "tt0016220", "evidence": "https://www.imdb.com/title/tt0016220/" },
+  "Duel": { "imdbId": "tt0067023", "types": ["tvMovie"], "reason": "Spielberg's original 1971 television film, later theatrically released.", "evidence": "https://www.imdb.com/title/tt0067023/" },
+  "Marty": { "query": "marty 1955", "imdbId": "tt0048356", "evidence": "https://www.imdb.com/title/tt0048356/" },
+  "The Last Emperor": { "imdbId": "tt0093389", "releaseYear": 1987, "evidence": "https://www.oscars.org/oscars/ceremonies/1988" },
+  "CODA": { "imdbId": "tt10366460", "releaseYear": 2021, "evidence": "https://www.oscars.org/oscars/ceremonies/2022" },
+  "Live Die Repeat: Edge of Tomorrow": {
+    "titles": ["Edge of Tomorrow"], "imdbId": "tt1631867", "releaseYear": 2014,
+    "reason": "IMDb uses the film's alternate US release title.", "evidence": "https://www.imdb.com/title/tt1631867/"
+  },
+  "Akira": {
+    "query": "akira 1988", "imdbId": "tt0094625", "releaseYear": 1988,
+    "reason": "Rotten Tomatoes shows the 2020 theatrical rerelease year; this is the original 1988 animated feature.", "evidence": "https://www.imdb.com/title/tt0094625/"
+  },
+  "Ghost in the Shell": {
+    "imdbId": "tt0113568", "releaseYear": 1995,
+    "reason": "Rotten Tomatoes shows a 1996 US release; IMDb dates the original Japanese animated film to 1995.", "evidence": "https://www.imdb.com/title/tt0113568/"
+  },
+  "Twelve Monkeys (12 Monkeys)": {
+    "query": "12 monkeys 1995", "titles": ["12 Monkeys"], "imdbId": "tt0114746", "releaseYear": 1995,
+    "reason": "IMDb uses the numeric title spelling.", "evidence": "https://www.imdb.com/title/tt0114746/"
+  },
+  "Godzilla (Gojira)": {
+    "titles": ["Godzilla"], "imdbId": "tt0047034", "releaseYear": 1954,
+    "reason": "IMDb uses the international title instead of the Japanese title in parentheses.", "evidence": "https://www.imdb.com/title/tt0047034/"
+  },
+  "Ex Machina": {
+    "imdbId": "tt0470752", "releaseYear": 2014,
+    "reason": "Rotten Tomatoes gives the 2015 US release year; IMDb dates the original 2014 release.", "evidence": "https://www.imdb.com/title/tt0470752/"
+  },
+  "Solaris": {
+    "imdbId": "tt0069293", "releaseYear": 1972,
+    "reason": "The 1976 date on Rotten Tomatoes is the US release; IMDb dates the Soviet film to 1972.", "evidence": "https://www.imdb.com/title/tt0069293/"
+  },
+  "Mad Max 2: The Road Warrior": {
+    "titles": ["The Road Warrior"], "imdbId": "tt0082694", "releaseYear": 1981,
+    "reason": "IMDb uses the US release title and original 1981 Australian release year.", "evidence": "https://www.imdb.com/title/tt0082694/"
+  },
+  "Snowpiercer": {
+    "imdbId": "tt1706620", "releaseYear": 2013,
+    "reason": "Rotten Tomatoes shows the 2014 US release; IMDb dates the original 2013 release.", "evidence": "https://www.imdb.com/title/tt1706620/"
+  },
+  "Predestination": {
+    "imdbId": "tt2397535", "releaseYear": 2014,
+    "reason": "Rotten Tomatoes shows the 2015 US release; IMDb dates the original 2014 release.", "evidence": "https://www.imdb.com/title/tt2397535/"
+  },
+  "Under the Skin": {
+    "imdbId": "tt1441395", "releaseYear": 2013,
+    "reason": "Rotten Tomatoes shows the 2014 US release; IMDb dates the original 2013 release.", "evidence": "https://www.imdb.com/title/tt1441395/"
+  },
+  "The Adventures of Buckaroo Banzai": {
+    "titles": ["The Adventures of Buckaroo Banzai Across the 8th Dimension"], "imdbId": "tt0086856", "releaseYear": 1984,
+    "reason": "The Rotten Tomatoes title is shortened; IMDb has the full feature title.", "evidence": "https://www.imdb.com/title/tt0086856/"
+  },
+  "World on a Wire": {
+    "imdbId": "tt0070904", "releaseYear": 1973, "types": ["tvMiniSeries"],
+    "reason": "IMDb catalogs Fassbinder's original two-part television film as a miniseries.", "evidence": "https://www.imdb.com/title/tt0070904/"
+  },
+  "V for Vendetta": {
+    "imdbId": "tt0434409", "releaseYear": 2005,
+    "reason": "Rotten Tomatoes shows the 2006 US release; IMDb dates the original 2005 release.", "evidence": "https://www.imdb.com/title/tt0434409/"
+  },
+  "The Host": {
+    "query": "the host 2006 bong joon-ho", "imdbId": "tt0468492", "releaseYear": 2006,
+    "reason": "This selects Bong Joon-ho's 2006 South Korean science-fiction film from same-title releases.", "evidence": "https://www.imdb.com/title/tt0468492/"
+  },
+  "Open Your Eyes (Abre los Ojos)": {
+    "query": "abre los ojos 1997", "titles": ["Open Your Eyes", "Abre los ojos"], "imdbId": "tt0125659", "releaseYear": 1997,
+    "reason": "Rotten Tomatoes shows the 1999 US release; IMDb dates the original Spanish film to 1997.", "evidence": "https://www.imdb.com/title/tt0125659/"
+  },
+  "Liquid Sky": {
+    "imdbId": "tt0085852", "releaseYear": 1982,
+    "reason": "Rotten Tomatoes shows the 1983 US release; IMDb dates the original film to 1982.", "evidence": "https://www.imdb.com/title/tt0085852/"
+  },
+  "The Day of the Triffids": {
+    "query": "the day of the triffids 1963", "imdbId": "tt0055894", "releaseYear": 1963,
+    "reason": "This exact title/year candidate disambiguates the film from similarly titled British adaptations.", "evidence": "https://www.imdb.com/title/tt0055894/"
+  },
+  "Cube": {
+    "imdbId": "tt0123755", "releaseYear": 1997,
+    "reason": "Rotten Tomatoes shows the 1998 US release; IMDb dates the Canadian film to 1997.", "evidence": "https://www.imdb.com/title/tt0123755/"
+  },
+  "Godzilla Resurgence (Shin Godzilla)": {
+    "query": "shin godzilla 2016", "titles": ["Shin Godzilla"], "imdbId": "tt4262980", "releaseYear": 2016,
+    "reason": "IMDb uses the film's Japanese release title.", "evidence": "https://www.imdb.com/title/tt4262980/"
+  },
+  "Metropolis (1927)": {
+    "imdbId": "tt0017136", "releaseYear": 1927,
+    "reason": "The 1927 Fritz Lang feature, rather than the later animated film with the same title.", "evidence": "https://www.imdb.com/title/tt0017136/"
+  },
+  "Metropolis (2002)": {
+    "imdbId": "tt0293416", "releaseYear": 2001,
+    "reason": "The source's 2002 date is the US release of the 2001 Japanese animated film.", "evidence": "https://www.imdb.com/title/tt0293416/"
+  },
+  "Plan 9 from Outer Space": {
+    "query": "plan 9 from outer space 1958", "imdbId": "tt0052077", "releaseYear": 1958,
+    "reason": "Rotten Tomatoes dates the wide release to 1959; IMDb catalogs the film as 1958.", "evidence": "https://www.imdb.com/title/tt0052077/"
+  },
+  "The Congress": {
+    "imdbId": "tt1821641", "releaseYear": 2013,
+    "reason": "Rotten Tomatoes shows the 2014 US release; IMDb dates the film's 2013 premiere.", "evidence": "https://www.imdb.com/title/tt1821641/"
+  },
+  "Coherence": {
+    "imdbId": "tt2866360", "releaseYear": 2013,
+    "reason": "Rotten Tomatoes shows the 2014 US release; IMDb dates the original 2013 release.", "evidence": "https://www.imdb.com/title/tt2866360/"
+  },
+  "High Life": {
+    "imdbId": "tt4827558", "releaseYear": 2018,
+    "reason": "Rotten Tomatoes shows the 2019 US release; IMDb dates the film's 2018 premiere.", "evidence": "https://www.imdb.com/title/tt4827558/"
+  },
+  "Los Cronocrímenes (Timecrimes)": {
+    "query": "timecrimes 2007", "titles": ["Timecrimes"], "imdbId": "tt0480669", "releaseYear": 2007,
+    "reason": "IMDb uses the English distribution title.", "evidence": "https://www.imdb.com/title/tt0480669/"
+  },
+  "The Endless": {
+    "imdbId": "tt3986820", "releaseYear": 2017,
+    "reason": "Rotten Tomatoes shows the 2018 US release; IMDb dates the original 2017 release.", "evidence": "https://www.imdb.com/title/tt3986820/"
+  },
+  "Star Wars: The Force Awakens": {
+    "titles": ["Star Wars: Episode VII - The Force Awakens"],
+    "imdbId": "tt2488496",
+    "reason": "Rotten Tomatoes omits the Episode VII subtitle prefix used by IMDb.",
+    "evidence": "https://www.imdb.com/title/tt2488496/"
+  },
+  "The War of the Worlds": {
+    "query": "war of the worlds 1953",
+    "imdbId": "tt0046534",
+    "reason": "IMDb lists the 1953 Byron Haskin film with the definite article.",
+    "evidence": "https://www.imdb.com/title/tt0046534/"
+  },
+  "Cloverfield": {
+    "imdbId": "tt1060277",
+    "reason": "IMDb returns two same-year records with the title; this is the 2008 Matt Reeves feature film.",
+    "evidence": "https://www.imdb.com/title/tt1060277/"
+  },
+  "Las Hurdes – Land ohne Brot (1933)": {"query":"land without bread 1933","titles":["Land Without Bread"],"imdbId":"tt0023037","releaseYear":1933,"types":["short"],"reason":"The source uses the German title; the selected IMDb short is Luis Buñuel's 1933 documentary.","evidence":"https://www.imdb.com/title/tt0023037/"},
+  "Shen nü – Die Göttliche (1934)": {"query":"the goddess shen nu 1934","titles":["The Goddess"],"imdbId":"tt0195256","releaseYear":1934,"reason":"The German 1001 entry is Wu Yonggang's 1934 film starring Ruan Lingyu, listed by IMDb under its English title.","evidence":"https://www.imdb.com/title/tt0195256/"},
+  "Zangiku monogatari (1939)": {"query":"story of the last chrysanthemums 1939","titles":["The Story of the Last Chrysanthemum"],"imdbId":"tt0032156","releaseYear":1939,"reason":"Selects the 1939 Kenji Mizoguchi film from later remakes with the same Japanese title.","evidence":"https://www.imdb.com/title/tt0032156/"},
+  "Xiao cheng zhi chun (1948)": {"query":"spring in a small town 1948","titles":["Spring in a Small Town"],"imdbId":"tt0189219","releaseYear":1948,"reason":"IMDb catalogs Fei Mu's 1948 film under its English release title.","evidence":"https://www.imdb.com/title/tt0189219/"},
+  "Giv'a 24 Eina Ona (1955)": {"query":"hill 24 doesn't answer 1955","titles":["Hill 24 Doesn't Answer"],"imdbId":"tt0048121","releaseYear":1955,"reason":"The romanized Hebrew source title maps to the 1955 Israeli feature's English title.","evidence":"https://www.imdb.com/title/tt0048121/"},
+  "Hanyo (1960)": {"query":"the housemaid 1960 kim ki-young","titles":["The Housemaid"],"imdbId":"tt0150980","releaseYear":1960,"reason":"Selects Kim Ki-young's original Korean film, not later remakes with the same English title.","evidence":"https://www.imdb.com/title/tt0150980/"},
+  "Chronique d’un été (1961)": {"query":"chronicle of a summer 1961","titles":["Chronicle of a Summer"],"imdbId":"tt0054745","releaseYear":1961,"reason":"IMDb uses the English title for Jean Rouch and Edgar Morin's 1961 film.","evidence":"https://www.imdb.com/title/tt0054745/"},
+  "Yukinojo Henge (1963)": {"query":"an actor's revenge 1963","titles":["An Actor's Revenge"],"imdbId":"tt0057710","releaseYear":1963,"reason":"Selects Kon Ichikawa's 1963 feature; the Japanese title also identifies earlier adaptations.","evidence":"https://www.imdb.com/title/tt0057710/"},
+  "Tokyo Orinpikku (1965)": {"query":"tokyo olympiad 1965","titles":["Tokyo Olympiad"],"imdbId":"tt0059817","releaseYear":1965,"reason":"IMDb uses the English title for Ichikawa's 1965 documentary.","evidence":"https://www.imdb.com/title/tt0059817/"},
+  "Ucho (1970)": {"query":"the ear 1970","titles":["The Ear"],"imdbId":"tt0066498","releaseYear":1970,"reason":"The Czech title is matched to Karel Kachyňa's 1970 film.","evidence":"https://www.imdb.com/title/tt0066498/"},
+  "Ceddo (1977)": {"query":"outsiders 1977 ousmane sembene","titles":["Outsiders"],"imdbId":"tt0077309","releaseYear":1977,"reason":"IMDb uses the international title Outsiders for Sembène's film also known as Ceddo.","evidence":"https://www.imdb.com/title/tt0077309/"},
+  "Schlafende Hunde (1977)": {"query":"sleeping dogs 1977","titles":["Sleeping Dogs"],"imdbId":"tt0076725","releaseYear":1977,"reason":"The German list title refers to Roger Donaldson's 1977 New Zealand thriller.","evidence":"https://www.imdb.com/title/tt0076725/"},
+  "Zu früh, zu spät (1982)": {"query":"trop tôt trop tard 1981","titles":["Too Early/Too Late","Trop tôt/Trop tard"],"imdbId":"tt0083230","releaseYear":1981,"reason":"IMDb dates Straub and Huillet's film to 1981; 1982 is a later release year in some catalogs.","evidence":"https://www.imdb.com/title/tt0083230/"},
+  "Tongnian wangshi (1985)": {"query":"a time to live and a time to die 1985","titles":["A Time to Live and a Time to Die"],"imdbId":"tt0090185","releaseYear":1985,"reason":"IMDb's English title identifies Hou Hsiao-hsien's 1985 film.","evidence":"https://www.imdb.com/title/tt0090185/"},
+  "Shermans Feldzug (1985)": {"query":"sherman's march 1985","titles":["Sherman's March"],"imdbId":"tt0091943","releaseYear":1985,"reason":"The German source title is matched to Ross McElwee's 1985 documentary.","evidence":"https://www.imdb.com/title/tt0091943/"},
+  "Dao ma zei (1986)": {"query":"the horse thief 1986","titles":["The Horse Thief"],"imdbId":"tt0090907","releaseYear":1986,"reason":"IMDb uses the English title for Tian Zhuangzhuang's 1986 film.","evidence":"https://www.imdb.com/title/tt0090907/"},
+  "Une histoire de vent (1988)": {"query":"a tale of the wind 1988","titles":["A Tale of the Wind"],"imdbId":"tt0096337","releaseYear":1988,"reason":"IMDb lists Joris Ivens and Marceline Loridan's film under the English title.","evidence":"https://www.imdb.com/title/tt0096337/"},
+  "Astenicheskiy sindrom (1990)": {"query":"the asthenic syndrome 1989","titles":["The Asthenic Syndrome"],"imdbId":"tt0096841","releaseYear":1989,"reason":"IMDb dates Kira Muratova's film to 1989; 1990 is the source edition's listed year.","evidence":"https://www.imdb.com/title/tt0096841/"},
+  "Ruan Lingyu (1991)": {"query":"center stage 1991 stanley kwan","titles":["Center Stage"],"imdbId":"tt0102816","releaseYear":1991,"reason":"IMDb uses the English release title for Stanley Kwan's biographical film.","evidence":"https://www.imdb.com/title/tt0102816/"},
+  "Rumtreiber (1991)": {"query":"slacker 1990 richard linklater","titles":["Slacker"],"imdbId":"tt0102943","releaseYear":1990,"reason":"The German article identifies Rumtreiber as Richard Linklater's Slacker; IMDb dates it to 1990.","evidence":"https://www.imdb.com/title/tt0102943/"},
+  "Xi meng ren sheng (1993)": {"query":"the puppetmaster 1993","titles":["The Puppetmaster"],"imdbId":"tt0107157","releaseYear":1993,"reason":"IMDb uses the international title for Hou Hsiao-hsien's 1993 film.","evidence":"https://www.imdb.com/title/tt0107157/"},
+  "32 Variationen über Glenn Gould (1993)": {"query":"thirty two short films about glenn gould 1993","titles":["Thirty Two Short Films About Glenn Gould"],"imdbId":"tt0108328","releaseYear":1993,"reason":"IMDb catalogs François Girard's film under its full English title.","evidence":"https://www.imdb.com/title/tt0108328/"},
+  "Zire darakhatan zeyton (1994)": {"query":"through the olive trees 1994","titles":["Through the Olive Trees"],"imdbId":"tt0111845","releaseYear":1994,"reason":"IMDb uses the international title for Abbas Kiarostami's 1994 film.","evidence":"https://www.imdb.com/title/tt0111845/"},
+  "Badkonake sefid (1995)": {"query":"the white balloon 1995","titles":["The White Balloon"],"imdbId":"tt0112445","releaseYear":1995,"reason":"IMDb uses the English title for Jafar Panahi's 1995 film.","evidence":"https://www.imdb.com/title/tt0112445/"},
+  "Kjaerlighetens Kjotere (1995)": {"query":"zero kelvin 1995","titles":["Zero Kelvin","Kjærlighetens kjøtere"],"imdbId":"tt0113557","releaseYear":1995,"reason":"IMDb uses Zero Kelvin as the international title for Hans Petter Moland's 1995 film.","evidence":"https://www.imdb.com/title/tt0113557/"},
+  "Moolaadé – Bann der Hoffnung (2004)": {"query":"moolaadé 2004","titles":["Moolaadé","Moolaade"],"imdbId":"tt0416991","releaseYear":2004,"reason":"The German subtitle is not part of IMDb's original title; the selected film is Sembène's 2004 Moolaadé.","evidence":"https://www.imdb.com/title/tt0416991/"},
+  "Mulholland Dr. (2001)": {"query":"mulholland drive 2001","titles":["Mulholland Drive"],"imdbId":"tt0166924","releaseYear":2001,"reason":"IMDb's full title includes Drive; the BFI list uses Dr.","evidence":"https://www.imdb.com/title/tt0166924/"},
+  "Beau travail (1998)": {"query":"beau travail 1999","titles":["Beau Travail"],"imdbId":"tt0209933","releaseYear":1999,"reason":"IMDb dates Denis's film to 1999; the BFI poll uses the 1998 Venice premiere year.","evidence":"https://www.imdb.com/title/tt0209933/"},
+  "Singin' in the Rain (1951)": {"query":"singin' in the rain 1952","titles":["Singin' in the Rain"],"imdbId":"tt0045152","releaseYear":1952,"reason":"IMDb dates the film to 1952; the BFI poll lists 1951.","evidence":"https://www.imdb.com/title/tt0045152/"},
+  "Close-up (1989)": {"query":"close-up 1990 abbas kiarostami","titles":["Close-Up"],"imdbId":"tt0100234","releaseYear":1990,"reason":"IMDb dates Kiarostami's Close-Up to 1990; the BFI list uses its earlier festival year.","evidence":"https://www.imdb.com/title/tt0100234/"},
+  "The Passion of Joan of Arc (1927)": {"query":"the passion of joan of arc 1928","titles":["The Passion of Joan of Arc"],"imdbId":"tt0019254","releaseYear":1928,"reason":"IMDb lists the film's 1928 release; the BFI poll uses the production year 1927.","evidence":"https://www.imdb.com/title/tt0019254/"},
+  "Killer of Sheep (1977)": {"query":"killer of sheep 1978","titles":["Killer of Sheep"],"imdbId":"tt0076263","releaseYear":1978,"reason":"IMDb dates Burnett's film to 1978; the BFI poll lists 1977.","evidence":"https://www.imdb.com/title/tt0076263/"},
+  "The Piano (1992)": {"query":"the piano 1993 jane campion","titles":["The Piano"],"imdbId":"tt0107822","releaseYear":1993,"reason":"IMDb dates Jane Campion's film to 1993; the BFI poll lists 1992.","evidence":"https://www.imdb.com/title/tt0107822/"},
+  "Sans soleil (1982)": {"query":"sans soleil 1983","titles":["Sans soleil"],"imdbId":"tt0084628","releaseYear":1983,"reason":"IMDb dates Marker’s film to 1983; the BFI poll lists 1982.","evidence":"https://www.imdb.com/title/tt0084628/"},
+  "My Neighbour Totoro (1988)": {"query":"my neighbor totoro 1988","titles":["My Neighbor Totoro"],"imdbId":"tt0096283","releaseYear":1988,"reason":"IMDb uses the US spelling Neighbor; the BFI page uses Neighbour.","evidence":"https://www.imdb.com/title/tt0096283/"},
+  "Histoire(s) du Cinéma (1988)": {"query":"histoire(s) du cinéma 1988","titles":["Histoire(s) du cinéma"],"imdbId":"tt6677224","releaseYear":1988,"types":["tvMiniSeries"],"reason":"IMDb catalogs Godard's multi-part 1988 work as a miniseries under this title.","evidence":"https://www.imdb.com/title/tt6677224/"},
+  "Sunset Blvd. (1950)": {"query":"sunset boulevard 1950","titles":["Sunset Boulevard"],"imdbId":"tt0043014","releaseYear":1950,"reason":"IMDb uses Boulevard rather than the BFI abbreviation Blvd.","evidence":"https://www.imdb.com/title/tt0043014/"},
+  "Yi Yi (1999)": {"query":"yi yi 2000","titles":["Yi Yi"],"imdbId":"tt0244316","releaseYear":2000,"reason":"IMDb dates Edward Yang's film to its 2000 release; the BFI poll lists its 1999 Cannes premiere.","evidence":"https://www.imdb.com/title/tt0244316/"},
+  "Ugetsu Monogatari (1953)": {"query":"ugetsu 1953","titles":["Ugetsu"],"imdbId":"tt0046478","releaseYear":1953,"reason":"IMDb uses the shortened international title for Mizoguchi's 1953 film.","evidence":"https://www.imdb.com/title/tt0046478/"},
+  "The Leopard (1962)": {"query":"the leopard il gattopardo 1963","titles":["The Leopard","Il gattopardo"],"imdbId":"tt0057091","releaseYear":1963,"reason":"IMDb dates Visconti's film to 1963; the BFI poll lists 1962.","evidence":"https://www.imdb.com/title/tt0057091/"},
+  "Black Girl (1965)": {"query":"black girl la noire de 1966","titles":["Black Girl","La noire de..."],"imdbId":"tt0060758","releaseYear":1966,"reason":"The selected film is Sembène's 1966 feature, also titled La noire de…; it is not another film with this generic title.","evidence":"https://www.imdb.com/title/tt0060758/"},
+  "Rio Bravo (1958)": {"query":"rio bravo 1959 howard hawks","titles":["Rio Bravo"],"imdbId":"tt0053221","releaseYear":1959,"reason":"IMDb dates Hawks's film to 1959; the BFI poll uses 1958.","evidence":"https://www.imdb.com/title/tt0053221/"},
+  "The House Is Black (1962)": {"query":"the house is black 1963","titles":["The House Is Black"],"imdbId":"tt0336693","releaseYear":1963,"types":["short"],"reason":"IMDb dates Farrokhzad's short documentary to 1963; the BFI poll lists 1962.","evidence":"https://www.imdb.com/title/tt0336693/"},
+  "Aguirre, Wrath of God (1972)": {"query":"aguirre the wrath of god 1972","titles":["Aguirre, the Wrath of God"],"imdbId":"tt0068182","releaseYear":1972,"reason":"IMDb includes “the” in the title; this is Herzog's 1972 film.","evidence":"https://www.imdb.com/title/tt0068182/"},
+  "The Colour of Pomegranates (1968)": {"query":"the color of pomegranates 1969","titles":["The Color of Pomegranates"],"imdbId":"tt0063555","releaseYear":1969,"reason":"IMDb uses the US spelling and 1969 release year; the BFI poll uses 1968.","evidence":"https://www.imdb.com/title/tt0063555/"},
+  "The Ascent (1976)": {"query":"the ascent voskhozhdeniye 1977","titles":["The Ascent"],"imdbId":"tt0075404","releaseYear":1977,"reason":"IMDb dates Shepitko's film to 1977; the BFI poll lists 1976.","evidence":"https://www.imdb.com/title/tt0075404/"},
+  "His Girl Friday (1939)": {"query":"his girl friday 1940","titles":["His Girl Friday"],"imdbId":"tt0032599","releaseYear":1940,"reason":"IMDb dates Hawks's film to 1940; the BFI poll lists 1939.","evidence":"https://www.imdb.com/title/tt0032599/"},
+  "It's a Wonderful Life (1947)": {"query":"it's a wonderful life 1946","titles":["It's a Wonderful Life"],"imdbId":"tt0038650","releaseYear":1946,"reason":"IMDb lists Capra's film as a 1946 release; the BFI poll lists 1947.","evidence":"https://www.imdb.com/title/tt0038650/"},
+  "Partie de campagne (1936)": {"query":"a day in the country 1946","titles":["A Day in the Country"],"imdbId":"tt0028445","releaseYear":1946,"types":["short"],"reason":"Renoir filmed the short in 1936, but IMDb dates its posthumous first release to 1946, as reflected by the title record.","evidence":"https://www.imdb.com/title/tt0028445/"},
+  "Meghe Dhaka Tara (1960)": {"query":"the cloud-capped star 1960","titles":["The Cloud-Capped Star"],"imdbId":"tt0054073","releaseYear":1960,"reason":"IMDb uses the English translation of Ghatak's Bengali title.","evidence":"https://www.imdb.com/title/tt0054073/"},
+  "Twin Peaks: The Return (2017)": {"query":"twin peaks the return 2017","titles":["Twin Peaks"],"imdbId":"tt4093826","releaseYear":2017,"types":["tvSeries"],"reason":"IMDb catalogs the 2017 revival under the series title Twin Peaks; the BFI specifies The Return.","evidence":"https://www.imdb.com/title/tt4093826/"},
+  "Amarcord (1972)": {"query":"amarcord 1973","titles":["Amarcord"],"imdbId":"tt0071129","releaseYear":1973,"reason":"IMDb dates Fellini's film to its 1973 release; the BFI poll lists 1972.","evidence":"https://www.imdb.com/title/tt0071129/"},
+  "Once upon a Time in America (1983)": {"query":"once upon a time in america 1984","titles":["Once Upon a Time in America"],"imdbId":"tt0087843","releaseYear":1984,"reason":"IMDb dates Leone's film to 1984; the BFI poll uses its 1983 Cannes premiere year.","evidence":"https://www.imdb.com/title/tt0087843/"},
+  "West of the Tracks (2002)": {"query":"west of the tracks 2002","titles":["Tie Xi Qu: West of the Tracks"],"imdbId":"tt0389448","releaseYear":2002,"reason":"IMDb includes the Chinese title prefix Tie Xi Qu; the BFI poll uses the translated title.","evidence":"https://www.imdb.com/title/tt0389448/"},
+  "Symbiopsychotaxiplasm: Take One (1967)": {"query":"symbiopsychotaxiplasm take one 1968","titles":["Symbiopsychotaxiplasm: Take One"],"imdbId":"tt0296881","releaseYear":1968,"reason":"IMDb dates Greaves's film to 1968; the BFI poll lists its 1967 production year.","evidence":"https://www.imdb.com/title/tt0296881/"},
+  "Un chien andalou (1928)": {"query":"an andalusian dog 1929","titles":["An Andalusian Dog"],"imdbId":"tt0020530","releaseYear":1929,"types":["short"],"reason":"IMDb uses the English title and lists the 1929 release of Buñuel and Dalí's short film.","evidence":"https://www.imdb.com/title/tt0020530/"},
+  "Greed (1923)": {"query":"greed 1924 erich von stroheim","titles":["Greed"],"imdbId":"tt0015881","releaseYear":1924,"reason":"IMDb dates von Stroheim's film to 1924; the BFI poll lists 1923.","evidence":"https://www.imdb.com/title/tt0015881/"},
+  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)": {"query":"dr strangelove 1964","titles":["Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"],"imdbId":"tt0057012","releaseYear":1964,"reason":"IMDb dates Kubrick's film to 1964; the BFI poll uses 1963.","evidence":"https://www.imdb.com/title/tt0057012/"},
+  "The Tree of Life (2010)": {"query":"the tree of life 2011 terrence malick","titles":["The Tree of Life"],"imdbId":"tt0478304","releaseYear":2011,"reason":"IMDb dates Malick's film to 2011; the BFI poll lists the 2010 production year.","evidence":"https://www.imdb.com/title/tt0478304/"},
+  "By the Bluest of Seas (1935)": {"query":"by the bluest of seas 1936","titles":["By the Bluest of Seas"],"imdbId":"tt0028436","releaseYear":1936,"reason":"IMDb dates Dovzhenko's film to 1936; the BFI poll lists 1935.","evidence":"https://www.imdb.com/title/tt0028436/"},
+  "A Touch of Zen (1969)": {"query":"a touch of zen 1971","titles":["A Touch of Zen"],"imdbId":"tt0064451","releaseYear":1971,"reason":"IMDb dates Hu's film to 1971; the BFI poll lists its earlier production year 1969.","evidence":"https://www.imdb.com/title/tt0064451/"},
+  "Pandora's Box (1928)": {"query":"pandora's box 1929 pabst","titles":["Pandora's Box"],"imdbId":"tt0018737","releaseYear":1929,"reason":"IMDb dates Pabst's film to its 1929 premiere; the BFI poll lists 1928.","evidence":"https://www.imdb.com/title/tt0018737/"},
+  "Mouchette (1966)": {"query":"mouchette 1967 robert bresson","titles":["Mouchette"],"imdbId":"tt0061996","releaseYear":1967,"reason":"IMDb dates Bresson's film to 1967; the BFI poll lists its 1966 production year.","evidence":"https://www.imdb.com/title/tt0061996/"},
+  "Soleil Ô (1970)": {"query":"oh sun 1970","titles":["Oh, Sun","Soleil Ô"],"imdbId":"tt0062285","releaseYear":1970,"reason":"IMDb uses the translated title Oh, Sun for Med Hondo's 1970 film.","evidence":"https://www.imdb.com/title/tt0062285/"},
+  "Morvern Callar (2001)": {"query":"morvern callar 2002","titles":["Morvern Callar"],"imdbId":"tt0300214","releaseYear":2002,"reason":"IMDb dates Ramsay's film to its 2002 release; the BFI poll lists 2001.","evidence":"https://www.imdb.com/title/tt0300214/"},
+  "The Quince Tree Sun (1992)": {"query":"dream of light 1992","titles":["Dream of Light","The Quince Tree Sun","El sol del membrillo"],"imdbId":"tt0105438","releaseYear":1992,"reason":"IMDb uses Dream of Light (El sol del membrillo), the film's alternate English title.","evidence":"https://www.imdb.com/title/tt0105438/"}
+}

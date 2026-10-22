@@ -1,0 +1,1603 @@
+{
+  "format": "canon-snapshot/v1",
+  "canon": {
+    "slug": "sight-and-sound-greatest-films-2022",
+    "name": "Sight & Sound · Greatest Films 2022",
+    "description": "BFI-Kritiker-Poll 2022: Rangliste bis Platz 250; 264 Filme mit Gleichständen. Gleichstände folgen der BFI-Anzeigereihenfolge.",
+    "sourceUrl": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time",
+    "presentation": {
+      "position": 5,
+      "posterUrl": "/artwork/sight-and-sound-greatest-films-2022.svg",
+      "titleEmbedded": true
+    }
+  },
+  "editionLabel": "2022-critics-poll",
+  "retrievedAt": "2026-10-09T17:03:58.528Z",
+  "sourceContentHash": "b257db31c71bcd576a95957d45c5e7bfbb958a7d675033a7e09326072c03e7a5",
+  "entries": [
+    {
+      "imdbId": "tt0073198",
+      "position": 1,
+      "sourceTitle": "Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0052357",
+      "position": 2,
+      "sourceTitle": "Vertigo",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0033467",
+      "position": 3,
+      "sourceTitle": "Citizen Kane",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0046438",
+      "position": 4,
+      "sourceTitle": "Tokyo Story",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0118694",
+      "position": 5,
+      "sourceTitle": "In the Mood for Love",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0062622",
+      "position": 6,
+      "sourceTitle": "2001: A Space Odyssey",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0209933",
+      "position": 7,
+      "sourceTitle": "Beau travail",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0166924",
+      "position": 8,
+      "sourceTitle": "Mulholland Dr.",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0019760",
+      "position": 9,
+      "sourceTitle": "Man with a Movie Camera",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0045152",
+      "position": 10,
+      "sourceTitle": "Singin' in the Rain",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0018455",
+      "position": 11,
+      "sourceTitle": "Sunrise  A Song of Two Humans",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0068646",
+      "position": 12,
+      "sourceTitle": "The Godfather",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0031885",
+      "position": 13,
+      "sourceTitle": "La Règle du jeu",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0055852",
+      "position": 14,
+      "sourceTitle": "Cléo from 5 to 7",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0049730",
+      "position": 15,
+      "sourceTitle": "The Searchers",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0036154",
+      "position": 16,
+      "sourceTitle": "Meshes of the Afternoon",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0100234",
+      "position": 17,
+      "sourceTitle": "Close-up",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0060827",
+      "position": 18,
+      "sourceTitle": "Persona",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0078788",
+      "position": 19,
+      "sourceTitle": "Apocalypse Now",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0047478",
+      "position": 20,
+      "sourceTitle": "Seven Samurai",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0041154",
+      "position": 21,
+      "sourceTitle": "Late Spring",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0019254",
+      "position": 22,
+      "sourceTitle": "The Passion of Joan of Arc",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0062136",
+      "position": 23,
+      "sourceTitle": "Playtime",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0097216",
+      "position": 24,
+      "sourceTitle": "Do the Right Thing",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0048424",
+      "position": 25,
+      "sourceTitle": "The Night of the Hunter",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0060138",
+      "position": 26,
+      "sourceTitle": "Au hasard Balthazar",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0090015",
+      "position": 27,
+      "sourceTitle": "Shoah",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0060959",
+      "position": 28,
+      "sourceTitle": "Daisies",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0075314",
+      "position": 29,
+      "sourceTitle": "Taxi Driver",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt8613070",
+      "position": 30,
+      "sourceTitle": "Portrait of a Lady on Fire",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0056801",
+      "position": 31,
+      "sourceTitle": "8½",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0054215",
+      "position": 32,
+      "sourceTitle": "Psycho",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0072443",
+      "position": 33,
+      "sourceTitle": "Mirror",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0024844",
+      "position": 34,
+      "sourceTitle": "L'Atalante",
+      "releaseYear": 1934
+    },
+    {
+      "imdbId": "tt0048473",
+      "position": 35,
+      "sourceTitle": "Pather Panchali",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0022100",
+      "position": 36,
+      "sourceTitle": "M",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0021749",
+      "position": 37,
+      "sourceTitle": "City Lights",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0047396",
+      "position": 38,
+      "sourceTitle": "Rear Window",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0053472",
+      "position": 39,
+      "sourceTitle": "À bout de souffle",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0053291",
+      "position": 40,
+      "sourceTitle": "Some Like It Hot",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0042876",
+      "position": 41,
+      "sourceTitle": "Rashomon",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0040522",
+      "position": 42,
+      "sourceTitle": "Bicycle Thieves",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0079944",
+      "position": 43,
+      "sourceTitle": "Stalker",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0076263",
+      "position": 44,
+      "sourceTitle": "Killer of Sheep",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0072684",
+      "position": 45,
+      "sourceTitle": "Barry Lyndon",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0053125",
+      "position": 46,
+      "sourceTitle": "North by Northwest",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0058946",
+      "position": 47,
+      "sourceTitle": "The Battle of Algiers",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0048452",
+      "position": 48,
+      "sourceTitle": "Ordet",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0067961",
+      "position": 49,
+      "sourceTitle": "Wanda",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0107822",
+      "position": 50,
+      "sourceTitle": "The Piano",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0053198",
+      "position": 51,
+      "sourceTitle": "The 400 Blows",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0076452",
+      "position": 52,
+      "sourceTitle": "News from Home",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0071141",
+      "position": 53,
+      "sourceTitle": "Fear Eats the Soul",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0053604",
+      "position": 54,
+      "sourceTitle": "The Apartment",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0015324",
+      "position": 55,
+      "sourceTitle": "Sherlock Jr.",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0057345",
+      "position": 56,
+      "sourceTitle": "Le Mépris",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0015648",
+      "position": 57,
+      "sourceTitle": "Battleship Potemkin",
+      "releaseYear": 1925
+    },
+    {
+      "imdbId": "tt0083658",
+      "position": 58,
+      "sourceTitle": "Blade Runner",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0084628",
+      "position": 59,
+      "sourceTitle": "Sans soleil",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0104057",
+      "position": 60,
+      "sourceTitle": "Daughters of the Dust",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0053779",
+      "position": 61,
+      "sourceTitle": "La dolce vita",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt4975722",
+      "position": 62,
+      "sourceTitle": "Moonlight",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0041959",
+      "position": 63,
+      "sourceTitle": "The Third Man",
+      "releaseYear": 1949
+    },
+    {
+      "imdbId": "tt0099685",
+      "position": 64,
+      "sourceTitle": "GoodFellas",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0034583",
+      "position": 65,
+      "sourceTitle": "Casablanca",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0070820",
+      "position": 66,
+      "sourceTitle": "Touki Bouki",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0040725",
+      "position": 67,
+      "sourceTitle": "The Red Shoes",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0017136",
+      "position": 68,
+      "sourceTitle": "Metropolis",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0060107",
+      "position": 69,
+      "sourceTitle": "Andrei Rublev",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0056119",
+      "position": 70,
+      "sourceTitle": "La Jetée",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0247380",
+      "position": 71,
+      "sourceTitle": "The Gleaners and I",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0053619",
+      "position": 72,
+      "sourceTitle": "L'avventura",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0046511",
+      "position": 73,
+      "sourceTitle": "Journey to Italy",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0096283",
+      "position": 74,
+      "sourceTitle": "My Neighbour Totoro",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0245429",
+      "position": 75,
+      "sourceTitle": "Spirited Away",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0047445",
+      "position": 76,
+      "sourceTitle": "Sansho the Bailiff",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0052918",
+      "position": 77,
+      "sourceTitle": "Imitation of Life",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt6677224",
+      "position": 78,
+      "sourceTitle": "Histoire(s) du Cinéma",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0038733",
+      "position": 79,
+      "sourceTitle": "A Matter of Life and Death",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0027977",
+      "position": 80,
+      "sourceTitle": "Modern Times",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0043014",
+      "position": 81,
+      "sourceTitle": "Sunset Blvd.",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0071381",
+      "position": 82,
+      "sourceTitle": "Céline and Julie Go Boating",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0101985",
+      "position": 83,
+      "sourceTitle": "A Brighter Summer Day",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0111341",
+      "position": 84,
+      "sourceTitle": "Sátántangó",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0090756",
+      "position": 85,
+      "sourceTitle": "Blue Velvet",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0070040",
+      "position": 86,
+      "sourceTitle": "The Spirit of the Beehive",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0059592",
+      "position": 87,
+      "sourceTitle": "Pierrot le fou",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0081505",
+      "position": 88,
+      "sourceTitle": "The Shining",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0109424",
+      "position": 89,
+      "sourceTitle": "CHUNGKING EXPRESS",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt6751668",
+      "position": 90,
+      "sourceTitle": "Parasite",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0244316",
+      "position": 91,
+      "sourceTitle": "Yi Yi",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0046478",
+      "position": 92,
+      "sourceTitle": "Ugetsu Monogatari",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0057091",
+      "position": 93,
+      "sourceTitle": "The Leopard",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0046022",
+      "position": 94,
+      "sourceTitle": "Madame de...",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0064116",
+      "position": 95,
+      "sourceTitle": "Once upon a Time in the West",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0049902",
+      "position": 96,
+      "sourceTitle": "A Man Escaped",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0017925",
+      "position": 97,
+      "sourceTitle": "The General",
+      "releaseYear": 1926
+    },
+    {
+      "imdbId": "tt0060758",
+      "position": 98,
+      "sourceTitle": "Black Girl",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0381668",
+      "position": 99,
+      "sourceTitle": "Tropical Malady",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt5052448",
+      "position": 100,
+      "sourceTitle": "Get Out",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt0089960",
+      "position": 101,
+      "sourceTitle": "Vagabond",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0336693",
+      "position": 102,
+      "sourceTitle": "The House Is Black",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0053221",
+      "position": 103,
+      "sourceTitle": "Rio Bravo",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0071562",
+      "position": 104,
+      "sourceTitle": "The Godfather Part II",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0073195",
+      "position": 105,
+      "sourceTitle": "Jaws",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0091251",
+      "position": 106,
+      "sourceTitle": "Come and See",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0070359",
+      "position": 107,
+      "sourceTitle": "La Maman et la Putain",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0029947",
+      "position": 108,
+      "sourceTitle": "Bringing Up Baby",
+      "releaseYear": 1938
+    },
+    {
+      "imdbId": "tt0056217",
+      "position": 109,
+      "sourceTitle": "The Man Who Shot Liberty Valance",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0052311",
+      "position": 110,
+      "sourceTitle": "Touch of Evil",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0050986",
+      "position": 111,
+      "sourceTitle": "Wild Strawberries",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0032138",
+      "position": 112,
+      "sourceTitle": "The Wizard of Oz",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0377556",
+      "position": 113,
+      "sourceTitle": "Goodbye, Dragon Inn",
+      "releaseYear": 2003
+    },
+    {
+      "imdbId": "tt0069995",
+      "position": 114,
+      "sourceTitle": "Don't Look Now",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0073440",
+      "position": 115,
+      "sourceTitle": "Nashville",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0072417",
+      "position": 116,
+      "sourceTitle": "A Woman under the Influence",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0035446",
+      "position": 117,
+      "sourceTitle": "To Be or Not to Be",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0084787",
+      "position": 118,
+      "sourceTitle": "The Thing",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0072271",
+      "position": 119,
+      "sourceTitle": "The Texas Chain Saw Massacre",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0065571",
+      "position": 120,
+      "sourceTitle": "The Conformist",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0068182",
+      "position": 121,
+      "sourceTitle": "Aguirre, Wrath of God",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0031762",
+      "position": 122,
+      "sourceTitle": "Only Angels Have Wings",
+      "releaseYear": 1939
+    },
+    {
+      "imdbId": "tt0058450",
+      "position": 123,
+      "sourceTitle": "The Umbrellas of Cherbourg",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0047136",
+      "position": 124,
+      "sourceTitle": "Johnny Guitar",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0063555",
+      "position": 125,
+      "sourceTitle": "The Colour of Pomegranates",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0133093",
+      "position": 126,
+      "sourceTitle": "The Matrix",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0469494",
+      "position": 127,
+      "sourceTitle": "There Will Be Blood",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt0075404",
+      "position": 128,
+      "sourceTitle": "The Ascent",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0110912",
+      "position": 129,
+      "sourceTitle": "Pulp Fiction",
+      "releaseYear": 1994
+    },
+    {
+      "imdbId": "tt0081398",
+      "position": 130,
+      "sourceTitle": "Raging Bull",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0032599",
+      "position": 131,
+      "sourceTitle": "His Girl Friday",
+      "releaseYear": 1940
+    },
+    {
+      "imdbId": "tt0083922",
+      "position": 132,
+      "sourceTitle": "Fanny and Alexander",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0038650",
+      "position": 133,
+      "sourceTitle": "It's a Wonderful Life",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0038787",
+      "position": 134,
+      "sourceTitle": "Notorious",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0056172",
+      "position": 135,
+      "sourceTitle": "Lawrence of Arabia",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0058138",
+      "position": 136,
+      "sourceTitle": "Gertrud",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0047811",
+      "position": 137,
+      "sourceTitle": "All That Heaven Allows",
+      "releaseYear": 1955
+    },
+    {
+      "imdbId": "tt0028445",
+      "position": 138,
+      "sourceTitle": "Partie de campagne",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0053168",
+      "position": 139,
+      "sourceTitle": "Pickpocket",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0050976",
+      "position": 140,
+      "sourceTitle": "The Seventh Seal",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0023622",
+      "position": 141,
+      "sourceTitle": "Trouble in Paradise",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0069214",
+      "position": 142,
+      "sourceTitle": "Sambizanga",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0065214",
+      "position": 143,
+      "sourceTitle": "The Wild Bunch",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt0037674",
+      "position": 144,
+      "sourceTitle": "Les Enfants du paradis",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0240419",
+      "position": 145,
+      "sourceTitle": "La ciénaga",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0071315",
+      "position": 146,
+      "sourceTitle": "Chinatown",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0028950",
+      "position": 147,
+      "sourceTitle": "La Grande Illusion",
+      "releaseYear": 1937
+    },
+    {
+      "imdbId": "tt0073166",
+      "position": 148,
+      "sourceTitle": "India Song",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0078748",
+      "position": 149,
+      "sourceTitle": "Alien",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0023649",
+      "position": 150,
+      "sourceTitle": "Vampyr",
+      "releaseYear": 1932
+    },
+    {
+      "imdbId": "tt0118125",
+      "position": 151,
+      "sourceTitle": "The Watermelon Woman",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0058985",
+      "position": 152,
+      "sourceTitle": "Le Bonheur",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0054073",
+      "position": 153,
+      "sourceTitle": "Meghe Dhaka Tara",
+      "releaseYear": 1960
+    },
+    {
+      "imdbId": "tt0077405",
+      "position": 154,
+      "sourceTitle": "Days of Heaven",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0080125",
+      "position": 155,
+      "sourceTitle": "West Indies: The Fugitive Slaves of Liberty",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt4093826",
+      "position": 156,
+      "sourceTitle": "Twin Peaks: The Return",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt0042804",
+      "position": 157,
+      "sourceTitle": "Los olvidados",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0044741",
+      "position": 158,
+      "sourceTitle": "Ikiru",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0039689",
+      "position": 159,
+      "sourceTitle": "Out of the Past",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0056663",
+      "position": 160,
+      "sourceTitle": "Vivre sa vie",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0071129",
+      "position": 161,
+      "sourceTitle": "Amarcord",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0087843",
+      "position": 162,
+      "sourceTitle": "Once upon a Time in America",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0058715",
+      "position": 163,
+      "sourceTitle": "The Gospel According to St. Matthew",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0093342",
+      "position": 164,
+      "sourceTitle": "Where Is the Friend's House?",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0185125",
+      "position": 165,
+      "sourceTitle": "All about My Mother",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0096908",
+      "position": 166,
+      "sourceTitle": "A City of Sadness",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0107756",
+      "position": 167,
+      "sourceTitle": "Orlando",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0389448",
+      "position": 168,
+      "sourceTitle": "West of the Tracks",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0035015",
+      "position": 169,
+      "sourceTitle": "The Magnificent Ambersons",
+      "releaseYear": 1942
+    },
+    {
+      "imdbId": "tt0052893",
+      "position": 170,
+      "sourceTitle": "Hiroshima mon amour",
+      "releaseYear": 1959
+    },
+    {
+      "imdbId": "tt0040536",
+      "position": 171,
+      "sourceTitle": "Letter from an Unknown Woman",
+      "releaseYear": 1948
+    },
+    {
+      "imdbId": "tt0057935",
+      "position": 172,
+      "sourceTitle": "Charulata",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0060196",
+      "position": 173,
+      "sourceTitle": "The Good, the Bad and the Ugly",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0058003",
+      "position": 174,
+      "sourceTitle": "Red Desert",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0039192",
+      "position": 175,
+      "sourceTitle": "Black Narcissus",
+      "releaseYear": 1947
+    },
+    {
+      "imdbId": "tt0063291",
+      "position": 176,
+      "sourceTitle": "Memories of Underdevelopment",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0056732",
+      "position": 177,
+      "sourceTitle": "The Exterminating Angel",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt1441395",
+      "position": 178,
+      "sourceTitle": "Under the Skin",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0113277",
+      "position": 179,
+      "sourceTitle": "Heat",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0296881",
+      "position": 180,
+      "sourceTitle": "Symbiopsychotaxiplasm: Take One",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0246135",
+      "position": 181,
+      "sourceTitle": "Out 1",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0020530",
+      "position": 182,
+      "sourceTitle": "Un chien andalou",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0085180",
+      "position": 183,
+      "sourceTitle": "L'Argent",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0054632",
+      "position": 184,
+      "sourceTitle": "Last Year at Marienbad",
+      "releaseYear": 1961
+    },
+    {
+      "imdbId": "tt0087884",
+      "position": 185,
+      "sourceTitle": "Paris, Texas",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0062873",
+      "position": 186,
+      "sourceTitle": "Les Demoiselles de Rochefort",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0056869",
+      "position": 187,
+      "sourceTitle": "The Birds",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0043972",
+      "position": 188,
+      "sourceTitle": "The River",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0056444",
+      "position": 189,
+      "sourceTitle": "An Autumn Afternoon",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0087644",
+      "position": 190,
+      "sourceTitle": "Love Streams",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0015881",
+      "position": 191,
+      "sourceTitle": "Greed",
+      "releaseYear": 1924
+    },
+    {
+      "imdbId": "tt0089881",
+      "position": 192,
+      "sourceTitle": "Ran",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0050870",
+      "position": 193,
+      "sourceTitle": "Pyaasa",
+      "releaseYear": 1957
+    },
+    {
+      "imdbId": "tt0093191",
+      "position": 194,
+      "sourceTitle": "Wings of Desire",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0175880",
+      "position": 195,
+      "sourceTitle": "Magnolia",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt0036112",
+      "position": 196,
+      "sourceTitle": "The Life and Death of Colonel Blimp",
+      "releaseYear": 1943
+    },
+    {
+      "imdbId": "tt0127354",
+      "position": 197,
+      "sourceTitle": "Wavelength",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0037800",
+      "position": 198,
+      "sourceTitle": "I Know Where I’m Going!",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0056736",
+      "position": 199,
+      "sourceTitle": "L' eclisse",
+      "releaseYear": 1962
+    },
+    {
+      "imdbId": "tt0036775",
+      "position": 200,
+      "sourceTitle": "Double Indemnity",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0057012",
+      "position": 201,
+      "sourceTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "releaseYear": 1964
+    },
+    {
+      "imdbId": "tt0075915",
+      "position": 202,
+      "sourceTitle": "One Way or Another",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0013442",
+      "position": 203,
+      "sourceTitle": "Nosferatu",
+      "releaseYear": 1922
+    },
+    {
+      "imdbId": "tt0038823",
+      "position": 204,
+      "sourceTitle": "Paisan",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt3409848",
+      "position": 205,
+      "sourceTitle": "Zama",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt1392190",
+      "position": 206,
+      "sourceTitle": "Mad Max: Fury Road",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0478304",
+      "position": 207,
+      "sourceTitle": "The Tree of Life",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt1588895",
+      "position": 208,
+      "sourceTitle": "Uncle Boonmee Who Can Recall His Past Lives",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt1221141",
+      "position": 209,
+      "sourceTitle": "The Headless Woman",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt0100332",
+      "position": 210,
+      "sourceTitle": "Paris Is Burning",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0028436",
+      "position": 211,
+      "sourceTitle": "By the Bluest of Seas",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0023969",
+      "position": 212,
+      "sourceTitle": "Duck Soup",
+      "releaseYear": 1933
+    },
+    {
+      "imdbId": "tt0042192",
+      "position": 213,
+      "sourceTitle": "All about Eve",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0037558",
+      "position": 214,
+      "sourceTitle": "Brief Encounter",
+      "releaseYear": 1945
+    },
+    {
+      "imdbId": "tt0076786",
+      "position": 215,
+      "sourceTitle": "Suspiria",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0042593",
+      "position": 216,
+      "sourceTitle": "In a Lonely Place",
+      "releaseYear": 1950
+    },
+    {
+      "imdbId": "tt0077416",
+      "position": 217,
+      "sourceTitle": "The Deer Hunter",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt0064040",
+      "position": 218,
+      "sourceTitle": "Army of Shadows",
+      "releaseYear": 1969
+    },
+    {
+      "imdbId": "tt1527186",
+      "position": 219,
+      "sourceTitle": "Melancholia",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt0134402",
+      "position": 220,
+      "sourceTitle": "Twenty Years Later",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0105665",
+      "position": 221,
+      "sourceTitle": "Twin Peaks: Fire Walk with Me",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0069089",
+      "position": 222,
+      "sourceTitle": "Pink Flamingos",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0082971",
+      "position": 223,
+      "sourceTitle": "Raiders of the Lost Ark",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0022080",
+      "position": 224,
+      "sourceTitle": "Limite",
+      "releaseYear": 1931
+    },
+    {
+      "imdbId": "tt0074605",
+      "position": 225,
+      "sourceTitle": "Harlan County, USA",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0069467",
+      "position": 226,
+      "sourceTitle": "Cries and Whispers",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0076759",
+      "position": 227,
+      "sourceTitle": "Star Wars",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0006864",
+      "position": 228,
+      "sourceTitle": "Intolerance",
+      "releaseYear": 1916
+    },
+    {
+      "imdbId": "tt0063084",
+      "position": 229,
+      "sourceTitle": "The Hour of the Furnaces",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0043511",
+      "position": 230,
+      "sourceTitle": "Europa '51",
+      "releaseYear": 1952
+    },
+    {
+      "imdbId": "tt0018192",
+      "position": 231,
+      "sourceTitle": "Napoléon",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0018806",
+      "position": 232,
+      "sourceTitle": "The Crowd",
+      "releaseYear": 1928
+    },
+    {
+      "imdbId": "tt0064451",
+      "position": 233,
+      "sourceTitle": "A Touch of Zen",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0071690",
+      "position": 234,
+      "sourceTitle": "Je, tu, il, elle",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt13204490",
+      "position": 235,
+      "sourceTitle": "Petite maman",
+      "releaseYear": 2021
+    },
+    {
+      "imdbId": "tt0262240",
+      "position": 236,
+      "sourceTitle": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0156587",
+      "position": 237,
+      "sourceTitle": "Flowers of Shanghai",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0118845",
+      "position": 238,
+      "sourceTitle": "Happy Together",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0115964",
+      "position": 239,
+      "sourceTitle": "Crash",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt0106438",
+      "position": 240,
+      "sourceTitle": "Blue",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0095327",
+      "position": 241,
+      "sourceTitle": "Grave of the Fireflies",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0091830",
+      "position": 242,
+      "sourceTitle": "The Green Ray",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0085267",
+      "position": 243,
+      "sourceTitle": "Born in Flames",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0018737",
+      "position": 244,
+      "sourceTitle": "Pandora's Box",
+      "releaseYear": 1929
+    },
+    {
+      "imdbId": "tt0034240",
+      "position": 245,
+      "sourceTitle": "Sullivan's Travels",
+      "releaseYear": 1941
+    },
+    {
+      "imdbId": "tt0075686",
+      "position": 246,
+      "sourceTitle": "Annie Hall",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0021571",
+      "position": 247,
+      "sourceTitle": "Earth",
+      "releaseYear": 1930
+    },
+    {
+      "imdbId": "tt0038762",
+      "position": 248,
+      "sourceTitle": "My Darling Clementine",
+      "releaseYear": 1946
+    },
+    {
+      "imdbId": "tt0061996",
+      "position": 249,
+      "sourceTitle": "Mouchette",
+      "releaseYear": 1967
+    },
+    {
+      "imdbId": "tt0066921",
+      "position": 250,
+      "sourceTitle": "A Clockwork Orange",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt0036695",
+      "position": 251,
+      "sourceTitle": "A Canterbury Tale",
+      "releaseYear": 1944
+    },
+    {
+      "imdbId": "tt0086541",
+      "position": 252,
+      "sourceTitle": "Videodrome",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0082933",
+      "position": 253,
+      "sourceTitle": "Possession",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0062285",
+      "position": 254,
+      "sourceTitle": "Soleil Ô",
+      "releaseYear": 1970
+    },
+    {
+      "imdbId": "tt0095037",
+      "position": 255,
+      "sourceTitle": "Distant Voices, Still Lives",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt1556190",
+      "position": 256,
+      "sourceTitle": "Nostalgia for the Light",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt0477731",
+      "position": 257,
+      "sourceTitle": "Syndromes and a Century",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0422491",
+      "position": 258,
+      "sourceTitle": "The Intruder",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0300214",
+      "position": 259,
+      "sourceTitle": "Morvern Callar",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0139500",
+      "position": 260,
+      "sourceTitle": "In Vanda's Room",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0249241",
+      "position": 261,
+      "sourceTitle": "Werckmeister Harmonies",
+      "releaseYear": 2000
+    },
+    {
+      "imdbId": "tt0120265",
+      "position": 262,
+      "sourceTitle": "Taste of Cherry",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0105438",
+      "position": 263,
+      "sourceTitle": "The Quince Tree Sun",
+      "releaseYear": 1992
+    },
+    {
+      "imdbId": "tt0015064",
+      "position": 264,
+      "sourceTitle": "The Last Laugh",
+      "releaseYear": 1924
+    }
+  ]
+}

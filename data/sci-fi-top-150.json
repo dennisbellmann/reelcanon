@@ -1,0 +1,919 @@
+{
+  "format": "canon-snapshot/v1",
+  "canon": {
+    "slug": "sci-fi-top-150",
+    "name": "Sci-Fi · 150 Essential Films",
+    "description": "Komplette Archivfassung der Rotten-Tomatoes-Liste „150 Essential Sci-Fi Movies“ vom 26.09.2020. 150 Filme in der Reihenfolge der Quelle; damals mindestens 20 Kritiken je Film laut Quelle.",
+    "sourceUrl": "https://editorial.rottentomatoes.com/guide/best-sci-fi-movies-of-all-time/",
+    "presentation": {
+      "position": 6,
+      "posterUrl": "/artwork/sci-fi-top-150.svg",
+      "titleEmbedded": true
+    }
+  },
+  "editionLabel": "rotten-tomatoes-essential-sci-fi-2020-archive",
+  "retrievedAt": "2026-10-09T18:37:36.846Z",
+  "sourceContentHash": "d12a0dfcfc56be5cdb98c334d10bcc176d34c1efa261da224d256a1591bd8761",
+  "entries": [
+    {
+      "imdbId": "tt0062622",
+      "position": 1,
+      "sourceTitle": "2001: A Space Odyssey",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0088763",
+      "position": 2,
+      "sourceTitle": "Back to the Future",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0083658",
+      "position": 3,
+      "sourceTitle": "Blade Runner",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0017136",
+      "position": 4,
+      "sourceTitle": "Metropolis",
+      "releaseYear": 1927
+    },
+    {
+      "imdbId": "tt0076759",
+      "position": 5,
+      "sourceTitle": "Star Wars: Episode IV - A New Hope",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt0133093",
+      "position": 6,
+      "sourceTitle": "The Matrix",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt1375666",
+      "position": 7,
+      "sourceTitle": "Inception",
+      "releaseYear": 2010
+    },
+    {
+      "imdbId": "tt0103064",
+      "position": 8,
+      "sourceTitle": "Terminator 2: Judgment Day",
+      "releaseYear": 1991
+    },
+    {
+      "imdbId": "tt0078748",
+      "position": 9,
+      "sourceTitle": "Alien",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt1392190",
+      "position": 10,
+      "sourceTitle": "Mad Max: Fury Road",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0084787",
+      "position": 11,
+      "sourceTitle": "The Thing",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0080684",
+      "position": 12,
+      "sourceTitle": "Star Wars: Episode V - The Empire Strikes Back",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt0090605",
+      "position": 13,
+      "sourceTitle": "Aliens",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt1631867",
+      "position": 14,
+      "sourceTitle": "Live Die Repeat: Edge of Tomorrow",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt0088247",
+      "position": 15,
+      "sourceTitle": "The Terminator",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0206634",
+      "position": 16,
+      "sourceTitle": "Children of Men",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0094625",
+      "position": 17,
+      "sourceTitle": "Akira",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt0043456",
+      "position": 18,
+      "sourceTitle": "The Day the Earth Stood Still",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0093870",
+      "position": 19,
+      "sourceTitle": "RoboCop",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0066921",
+      "position": 20,
+      "sourceTitle": "A Clockwork Orange",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt1136608",
+      "position": 21,
+      "sourceTitle": "District 9",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0084726",
+      "position": 22,
+      "sourceTitle": "Star Trek II: The Wrath of Khan",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0088846",
+      "position": 23,
+      "sourceTitle": "Brazil",
+      "releaseYear": 1985
+    },
+    {
+      "imdbId": "tt0113568",
+      "position": 24,
+      "sourceTitle": "Ghost in the Shell",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0119177",
+      "position": 25,
+      "sourceTitle": "Gattaca",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0079944",
+      "position": 26,
+      "sourceTitle": "Stalker",
+      "releaseYear": 1979
+    },
+    {
+      "imdbId": "tt0390384",
+      "position": 27,
+      "sourceTitle": "Primer",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0107290",
+      "position": 28,
+      "sourceTitle": "Jurassic Park",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0114746",
+      "position": 29,
+      "sourceTitle": "Twelve Monkeys (12 Monkeys)",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0049223",
+      "position": 30,
+      "sourceTitle": "Forbidden Planet",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt0047034",
+      "position": 31,
+      "sourceTitle": "Godzilla (Gojira)",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0083866",
+      "position": 32,
+      "sourceTitle": "E.T. The Extra-Terrestrial",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0910970",
+      "position": 33,
+      "sourceTitle": "WALL-E",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt0470752",
+      "position": 34,
+      "sourceTitle": "Ex Machina",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt2543164",
+      "position": 35,
+      "sourceTitle": "Arrival",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0075860",
+      "position": 36,
+      "sourceTitle": "Close Encounters of the Third Kind",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt1276104",
+      "position": 37,
+      "sourceTitle": "Looper",
+      "releaseYear": 2012
+    },
+    {
+      "imdbId": "tt0338013",
+      "position": 38,
+      "sourceTitle": "Eternal Sunshine of the Spotless Mind",
+      "releaseYear": 2004
+    },
+    {
+      "imdbId": "tt0816692",
+      "position": 39,
+      "sourceTitle": "Interstellar",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt1454468",
+      "position": 40,
+      "sourceTitle": "Gravity",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt3659388",
+      "position": 41,
+      "sourceTitle": "The Martian",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt1182345",
+      "position": 42,
+      "sourceTitle": "Moon",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0100802",
+      "position": 43,
+      "sourceTitle": "Total Recall",
+      "releaseYear": 1990
+    },
+    {
+      "imdbId": "tt0070544",
+      "position": 44,
+      "sourceTitle": "Fantastic Planet",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0129167",
+      "position": 45,
+      "sourceTitle": "The Iron Giant",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt1798709",
+      "position": 46,
+      "sourceTitle": "Her",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0069293",
+      "position": 47,
+      "sourceTitle": "Solaris",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0060397",
+      "position": 48,
+      "sourceTitle": "Fantastic Voyage",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0177789",
+      "position": 49,
+      "sourceTitle": "Galaxy Quest",
+      "releaseYear": 1999
+    },
+    {
+      "imdbId": "tt1856101",
+      "position": 50,
+      "sourceTitle": "Blade Runner 2049",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt0046534",
+      "position": 51,
+      "sourceTitle": "The War of the Worlds",
+      "releaseYear": 1953
+    },
+    {
+      "imdbId": "tt0082340",
+      "position": 52,
+      "sourceTitle": "Escape from New York",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0796366",
+      "position": 53,
+      "sourceTitle": "Star Trek",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt0082694",
+      "position": 54,
+      "sourceTitle": "Mad Max 2: The Road Warrior",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0063442",
+      "position": 55,
+      "sourceTitle": "Planet of the Apes",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0093773",
+      "position": 56,
+      "sourceTitle": "Predator",
+      "releaseYear": 1987
+    },
+    {
+      "imdbId": "tt0049366",
+      "position": 57,
+      "sourceTitle": "Invasion of the Body Snatchers",
+      "releaseYear": 1956
+    },
+    {
+      "imdbId": "tt1706620",
+      "position": 58,
+      "sourceTitle": "Snowpiercer",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0086541",
+      "position": 59,
+      "sourceTitle": "Videodrome",
+      "releaseYear": 1983
+    },
+    {
+      "imdbId": "tt0047573",
+      "position": 60,
+      "sourceTitle": "Them!",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0058898",
+      "position": 61,
+      "sourceTitle": "Alphaville",
+      "releaseYear": 1965
+    },
+    {
+      "imdbId": "tt0181689",
+      "position": 62,
+      "sourceTitle": "Minority Report",
+      "releaseYear": 2002
+    },
+    {
+      "imdbId": "tt0499549",
+      "position": 63,
+      "sourceTitle": "Avatar",
+      "releaseYear": 2009
+    },
+    {
+      "imdbId": "tt1392170",
+      "position": 64,
+      "sourceTitle": "The Hunger Games",
+      "releaseYear": 2012
+    },
+    {
+      "imdbId": "tt0046672",
+      "position": 65,
+      "sourceTitle": "20,000 Leagues Under The Sea",
+      "releaseYear": 1954
+    },
+    {
+      "imdbId": "tt0070723",
+      "position": 66,
+      "sourceTitle": "Soylent Green",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0060955",
+      "position": 67,
+      "sourceTitle": "Seconds",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0096256",
+      "position": 68,
+      "sourceTitle": "They Live",
+      "releaseYear": 1988
+    },
+    {
+      "imdbId": "tt2397535",
+      "position": 69,
+      "sourceTitle": "Predestination",
+      "releaseYear": 2014
+    },
+    {
+      "imdbId": "tt0080360",
+      "position": 70,
+      "sourceTitle": "Altered States",
+      "releaseYear": 1980
+    },
+    {
+      "imdbId": "tt1318514",
+      "position": 71,
+      "sourceTitle": "Rise of the Planet of the Apes",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt0096754",
+      "position": 72,
+      "sourceTitle": "The Abyss",
+      "releaseYear": 1989
+    },
+    {
+      "imdbId": "tt0945513",
+      "position": 73,
+      "sourceTitle": "Source Code",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt0405296",
+      "position": 74,
+      "sourceTitle": "A Scanner Darkly",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0106697",
+      "position": 75,
+      "sourceTitle": "Demolition Man",
+      "releaseYear": 1993
+    },
+    {
+      "imdbId": "tt0060390",
+      "position": 76,
+      "sourceTitle": "Fahrenheit 451",
+      "releaseYear": 1966
+    },
+    {
+      "imdbId": "tt0387808",
+      "position": 77,
+      "sourceTitle": "Idiocracy",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt1663662",
+      "position": 78,
+      "sourceTitle": "Pacific Rim",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0246578",
+      "position": 79,
+      "sourceTitle": "Donnie Darko",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0062711",
+      "position": 80,
+      "sourceTitle": "Barbarella",
+      "releaseYear": 1968
+    },
+    {
+      "imdbId": "tt0116629",
+      "position": 81,
+      "sourceTitle": "Independence Day",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt4701182",
+      "position": 82,
+      "sourceTitle": "Bumblebee",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt0084827",
+      "position": 83,
+      "sourceTitle": "TRON",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0119654",
+      "position": 84,
+      "sourceTitle": "Men in Black",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt1060277",
+      "position": 85,
+      "sourceTitle": "Cloverfield",
+      "releaseYear": 2008
+    },
+    {
+      "imdbId": "tt0091064",
+      "position": 86,
+      "sourceTitle": "The Fly",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0074851",
+      "position": 87,
+      "sourceTitle": "The Man Who Fell to Earth",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt1441395",
+      "position": 88,
+      "sourceTitle": "Under the Skin",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0118929",
+      "position": 89,
+      "sourceTitle": "Dark City",
+      "releaseYear": 1998
+    },
+    {
+      "imdbId": "tt0070904",
+      "position": 90,
+      "sourceTitle": "World on a Wire",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt0086856",
+      "position": 91,
+      "sourceTitle": "The Adventures of Buckaroo Banzai",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt0087004",
+      "position": 92,
+      "sourceTitle": "The Brother from Another Planet",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt1343727",
+      "position": 93,
+      "sourceTitle": "Dredd",
+      "releaseYear": 2012
+    },
+    {
+      "imdbId": "tt0434409",
+      "position": 94,
+      "sourceTitle": "V for Vendetta",
+      "releaseYear": 2005
+    },
+    {
+      "imdbId": "tt0119116",
+      "position": 95,
+      "sourceTitle": "The Fifth Element",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0120201",
+      "position": 96,
+      "sourceTitle": "Starship Troopers",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0087995",
+      "position": 97,
+      "sourceTitle": "Repo Man",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt2488496",
+      "position": 98,
+      "sourceTitle": "Star Wars: Episode VII - The Force Awakens",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt6644200",
+      "position": 99,
+      "sourceTitle": "A Quiet Place",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt0468492",
+      "position": 100,
+      "sourceTitle": "The Host",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0077745",
+      "position": 101,
+      "sourceTitle": "Invasion of the Body Snatchers",
+      "releaseYear": 1978
+    },
+    {
+      "imdbId": "tt1213663",
+      "position": 102,
+      "sourceTitle": "The World's End",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0117731",
+      "position": 103,
+      "sourceTitle": "Star Trek: First Contact",
+      "releaseYear": 1996
+    },
+    {
+      "imdbId": "tt6499752",
+      "position": 104,
+      "sourceTitle": "Upgrade",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt1478964",
+      "position": 105,
+      "sourceTitle": "Attack the Block",
+      "releaseYear": 2011
+    },
+    {
+      "imdbId": "tt0066434",
+      "position": 106,
+      "sourceTitle": "THX 1138",
+      "releaseYear": 1971
+    },
+    {
+      "imdbId": "tt3672742",
+      "position": 107,
+      "sourceTitle": "Turbo Kid",
+      "releaseYear": 2015
+    },
+    {
+      "imdbId": "tt0379786",
+      "position": 108,
+      "sourceTitle": "Serenity",
+      "releaseYear": 2005
+    },
+    {
+      "imdbId": "tt0851578",
+      "position": 109,
+      "sourceTitle": "Paprika",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt0125659",
+      "position": 110,
+      "sourceTitle": "Open Your Eyes (Abre los Ojos)",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0069945",
+      "position": 111,
+      "sourceTitle": "Dark Star",
+      "releaseYear": 1974
+    },
+    {
+      "imdbId": "tt0085852",
+      "position": 112,
+      "sourceTitle": "Liquid Sky",
+      "releaseYear": 1982
+    },
+    {
+      "imdbId": "tt0448134",
+      "position": 113,
+      "sourceTitle": "Sunshine",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt0044207",
+      "position": 114,
+      "sourceTitle": "When Worlds Collide",
+      "releaseYear": 1951
+    },
+    {
+      "imdbId": "tt0055894",
+      "position": 115,
+      "sourceTitle": "The Day of the Triffids",
+      "releaseYear": 1963
+    },
+    {
+      "imdbId": "tt0212720",
+      "position": 116,
+      "sourceTitle": "A.I. Artificial Intelligence",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0072730",
+      "position": 117,
+      "sourceTitle": "A Boy and His Dog",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0082509",
+      "position": 118,
+      "sourceTitle": "Heavy Metal",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0114558",
+      "position": 119,
+      "sourceTitle": "Strange Days",
+      "releaseYear": 1995
+    },
+    {
+      "imdbId": "tt0123755",
+      "position": 120,
+      "sourceTitle": "Cube",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt0028358",
+      "position": 121,
+      "sourceTitle": "Things to Come",
+      "releaseYear": 1936
+    },
+    {
+      "imdbId": "tt0081455",
+      "position": 122,
+      "sourceTitle": "Scanners",
+      "releaseYear": 1981
+    },
+    {
+      "imdbId": "tt0051418",
+      "position": 123,
+      "sourceTitle": "The Blob",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt0074812",
+      "position": 124,
+      "sourceTitle": "Logan's Run",
+      "releaseYear": 1976
+    },
+    {
+      "imdbId": "tt0414993",
+      "position": 125,
+      "sourceTitle": "The Fountain",
+      "releaseYear": 2006
+    },
+    {
+      "imdbId": "tt3748528",
+      "position": 126,
+      "sourceTitle": "Rogue One: A Star Wars Story",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0088170",
+      "position": 127,
+      "sourceTitle": "Star Trek III - The Search for Spock",
+      "releaseYear": 1984
+    },
+    {
+      "imdbId": "tt4262980",
+      "position": 128,
+      "sourceTitle": "Godzilla Resurgence (Shin Godzilla)",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0293416",
+      "position": 129,
+      "sourceTitle": "Metropolis",
+      "releaseYear": 2001
+    },
+    {
+      "imdbId": "tt0407304",
+      "position": 130,
+      "sourceTitle": "War of the Worlds",
+      "releaseYear": 2005
+    },
+    {
+      "imdbId": "tt0067756",
+      "position": 131,
+      "sourceTitle": "Silent Running",
+      "releaseYear": 1972
+    },
+    {
+      "imdbId": "tt0073631",
+      "position": 132,
+      "sourceTitle": "Rollerball",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt0052077",
+      "position": 133,
+      "sourceTitle": "Plan 9 from Outer Space",
+      "releaseYear": 1958
+    },
+    {
+      "imdbId": "tt1677720",
+      "position": 134,
+      "sourceTitle": "Ready Player One",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt0437086",
+      "position": 135,
+      "sourceTitle": "Alita: Battle Angel",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0091419",
+      "position": 136,
+      "sourceTitle": "Little Shop of Horrors",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt0091059",
+      "position": 137,
+      "sourceTitle": "Flight of the Navigator",
+      "releaseYear": 1986
+    },
+    {
+      "imdbId": "tt1821641",
+      "position": 138,
+      "sourceTitle": "The Congress",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt0118884",
+      "position": 139,
+      "sourceTitle": "Contact",
+      "releaseYear": 1997
+    },
+    {
+      "imdbId": "tt2798920",
+      "position": 140,
+      "sourceTitle": "Annihilation",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt0076929",
+      "position": 141,
+      "sourceTitle": "Wizards",
+      "releaseYear": 1977
+    },
+    {
+      "imdbId": "tt2649554",
+      "position": 142,
+      "sourceTitle": "Midnight Special",
+      "releaseYear": 2016
+    },
+    {
+      "imdbId": "tt0073629",
+      "position": 143,
+      "sourceTitle": "The Rocky Horror Picture Show",
+      "releaseYear": 1975
+    },
+    {
+      "imdbId": "tt2866360",
+      "position": 144,
+      "sourceTitle": "Coherence",
+      "releaseYear": 2013
+    },
+    {
+      "imdbId": "tt4827558",
+      "position": 145,
+      "sourceTitle": "High Life",
+      "releaseYear": 2018
+    },
+    {
+      "imdbId": "tt0070909",
+      "position": 146,
+      "sourceTitle": "Westworld",
+      "releaseYear": 1973
+    },
+    {
+      "imdbId": "tt2935510",
+      "position": 147,
+      "sourceTitle": "Ad Astra",
+      "releaseYear": 2019
+    },
+    {
+      "imdbId": "tt0480669",
+      "position": 148,
+      "sourceTitle": "Los Cronocrímenes (Timecrimes)",
+      "releaseYear": 2007
+    },
+    {
+      "imdbId": "tt3986820",
+      "position": 149,
+      "sourceTitle": "The Endless",
+      "releaseYear": 2017
+    },
+    {
+      "imdbId": "tt0371724",
+      "position": 150,
+      "sourceTitle": "The Hitchhiker's Guide to the Galaxy",
+      "releaseYear": 2005
+    }
+  ]
+}

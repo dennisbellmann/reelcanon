@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="1001 Filme, Ausgabe 2024: drei Filmkader auf einem durchgehenden Filmstreifen">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 04</text>
+
+  <!-- Three distinct story frames on one continuous strip: cinema as a journey through many worlds. -->
+  <rect x="112" y="238" width="376" height="238" fill="#292820"/>
+  <g fill="#eee6d5">
+    <rect x="123" y="250" width="11" height="16"/><rect x="149" y="250" width="11" height="16"/><rect x="175" y="250" width="11" height="16"/><rect x="201" y="250" width="11" height="16"/><rect x="227" y="250" width="11" height="16"/><rect x="253" y="250" width="11" height="16"/><rect x="279" y="250" width="11" height="16"/><rect x="305" y="250" width="11" height="16"/><rect x="331" y="250" width="11" height="16"/><rect x="357" y="250" width="11" height="16"/><rect x="383" y="250" width="11" height="16"/><rect x="409" y="250" width="11" height="16"/><rect x="435" y="250" width="11" height="16"/><rect x="461" y="250" width="11" height="16"/>
+    <rect x="123" y="448" width="11" height="16"/><rect x="149" y="448" width="11" height="16"/><rect x="175" y="448" width="11" height="16"/><rect x="201" y="448" width="11" height="16"/><rect x="227" y="448" width="11" height="16"/><rect x="253" y="448" width="11" height="16"/><rect x="279" y="448" width="11" height="16"/><rect x="305" y="448" width="11" height="16"/><rect x="331" y="448" width="11" height="16"/><rect x="357" y="448" width="11" height="16"/><rect x="383" y="448" width="11" height="16"/><rect x="409" y="448" width="11" height="16"/><rect x="435" y="448" width="11" height="16"/><rect x="461" y="448" width="11" height="16"/>
+  </g>
+  <g fill="#eee6d5" stroke="#b9914e" stroke-width="2">
+    <rect x="143" y="278" width="94" height="156"/><rect x="253" y="278" width="94" height="156"/><rect x="363" y="278" width="94" height="156"/>
+  </g>
+  <g fill="#b9914e">
+    <circle cx="190" cy="331" r="24"/>
+    <path d="M159 385 180 366 196 379 211 360 231 385v34h-72Z"/>
+    <path d="M266 400h15v-39h14v25h15v-56h16v70h13v19h-73Zm8-69h15v18h-15Zm45-19h15v12h-15Z"/>
+    <circle cx="410" cy="338" r="18"/>
+  </g>
+  <g fill="#ba522c">
+    <path d="M266 421h68v4h-68Z"/>
+    <path d="M374 400q36-39 72 0v19h-72Z"/>
+  </g>
+  <g fill="none" stroke="#292820" stroke-width="4" stroke-linecap="round">
+    <path d="M154 419h72M374 419h72"/>
+    <path d="M382 386q28-17 56 0"/>
+  </g>
+  <path d="M166 585q58 28 116 0t116 0" fill="none" stroke="#b9914e" stroke-width="3"/>
+  <circle cx="166" cy="585" r="6" fill="#ba522c"/><circle cx="300" cy="585" r="6" fill="#292820"/><circle cx="398" cy="585" r="6" fill="#ba522c"/>
+  <text x="300" y="692" text-anchor="middle" font-family="Georgia,serif" font-size="60" letter-spacing="1" fill="#292820">1001 FILME</text>
+  <text x="300" y="745" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" letter-spacing="7" fill="#ba522c">AUSGABE 2024</text>
+  <path d="M176 780h248" stroke="#8b8475"/>
+  <text x="300" y="821" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#625e51">15. DEUTSCHSPRACHIGE AUSGABE</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Top 100 Halloween Movies">
+  <rect width="600" height="900" fill="#eee6d5"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#292820" stroke-width="2"/>
+  <text x="300" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="6" fill="#39372f">REEL CANON · COLLECTION 02</text>
+  <circle cx="300" cy="350" r="165" fill="#ba522c"/>
+  <circle cx="327" cy="313" r="87" fill="#e9be6c"/>
+  <path d="M85 566 120 428 99 318 117 332 129 404 147 289 163 312 151 405 202 368 210 385 147 438 144 566M512 566 477 428 498 316 480 335 468 405 451 291 435 312 447 405 396 368 388 385 451 438 455 566" fill="#262923"/>
+  <path d="M67 566Q160 526 241 556T533 559V610H67Z" fill="#262923"/>
+  <ellipse cx="300" cy="500" rx="86" ry="72" fill="#d97a35"/>
+  <ellipse cx="300" cy="500" rx="47" ry="72" fill="none" stroke="#ae4829" stroke-width="3"/>
+  <path d="M291 432 294 409 319 400 324 411 308 420 307 433" fill="#262923"/>
+  <path d="m260 489 22-22 8 26Zm50 4 8-26 22 22ZM258 517l21 10 9-8 12 12 12-12 9 8 21-10-14 27h-56Z" fill="#262923"/>
+  <text x="300" y="690" text-anchor="middle" font-family="Georgia,serif" font-size="58" letter-spacing="2" fill="#262923">HALLOWEEN</text>
+  <text x="300" y="744" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" letter-spacing="8" fill="#ba522c">TOP 100 MOVIES</text>
+  <path d="M160 784h280" stroke="#8b8475"/>
+  <text x="300" y="822" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#625e51">ONE HUNDRED NIGHTS OF FEAR</text>
+</svg>

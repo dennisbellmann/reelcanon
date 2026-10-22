@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: reelcanon
+          POSTGRES_PASSWORD: reelcanon
+          POSTGRES_DB: reelcanon_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U reelcanon -d reelcanon_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      TEST_DATABASE_URL: postgres://reelcanon:reelcanon@localhost:5432/reelcanon_test?sslmode=disable
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: backend/go.mod
+          cache-dependency-path: backend/go.sum
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - run: make install
+      - run: make ci
+      - run: cd frontend && npx playwright install --with-deps chromium
+      - run: make test-e2e
