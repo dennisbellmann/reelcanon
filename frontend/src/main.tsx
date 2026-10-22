@@ -11,6 +11,15 @@ const queryClient = new QueryClient({
   defaultOptions: { queries: { staleTime: 60_000, retry: 1 } },
 });
 const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
+if (
+  basePath &&
+  window.location.pathname !== basePath &&
+  !window.location.pathname.startsWith(`${basePath}/`)
+) {
+  const nestedPath = window.location.pathname.replace(/^\/+/, "");
+  const targetPath = nestedPath ? `${basePath}/${nestedPath}` : `${basePath}/`;
+  window.location.replace(`${targetPath}${window.location.search}${window.location.hash}`);
+}
 
 const router = createBrowserRouter([
   {
