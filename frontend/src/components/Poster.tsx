@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import type { Movie } from "../api/client";
 import { MoviePosterArtwork } from "./MoviePosterArtwork";
+import { publicPath } from "../data/public-path";
 
 export function Poster({
   movie,
@@ -16,7 +17,7 @@ export function Poster({
   const [failedURL, setFailedURL] = useState<string | null>(null);
   return movie.posterUrl && failedURL !== movie.posterUrl ? (
     <img
-      src={movie.posterUrl}
+      src={publicPath(movie.posterUrl)}
       alt={t("movie.poster", { title: movie.title })}
       loading="lazy"
       width="500"

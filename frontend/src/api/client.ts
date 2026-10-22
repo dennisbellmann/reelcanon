@@ -1,4 +1,4 @@
-const apiBase = import.meta.env.VITE_API_BASE_URL ?? "/api/v1";
+import { apiBase } from "../data/public-path";
 
 export interface Canon {
   slug: string;

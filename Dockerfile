@@ -1,5 +1,7 @@
 FROM node:24-bookworm-slim AS frontend-build
 WORKDIR /src
+ARG VITE_BASE_PATH=/
+ENV VITE_BASE_PATH=${VITE_BASE_PATH}
 COPY frontend/package*.json ./frontend/
 COPY frontend/ ./frontend/
 COPY localization/ ./localization/

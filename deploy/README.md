@@ -15,6 +15,15 @@ frontend from the same origin. PostgreSQL runs in its own persistent container.
    profile from the service directory. The sample snapshot is a historical
    archive; TMDb enrichment can be configured separately.
 
+To share one hostname between applications, set the Coolify build variable
+`VITE_BASE_PATH` to a path with leading and trailing slashes (for example
+`/reelcanon/`) and rebuild Reel Canon. In the app service's **Domains** field,
+route `https://your-host/reelcanon` to port `8080`. Coolify strips the matched
+prefix by default, which lets the Go server continue serving its normal `/`
+and `/api` routes. A route for `/` can then point to another app; the more
+specific `/reelcanon` route takes priority. Keep the trailing slash in
+`VITE_BASE_PATH` even if Coolify displays the route without it.
+
 The first-time PostgreSQL init script creates a read-only role for the public
 API. PostgreSQL has no published host port. Keep the admin app private until a
 separate authenticated access path is configured.

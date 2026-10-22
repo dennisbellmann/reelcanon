@@ -17,6 +17,7 @@ import {
 } from "../api/account";
 import { localProgressRepository } from "../data/progress";
 import { importCloudBackup } from "../data/cloud-progress";
+import { publicPath } from "../data/public-path";
 
 const buttonClass =
   "min-h-11 border border-ink px-5 py-3 text-sm hover:bg-ink hover:text-paper disabled:opacity-50";
@@ -321,7 +322,7 @@ export function AccountPage({
                     className="flex min-h-12 w-full items-center justify-center gap-3 rounded-[4px] border border-[#747775] bg-white px-3 text-sm font-medium text-[#1f1f1f] shadow-sm transition-colors hover:bg-[#f8f9fa] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#4285f4] focus-visible:ring-offset-2"
                   >
                     <img
-                      src="/google-g.png"
+                      src={publicPath("google-g.png")}
                       alt=""
                       className="size-5 shrink-0"
                     />

@@ -10,6 +10,7 @@ import "./styles.css";
 const queryClient = new QueryClient({
   defaultOptions: { queries: { staleTime: 60_000, retry: 1 } },
 });
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
 
 const router = createBrowserRouter([
   {
@@ -21,7 +22,13 @@ const router = createBrowserRouter([
       </p>
     ),
     loader: async ({ request }) => {
-      const { pathname } = new URL(request.url);
+      const { pathname: requestedPath } = new URL(request.url);
+      const pathname =
+        basePath && requestedPath.startsWith(`${basePath}/`)
+          ? requestedPath.slice(basePath.length)
+          : requestedPath === basePath
+            ? "/"
+            : requestedPath;
       const collection = pathname.match(
         /^\/canons\/([^/]+)(?:\/movies\/[^/]+)?\/?$/,
       );
@@ -46,7 +53,9 @@ const router = createBrowserRouter([
       return null;
     },
   },
-]);
+], {
+  basename: basePath || "/",
+});
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>

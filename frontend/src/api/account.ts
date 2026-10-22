@@ -6,6 +6,7 @@ import {
   type LocalizedMessage,
 } from "../i18n-message";
 import { useSyncExternalStore } from "react";
+import { apiBase as configuredApiBase } from "../data/public-path";
 
 export interface AccountState {
   ready: boolean;
@@ -25,10 +26,7 @@ let state: AccountState = {
 };
 const listeners = new Set<() => void>();
 let pending: Promise<void> | undefined;
-const base = (import.meta.env.VITE_API_BASE_URL || "/api/v1").replace(
-  /\/$/,
-  "",
-);
+const base = configuredApiBase.replace(/\/$/, "");
 function publish(next: AccountState) {
   state = next;
   for (const listener of listeners) listener();
