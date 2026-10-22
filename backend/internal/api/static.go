@@ -11,7 +11,15 @@ import (
 // Admin handlers are never registered on this listener.
 func WithFrontend(api http.Handler, directory string) http.Handler {
 	files := http.FileServer(http.Dir(directory))
+	basePath := strings.TrimSpace(os.Getenv("APP_BASE_PATH"))
+	if basePath != "" && basePath != "/" {
+		basePath = "/" + strings.Trim(basePath, "/")
+	}
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.URL.Path == "/" && basePath != "" && basePath != "/" {
+			http.Redirect(w, r, basePath+"/", http.StatusPermanentRedirect)
+			return
+		}
 		if strings.HasPrefix(r.URL.Path, "/api/") {
 			api.ServeHTTP(w, r)
 			return

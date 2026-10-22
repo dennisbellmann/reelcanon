@@ -13,6 +13,7 @@ services:
       API_ADDR: ":8080"
       API_DATABASE_URL: postgres://reelcanon_api:${API_DATABASE_PASSWORD:?Set API_DATABASE_PASSWORD in Coolify}@database:5432/reelcanon?sslmode=disable
       FRONTEND_DIST: /app/frontend
+      APP_BASE_PATH: ${APP_BASE_PATH:-/}
       AUTH_ENABLED: "false"
     depends_on:
       database:
