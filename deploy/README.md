@@ -18,3 +18,11 @@ frontend from the same origin. PostgreSQL runs in its own persistent container.
 The first-time PostgreSQL init script creates a read-only role for the public
 API. PostgreSQL has no published host port. Keep the admin app private until a
 separate authenticated access path is configured.
+
+To enable the authenticated Cockpit without making it public, build the same
+image and add `coolify-admin.override.yaml` as a Compose override in the
+Coolify service. Set `ADMIN_USER` and a unique `ADMIN_PASSWORD` in that
+service's environment. The override binds port 8081 to host loopback only;
+access it through an SSH tunnel, for example `ssh -L 8081:127.0.0.1:8081 root@your-server`, then open `http://127.0.0.1:8081/canons`. The admin connects
+to the persistent production database, so visibility changes affect the live
+catalog.

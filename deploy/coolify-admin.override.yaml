@@ -1,0 +1,18 @@
+services:
+  admin:
+    image: reelcanon:coolify
+    entrypoint: ["/app/reelcanon-admin"]
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8081:8081"
+    environment:
+      ADMIN_ADDR: ":8081"
+      ADMIN_USER: ${ADMIN_USER:?Set ADMIN_USER in Coolify}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:?Set ADMIN_PASSWORD in Coolify}
+      ADMIN_DATABASE_URL: postgres://reelcanon:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in Coolify}@database:5432/reelcanon?sslmode=disable
+      CANON_CRAWLER_MODULES_FILE: /app/data/crawler-modules.json
+    depends_on:
+      database:
+        condition: service_healthy
+    networks:
+      - app-data

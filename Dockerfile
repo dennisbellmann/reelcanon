@@ -18,16 +18,18 @@ RUN go mod download
 COPY backend/ ./
 RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-api ./cmd/api \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-migrate ./cmd/migrate \
-    && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-import ./cmd/import-canon
+    && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-import ./cmd/import-canon \
+    && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-admin ./cmd/admin
 
 FROM gcr.io/distroless/static-debian12:nonroot
 WORKDIR /app
 COPY --from=backend-build /out/reelcanon-api /app/reelcanon-api
 COPY --from=backend-build /out/reelcanon-migrate /app/reelcanon-migrate
 COPY --from=backend-build /out/reelcanon-import /app/reelcanon-import
+COPY --from=backend-build /out/reelcanon-admin /app/reelcanon-admin
 COPY --from=frontend-build /src/frontend/dist/ /app/frontend/
 COPY database/migrations/ /app/database/migrations/
-COPY data/imdb-top-250-2025-08-20.json /app/data/imdb-top-250-2025-08-20.json
+COPY data/ /app/data/
 ENV API_ADDR=:8080
 ENV FRONTEND_DIST=/app/frontend
 EXPOSE 8080
