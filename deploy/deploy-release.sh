@@ -121,11 +121,12 @@ if isinstance(data, dict):
         first_fields = sorted(first.keys()) if isinstance(first, dict) else []
         entry_message = safe_message(first.get("message", "")) if isinstance(first, dict) else ""
         item_count = len(items) if isinstance(items, (list, dict)) else "unknown"
+        top_message = safe_message(data.get("message", ""))
         print(
             f"Coolify deploy response fields: {sorted(data.keys())}; "
             f"deployments type: {type(items).__name__}; count: {item_count}; "
             f"first entry type: {type(first).__name__}; first entry fields: {first_fields}; "
-            f"message: {safe_message(data.get('message', ''))}; entry message: {entry_message}",
+            f"message: {top_message}; entry message: {entry_message}",
             file=sys.stderr,
         )
 elif isinstance(data, list) and data and isinstance(data[0], dict):
