@@ -3,6 +3,7 @@ name: CI
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -41,3 +42,75 @@ jobs:
       - run: make ci
       - run: cd frontend && npx playwright install --with-deps chromium
       - run: make test-e2e
+
+  deploy:
+    name: Deploy main to Coolify
+    needs: ci
+    if: >-
+      vars.REELCANON_DEPLOY_ENABLED == 'true' &&
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    concurrency:
+      group: reelcanon-production-deploy
+      cancel-in-progress: false
+    env:
+      VPS_DEPLOY_HOST: ${{ vars.VPS_DEPLOY_HOST }}
+      VPS_DEPLOY_USER: ${{ vars.VPS_DEPLOY_USER }}
+      VPS_SSH_KNOWN_HOSTS: ${{ vars.VPS_SSH_KNOWN_HOSTS }}
+      COOLIFY_SERVICE_UUID: ${{ vars.COOLIFY_SERVICE_UUID }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+      - name: Configure SSH
+        shell: bash
+        env:
+          VPS_DEPLOY_KEY: ${{ secrets.VPS_DEPLOY_KEY }}
+          COOLIFY_DEPLOY_TOKEN: ${{ secrets.COOLIFY_DEPLOY_TOKEN }}
+          COOLIFY_READ_TOKEN: ${{ secrets.COOLIFY_READ_TOKEN }}
+        run: |
+          set -euo pipefail
+          : "${VPS_DEPLOY_HOST:?Set repository variable VPS_DEPLOY_HOST}"
+          : "${VPS_DEPLOY_USER:?Set repository variable VPS_DEPLOY_USER}"
+          : "${VPS_SSH_KNOWN_HOSTS:?Set repository variable VPS_SSH_KNOWN_HOSTS}"
+          : "${COOLIFY_SERVICE_UUID:?Set repository variable COOLIFY_SERVICE_UUID}"
+          : "${VPS_DEPLOY_KEY:?Set repository secret VPS_DEPLOY_KEY}"
+          : "${COOLIFY_DEPLOY_TOKEN:?Set repository secret COOLIFY_DEPLOY_TOKEN}"
+          : "${COOLIFY_READ_TOKEN:?Set repository secret COOLIFY_READ_TOKEN}"
+          [[ "$COOLIFY_SERVICE_UUID" =~ ^[a-zA-Z0-9_-]+$ ]]
+          [[ "$GITHUB_SHA" =~ ^[0-9a-f]{40}$ ]]
+          install -d -m 700 "$HOME/.ssh"
+          printf '%s\n' "$VPS_DEPLOY_KEY" > "$HOME/.ssh/reelcanon_deploy"
+          printf '%s\n' "$VPS_SSH_KNOWN_HOSTS" > "$HOME/.ssh/known_hosts"
+          chmod 600 "$HOME/.ssh/reelcanon_deploy" "$HOME/.ssh/known_hosts"
+          ssh-keygen -y -f "$HOME/.ssh/reelcanon_deploy" >/dev/null
+      - name: Package the exact main commit
+        shell: bash
+        run: git archive --format=tar.gz --output="$RUNNER_TEMP/reelcanon-${GITHUB_SHA}.tar.gz" "$GITHUB_SHA"
+      - name: Upload archive and deploy script
+        shell: bash
+        env:
+          COOLIFY_DEPLOY_TOKEN: ${{ secrets.COOLIFY_DEPLOY_TOKEN }}
+          COOLIFY_READ_TOKEN: ${{ secrets.COOLIFY_READ_TOKEN }}
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/reelcanon-${GITHUB_SHA}.tar.gz"
+          remote="$VPS_DEPLOY_USER@$VPS_DEPLOY_HOST"
+          ssh_args=(-i "$HOME/.ssh/reelcanon_deploy" -o IdentitiesOnly=yes -o BatchMode=yes -o StrictHostKeyChecking=yes -o "UserKnownHostsFile=$HOME/.ssh/known_hosts")
+          scp "${ssh_args[@]}" "$archive" "$remote:/tmp/reelcanon-${GITHUB_SHA}.tar.gz"
+          scp "${ssh_args[@]}" deploy/deploy-release.sh "$remote:/tmp/reelcanon-deploy-${GITHUB_SHA}.sh"
+          printf '%s\n%s\n' "$COOLIFY_DEPLOY_TOKEN" "$COOLIFY_READ_TOKEN" | ssh "${ssh_args[@]}" "$remote" \
+            "bash /tmp/reelcanon-deploy-${GITHUB_SHA}.sh '$GITHUB_SHA' '$COOLIFY_SERVICE_UUID'"
+      - name: Remove temporary release files from VPS
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          [[ -f "$HOME/.ssh/reelcanon_deploy" ]] || exit 0
+          remote="$VPS_DEPLOY_USER@$VPS_DEPLOY_HOST"
+          ssh_args=(-i "$HOME/.ssh/reelcanon_deploy" -o IdentitiesOnly=yes -o BatchMode=yes -o StrictHostKeyChecking=yes -o "UserKnownHostsFile=$HOME/.ssh/known_hosts")
+          ssh "${ssh_args[@]}" "$remote" \
+            "rm -f '/tmp/reelcanon-${GITHUB_SHA}.tar.gz' '/tmp/reelcanon-deploy-${GITHUB_SHA}.sh'"
