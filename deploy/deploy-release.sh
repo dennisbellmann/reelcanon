@@ -40,7 +40,7 @@ IFS= read -r deploy_token || {
 IFS= read -r read_token || {
   echo "Missing Coolify read token on stdin." >&2
   exit 2
-fi
+}
 if [[ -z "$deploy_token" || -z "$read_token" ]]; then
   echo "A Coolify API token is empty." >&2
   exit 2
