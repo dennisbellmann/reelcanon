@@ -100,14 +100,24 @@ response="$(curl --config "$deploy_auth_config" --silent --show-error --fail-wit
   --request POST \
   "http://127.0.0.1:8000/api/v1/deploy?uuid=${service_uuid}&force=true")"
 deployment_uuid="$(printf '%s' "$response" | python3 -c '
-import json, sys
+import json, re, sys
 data = json.load(sys.stdin)
-items = data.get("deployments", []) if isinstance(data, dict) else []
-if items and isinstance(items[0], dict):
-    print(items[0].get("deployment_uuid", ""))
+deployment_uuid = ""
+if isinstance(data, dict):
+    deployment_uuid = data.get("deployment_uuid", "")
+    items = data.get("deployments", [])
+    if not deployment_uuid and isinstance(items, list) and items and isinstance(items[0], dict):
+        deployment_uuid = items[0].get("deployment_uuid", "")
+    if not deployment_uuid:
+        message = str(data.get("message", "")).replace("\n", " ")[:300]
+        message = re.sub(r"\b\d+\|[A-Za-z0-9]+\b", "<redacted>", message)
+        print(f"Coolify deploy response fields: {sorted(data.keys())}; message: {message}", file=sys.stderr)
+elif isinstance(data, list) and data and isinstance(data[0], dict):
+    deployment_uuid = data[0].get("deployment_uuid", "")
+print(deployment_uuid)
 ')"
 if [[ ! "$deployment_uuid" =~ ^[a-zA-Z0-9_-]+$ ]]; then
-  echo "Coolify did not return a deployment UUID." >&2
+  echo "Coolify did not return a valid deployment UUID." >&2
   exit 1
 fi
 echo "Coolify queued deployment $deployment_uuid for $commit_sha."
