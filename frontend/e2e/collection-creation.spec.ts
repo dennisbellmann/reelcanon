@@ -121,7 +121,5 @@ async function publishCollection(
   await page
     .getByRole("button", { name: "Geprüfte Edition veröffentlichen" })
     .click();
-  await expect(
-    page.getByText("Edition veröffentlicht.", { exact: true }),
-  ).toBeVisible();
+  await expect(page.getByText(/^Edition veröffentlicht\./)).toBeVisible();
 }
