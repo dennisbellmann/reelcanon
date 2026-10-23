@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := start
 CANON ?= imdb-top-250
 
-.PHONY: start stop restart help install dev api admin migrate import-canon enrich test-e2e frontend-dev build test ci fmt fmt-check lint clean mobile-check mobile-test android-debug android-device-test android-bundle
+.PHONY: start stop restart help install dev api admin migrate import-canon enrich test-e2e frontend-dev build test ci deploy fmt fmt-check lint clean mobile-check mobile-test android-debug android-device-test android-bundle
 
 .PHONY: dev-mail accounts-local
 
@@ -17,7 +17,7 @@ restart:
 
 help:
 	@echo "Local Windows: make (or make start), make stop, make restart"
-	@echo "Targets: install dev frontend-dev api admin dev-mail accounts-local migrate import-canon enrich build test test-e2e ci fmt fmt-check lint clean"
+	@echo "Targets: install dev frontend-dev api admin dev-mail accounts-local migrate import-canon enrich build test test-e2e ci deploy fmt fmt-check lint clean"
 	@echo "Mobile: mobile-check mobile-test android-debug android-device-test android-bundle (MOBILE_ARGS=...)"
 
 install:
@@ -63,6 +63,12 @@ test-e2e:
 	cd frontend && npm run test:e2e
 
 ci: fmt-check lint test build
+
+# Deploys the latest commit already on main through the GitHub Actions CI/CD workflow.
+# GitHub CLI (gh) must be installed and authenticated for this repository.
+deploy:
+	gh workflow run ci.yml --ref main
+	@echo "CI/CD for main queued. Follow it with: gh run watch"
 
 fmt:
 	node scripts/check-gofmt.mjs --write

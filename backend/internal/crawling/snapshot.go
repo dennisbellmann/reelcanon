@@ -112,6 +112,16 @@ func ValidateSnapshot(snapshot Snapshot) error {
 // resolves their canonical IMDb and TMDb identities. Published snapshots still
 // pass through ValidateSnapshot and therefore always have IMDb IDs.
 func ValidateSourceSnapshot(snapshot Snapshot) error {
+	return validateSourceSnapshot(snapshot, true)
+}
+
+// ValidateDraftSnapshot validates an editable source snapshot without requiring
+// collection canons to have their full publication size yet.
+func ValidateDraftSnapshot(snapshot Snapshot) error {
+	return validateSourceSnapshot(snapshot, false)
+}
+
+func validateSourceSnapshot(snapshot Snapshot, requireFullCollection bool) error {
 	if snapshot.Format != SnapshotFormat {
 		return fmt.Errorf("format must be %q", SnapshotFormat)
 	}
@@ -186,7 +196,7 @@ func ValidateSourceSnapshot(snapshot Snapshot) error {
 	case "1001-movies":
 		expectedCount = 1001
 	}
-	if expectedCount > 0 {
+	if requireFullCollection && expectedCount > 0 {
 		if len(snapshot.Entries) != expectedCount {
 			return fmt.Errorf("%s requires exactly %d entries, received %d", snapshot.Canon.Slug, expectedCount, len(snapshot.Entries))
 		}

@@ -454,8 +454,7 @@ export function CollectionPage({ progress, refreshProgress }: Props) {
                       : 0}
                     %
                     {activeDecadeProgress.total > 0 &&
-                    activeDecadeProgress.watched ===
-                      activeDecadeProgress.total
+                    activeDecadeProgress.watched === activeDecadeProgress.total
                       ? t("collection.allWatched")
                       : ""}
                   </p>

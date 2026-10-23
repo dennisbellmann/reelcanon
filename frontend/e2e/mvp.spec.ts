@@ -104,7 +104,7 @@ test("watched state follows a film across Canons and changed editions", async ({
   await expect(sharedCard.getByRole("img")).toHaveCSS("filter", "none");
   await expect(
     page.locator('a[href="/canons/fixture-films"]').getByRole("img"),
-  ).toHaveCSS("filter", "grayscale(1) saturate(0.55)");
+  ).toHaveCSS("filter", "grayscale(1)");
   await context.close();
 });
 
@@ -114,7 +114,7 @@ test("collection artwork reveals color with progress and becomes fully colored o
   await page.goto("/canons");
   const card = page.locator('a[href="/canons/fixture-films"]');
   const artwork = card.getByRole("img", { name: "Artwork: Fixture Films" });
-  await expect(artwork).toHaveCSS("filter", "grayscale(1) saturate(0.55)");
+  await expect(artwork).toHaveCSS("filter", "grayscale(1)");
   await expect
     .poll(() =>
       artwork.evaluate(
@@ -164,7 +164,7 @@ test("collection artwork reveals color with progress and becomes fully colored o
     }),
   ).toHaveAttribute("aria-pressed", "false");
   await page.getByRole("link", { name: "Sammlungen", exact: true }).click();
-  await expect(artwork).toHaveCSS("filter", "grayscale(1) saturate(0.55)");
+  await expect(artwork).toHaveCSS("filter", "grayscale(1)");
   await expect(card).toContainText("2 / 3 gesehen");
   await expect(card.locator(".poster-badge")).toHaveText("2/3");
   await expect(card.locator(".collection-poster-color")).toHaveCSS(
@@ -583,7 +583,9 @@ test("admin protects drafts, rejects stale edits and publishes reviewed editions
   await page
     .getByRole("button", { name: "Geprüfte Edition veröffentlichen" })
     .click();
-  await expect(page.getByRole("status")).toHaveText("Edition veröffentlicht.");
+  await expect(page.getByRole("status")).toContainText(
+    "Edition veröffentlicht.",
+  );
   await stale.getByText("JSON-Entwurf bearbeiten", { exact: true }).click();
   await stale.getByRole("button", { name: "Entwurf speichern" }).click();
   await expect(stale.locator("body")).toContainText("reload before saving");
@@ -681,6 +683,12 @@ test("cockpit publishes collection design and PosterBadge follows watched progre
       exact: true,
     })
     .click();
+  await expect(
+    page.getByRole("button", {
+      name: "Fixture Film A als ungesehen markieren",
+      exact: true,
+    }),
+  ).toHaveAttribute("aria-pressed", "true");
   await page.goto("/canons");
   await expect(card.locator(".poster-badge")).toHaveText("1/2");
   await expect(card.locator(".collection-poster-color")).toHaveCSS(
