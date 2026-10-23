@@ -398,7 +398,7 @@ func (h *Handler) editEntry(w http.ResponseWriter, r *http.Request) {
 	}
 	draft.Snapshot.Entries = entries
 	if len(entries) > 0 {
-		if err := crawling.ValidateSourceSnapshot(draft.Snapshot); err != nil {
+		if err := crawling.ValidateDraftSnapshot(draft.Snapshot); err != nil {
 			h.fail(w, err)
 			return
 		}
@@ -411,7 +411,7 @@ func (h *Handler) editEntry(w http.ResponseWriter, r *http.Request) {
 				return
 			}
 			draft.Snapshot.Entries[len(draft.Snapshot.Entries)-1] = *edited
-			if err := crawling.ValidateSnapshot(draft.Snapshot); err != nil {
+			if err := crawling.ValidateDraftSnapshot(draft.Snapshot); err != nil {
 				h.fail(w, err)
 				return
 			}
