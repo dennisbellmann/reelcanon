@@ -683,6 +683,12 @@ test("cockpit publishes collection design and PosterBadge follows watched progre
       exact: true,
     })
     .click();
+  await expect(
+    page.getByRole("button", {
+      name: "Fixture Film A als ungesehen markieren",
+      exact: true,
+    }),
+  ).toHaveAttribute("aria-pressed", "true");
   await page.goto("/canons");
   await expect(card.locator(".poster-badge")).toHaveText("1/2");
   await expect(card.locator(".collection-poster-color")).toHaveCSS(
