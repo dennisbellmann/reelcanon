@@ -70,8 +70,11 @@ The deployment account must be able to call `http://127.0.0.1:8000` on the
 VPS, where Coolify listens locally, and the existing Coolify context directory
 must be writable by that account. The release script preserves `.env`, `.local`
 and `.git` if any are present, but these should not be part of the build
-context. The PostgreSQL volume is not replaced. The workflow waits for Coolify
-to report the deployment result and fails if the deployment fails or times out.
+context. The PostgreSQL volume is not replaced. For this Docker Compose service,
+Coolify returns a service-start message instead of a deployment UUID. The
+workflow waits until `/reelcanon/api/v1/healthz` reports the exact commit SHA
+baked into the new image. It fails if that build never becomes healthy or the
+wait times out.
 
 For a release, merge a tested pull request into `main`; the deploy job then runs
 after the main CI job succeeds. To redeploy the current `main` commit manually,

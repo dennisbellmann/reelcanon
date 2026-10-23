@@ -17,6 +17,9 @@ type Handler struct {
 	logger     *slog.Logger
 }
 
+// BuildID is set from the deployment context when the production image is built.
+var BuildID = "unknown"
+
 func NewHandler(repository *catalog.Repository, dbPing func(context.Context) error, logger *slog.Logger) http.Handler {
 	h := &Handler{repository: repository, dbPing: dbPing, logger: logger}
 	mux := http.NewServeMux()
@@ -34,7 +37,7 @@ func (h *Handler) health(w http.ResponseWriter, r *http.Request) {
 		writeJSON(w, http.StatusServiceUnavailable, map[string]string{"status": "unavailable"})
 		return
 	}
-	writeJSON(w, http.StatusOK, map[string]string{"status": "ok"})
+	writeJSON(w, http.StatusOK, map[string]string{"status": "ok", "build": BuildID})
 }
 
 func (h *Handler) listCanons(w http.ResponseWriter, r *http.Request) {

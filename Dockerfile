@@ -15,10 +15,12 @@ RUN npm ci && npm run build
 
 FROM golang:1.26.0-bookworm AS backend-build
 WORKDIR /src/backend
+COPY RELEASE_SHA /src/RELEASE_SHA
 COPY backend/go.mod backend/go.sum ./
 RUN go mod download
 COPY backend/ ./
-RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-api ./cmd/api \
+RUN build_sha="$(cat /src/RELEASE_SHA)" \
+    && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w -X github.com/reelcanon/reelcanon/backend/internal/api.BuildID=${build_sha}" -o /out/reelcanon-api ./cmd/api \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-migrate ./cmd/migrate \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-import ./cmd/import-canon \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/reelcanon-admin ./cmd/admin
