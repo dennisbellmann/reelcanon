@@ -47,6 +47,7 @@ gegenüber compileSdk 37 bleibt sichtbar; Android 17 ist hier noch nicht geteste
 
 iOS-Einstieg/Room/Ktor-Adapter und Xcode-Projekt sind vorbereitet, auf Windows
 aber nicht kompiliert oder getestet. Native Konten, mobile Token-Sessions,
-Cloud-Sync/Outbox und Store-Käufe sind noch nicht integriert. Die separate
-Android-GitHub-Actions-Konfiguration ist hinzugefügt, aber hier nicht auf GitHub
-ausgeführt. Keine Store-Veröffentlichung, kein Signing und keine echten Käufe.
+Cloud-Sync/Outbox und Store-Käufe sind noch nicht integriert. Android-Builds und
+Prüfungen laufen während der Testphase lokal über die Make-Ziele; es gibt dafür
+keinen GitHub-Actions-Workflow. Keine Store-Veröffentlichung, kein Signing und
+keine echten Käufe.

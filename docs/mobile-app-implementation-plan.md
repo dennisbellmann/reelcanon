@@ -315,8 +315,9 @@ verbindlichen Termine für zwei neue Clients inklusive Kauf-Backend.
 ## CI weiterhin über Makefiles
 
 Implementierte Ziele: mobile-check, mobile-test, android-debug, android-device-test
-und android-bundle. Diese rufen Gradle auf; die separate Android-CI ruft dieselben
-Make-Ziele auf. Bestehendes make ci bleibt für Web/Go erhalten. ios-simulator und
+und android-bundle. Diese rufen Gradle lokal auf. GitHub Actions führt während der
+Testphase nur die Web-/Go-CI und den Coolify-Deploy aus; Android-Prüfungen werden
+lokal gestartet. `make ci` bleibt für Web/Go erhalten. ios-simulator und
 ios-archive bleiben bis zur Prüfung auf einem Mac geplant.
 
 Android- und gemeinsame Prüfungen auf geeignetem Runner; iOS-Build/Signing auf
