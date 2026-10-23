@@ -5,4 +5,5 @@ export function publicPath(path: string): string {
   return `${basePath}${path.replace(/^\/+/, "")}`;
 }
 
-export const apiBase = import.meta.env.VITE_API_BASE_URL || publicPath("api/v1");
+export const apiBase =
+  import.meta.env.VITE_API_BASE_URL || publicPath("api/v1");
