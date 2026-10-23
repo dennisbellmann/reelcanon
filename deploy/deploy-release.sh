@@ -103,15 +103,31 @@ deployment_uuid="$(printf '%s' "$response" | python3 -c '
 import json, re, sys
 data = json.load(sys.stdin)
 deployment_uuid = ""
+def safe_message(value):
+    message = str(value).replace("\n", " ")[:300]
+    return re.sub(r"\b\d+\|[A-Za-z0-9]+\b", "<redacted>", message)
+
 if isinstance(data, dict):
     deployment_uuid = data.get("deployment_uuid", "")
     items = data.get("deployments", [])
-    if not deployment_uuid and isinstance(items, list) and items and isinstance(items[0], dict):
-        deployment_uuid = items[0].get("deployment_uuid", "")
+    if not deployment_uuid and isinstance(items, list) and items:
+        first = items[0]
+        if isinstance(first, dict):
+            deployment_uuid = first.get("deployment_uuid", "")
+        elif isinstance(first, str):
+            deployment_uuid = first
     if not deployment_uuid:
-        message = str(data.get("message", "")).replace("\n", " ")[:300]
-        message = re.sub(r"\b\d+\|[A-Za-z0-9]+\b", "<redacted>", message)
-        print(f"Coolify deploy response fields: {sorted(data.keys())}; message: {message}", file=sys.stderr)
+        first = items[0] if isinstance(items, list) and items else None
+        first_fields = sorted(first.keys()) if isinstance(first, dict) else []
+        entry_message = safe_message(first.get("message", "")) if isinstance(first, dict) else ""
+        item_count = len(items) if isinstance(items, (list, dict)) else "unknown"
+        print(
+            f"Coolify deploy response fields: {sorted(data.keys())}; "
+            f"deployments type: {type(items).__name__}; count: {item_count}; "
+            f"first entry type: {type(first).__name__}; first entry fields: {first_fields}; "
+            f"message: {safe_message(data.get('message', ''))}; entry message: {entry_message}",
+            file=sys.stderr,
+        )
 elif isinstance(data, list) and data and isinstance(data[0], dict):
     deployment_uuid = data[0].get("deployment_uuid", "")
 print(deployment_uuid)
