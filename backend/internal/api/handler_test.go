@@ -30,6 +30,13 @@ func TestPublicAPINeverRegistersAdminWrites(t *testing.T) {
 	if w.Code != 200 {
 		t.Fatal("health failed")
 	}
+	var health map[string]string
+	if err := json.Unmarshal(w.Body.Bytes(), &health); err != nil {
+		t.Fatalf("decode health response: %v", err)
+	}
+	if health["status"] != "ok" || health["build"] != BuildID {
+		t.Fatalf("unexpected health response: %#v", health)
+	}
 }
 func TestUnpublishedCanonIs404AndPublicAPIWorksIndependently(t *testing.T) {
 	db := testdb.Open(t)

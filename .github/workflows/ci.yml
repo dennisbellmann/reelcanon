@@ -40,6 +40,8 @@ jobs:
           cache-dependency-path: frontend/package-lock.json
       - run: make install
       - run: make ci
+      - name: Build production container
+        run: docker build --tag reelcanon:ci .
       - run: cd frontend && npx playwright install --with-deps chromium
       - run: make test-e2e
 
@@ -80,6 +82,7 @@ jobs:
           : "${VPS_DEPLOY_KEY:?Set repository secret VPS_DEPLOY_KEY}"
           : "${COOLIFY_DEPLOY_TOKEN:?Set repository secret COOLIFY_DEPLOY_TOKEN}"
           : "${COOLIFY_READ_TOKEN:?Set repository secret COOLIFY_READ_TOKEN}"
+          [[ "$VPS_DEPLOY_HOST" =~ ^[a-zA-Z0-9.-]+$ ]]
           [[ "$COOLIFY_SERVICE_UUID" =~ ^[a-zA-Z0-9_-]+$ ]]
           [[ "$GITHUB_SHA" =~ ^[0-9a-f]{40}$ ]]
           install -d -m 700 "$HOME/.ssh"
@@ -103,7 +106,7 @@ jobs:
           scp "${ssh_args[@]}" "$archive" "$remote:/tmp/reelcanon-${GITHUB_SHA}.tar.gz"
           scp "${ssh_args[@]}" deploy/deploy-release.sh "$remote:/tmp/reelcanon-deploy-${GITHUB_SHA}.sh"
           printf '%s\n%s\n' "$COOLIFY_DEPLOY_TOKEN" "$COOLIFY_READ_TOKEN" | ssh "${ssh_args[@]}" "$remote" \
-            "bash /tmp/reelcanon-deploy-${GITHUB_SHA}.sh '$GITHUB_SHA' '$COOLIFY_SERVICE_UUID'"
+            "bash /tmp/reelcanon-deploy-${GITHUB_SHA}.sh '$GITHUB_SHA' '$COOLIFY_SERVICE_UUID' 'https://${VPS_DEPLOY_HOST}/reelcanon/api/v1/healthz'"
       - name: Remove temporary release files from VPS
         if: always()
         shell: bash
